@@ -1,0 +1,107 @@
+«Молодий вчений» • № 11 (87) • листопад, 2020 р.
+DOI: https://doi.org/10.32839/2304-5809/2020-11-87-93 УДК 811.111-26
+
+
+
+Задачіна О.В., Волощук І.П.
+Національний технічний університет України
+
+«Київський політехнічний інститут імені Ігоря Сікорського»
+ПЕРЕКЛАД СУБ’ЄКТНО-ОЦІНОЧНОЇ МОДАЛЬНОСТІ У ФАХОВОМУ МЕДИЧНОМУ ТЕКСТІ
+Анотація. Фаховий текст по праву вважається одним із головних показників світового науково-техніч- ного розвитку у ХХІ столітті. Останнім часом особливої уваги надають вивченню текстів медичного спря- мування. У сучасному перекладознавстві такий стрімкий розвиток суспільства, особливо медичної сфери, та виникнення нових перекладознавчих тенденцій, поповнення термінологічної системи більш спеціа- лізованою фаховою лексикою постає певним викликом для перекладача. Медичний текст є цікавий за будовою завдяки категорії модальності, яка слугує засобом вираження ставлення автора до написаного, та різними дослідниками вважається граматичною, синтаксичною чи семантичною категорією. У нашому дослідженні особлива увага приділяється суб’єктно-оціночній модальності, який необхідний для вира- ження офіційної ввічливості.
+Ключові слова: фаховий текст, медичний текст, категорія модальності, текстова категорія, суб’єктивно- оціночна модальність.
+
+
+       Постановка проблеми. Постійні відкрит- тя та науково-технічний прогрес роблять дослідження тексту необхідним на всіх його структурних рівнях. Вивчення категорій тексту- альності , ознак тексту та його характеристик не- обхідно для подальших лінгвістичних розробок. Категорія модальності залишається до кінці не розгаданою категорією тексту, особливо медич- ного. Оскільки у дослідженні проводиться аналіз англомовних та україномовних фарма-текстів, важливим питанням залишається перекладоз-
+навчий аспект суб’єктно-оціночної модальності.
+   Аналіз останніх досліджень і публікацій. Для аналізу та розробки власних висновків сто- совно категорії модальності, до уваги були взяті праці О. І. Бєляєвої, Ш. Баллі, З. К. Долгополової, В. В. Виноградова, Л. С. Єрмолаєвої, Ф. Р. Палме- ра, Г. О. Золотової, В. З. Панфілова та ін. Варто за- значити, що ми не обмежувалися роботами лише
+© Задачіна О.В., Волощук І.П., 2020
+
+класиків лінгвістичної сфери, адже дослідження тривають досі, оскільки модальні слова та слово- сполучення є одними із найбільш неоднозначних лексико-граматичних елементів.
+   Виділення не вирішених раніше частин загальної проблеми. Особлива увага приділе- на аналізу перекладацьких трансформацій, за- стосованих для перекладу категорії модальності у медичних текстах, а саме, інструкціях до ме- дичних препаратів.
+   Мета статті.  Головною  метою  цієї  роботи  є дослідження категорії модальності, а саме суб’єктивно-оціночного типу та шляхи її відтво- рення в англомовних та україномовних медич- них інструкціях.
+   Виклад основного матеріалу. Модальністю тексту називають відношення автора тексту, зазви- чай оціночне, до дійсності. Поняття модальності по- ходить від лат. “modus”, та означає міра, спосіб. Це
+
+функціонально-семантична категорія, яка передає різні типи  відношень  висловлювання  з дійсністю і суб’єктивно-кваліфікаційні види  повідомлення [9, с. 303]. Сутнісні характеристики самого об’єкту модальності визначають зміст модальності.
+   Варто зазначити, що вперше поняття модаль- ності було застосовано ще Аристотелем у логі- ці, а потім Кантом у математиці та лінгвістиці. В логіці модальність є найсуттєвішою ознакою роздумів як форми мислення. Вона реалізується як категорія, у якій судження класифікуються залежно від характеру зв’язків між його озна- кою та предметом, тобто залежно від різновиду об’єктивних зв’язків, що відображаються у ньо- му, або ступені достовірності думок, які переда- ються у судженні [1, с. 148].
+   Науковці, які досліджували модальність дотри- муються різної її класифікації як категорії грама- тичної, синтаксичної ч семантичної. Р. А. Будагов визначає модальність як граматичну категорію, а Л. С. Єрмолаєва – синтаксичну (лексичні засоби залишаються поза межами), при цьому В. В. Ви- ноградов, Г. В. Колшанський, І. Б. Хлєбнікова – як семантичну (модальність може виражатися гра- матичними, лексичними, лексико-граматични- ми, інтонаційними засобами) [3, c. 17].
+   У категорії модальності можна виділити три аспекта: 1. загальна модальність (основна): пові- домлення; питання; наказ; побажання; 2. волюн- тативна модальність – відношення суб’єкта до дії;
+3. модальність істинності (правдивость) – впевне- ність мовця у змісті висловлювання. Тим не мен- ше, існує також інший підхід до виділення аспек- тів модальності: 1. ставлення мовця до дійсності за допомогою висловлювання; 2. відношення мовця до сказаного; 3. зв’язок суб’єкта дії та самої дії. Все ж таки лінгвісти, у цілому, дотримують- ся думки, що дана категорія відображає два види логіко-граматичних зв’язків: 1. зв’язок змісту ре- чення із об’єктивною дійсністю та 2. відношення мовця до змісту висловлювання (речення).
+   Іншу класифікацію категорії модальності пропонує у своїх роботах Л. С. Єрмолаєва, вона стверджує, що модальність варто ділити лише на «внутрішню» та «зовнішню». Таким чином, внутрішньою модальністю називають співвідно- шення виконавця дії зі здійснюваною ним дією, а зовнішньою називають зв’язок змісту речення та дійсності з точки зору реальності чи ірреаль- ності (І тип) та рівень упевненості суб’єкта у фак- тах, про які йдеться у висловлювані (ІІ тип).
+   У нашому дослідженні ми керуємося по- ділом   модальності   на   об’єктивно-оціночну   та суб’єктивно-оціночну. Говорячи про оціночну модальність, основним засобом вираження ка- тегорії такого типу є категорія способу дієслова. Реальна об’єктивна модальність у такому випад- ку виражається часовими формами дієслова дій- сного способу. При цьому, ірреальні об’єктивно- модальні елементи набувають форми умовного способу дієслів [8, с. 215].
+   Незважаючи на те, що суб’єктивна модальність виражає ставлення суб’єкта до висловлювання (зго- да / незгода, впевненість / невпевненість, експресив- ну оцінку), вона виступає додатковою ознакою ком- поненту мови. Її семантика є значно ширшою, ніж семантичний об’єм об’єктивної модальності. Цей тип модальності вирізняється своїми характерними
+
+ознаки: модальними словами та дієсловами, лексич- ними повторами, вставними словами та словоспо- лученнями, вставними реченнями,  порядком  слів у реченнях, інтонацією, вигуками [6, с. 180]. Можна стверджувати, що смислова основа суб’єктивної мо- дальності впливає на формування поняття оцінки в найширшому його розумінні.
+   Отже, варто навести приклади засобів для ви- раження модальності, які Н. А. Кобріна поділя- ються помістила до такої класифікації:
+   – слова для вираження впевненості: of course, certainly, surely,, indeed, no doubt, decidedly, definitely, really, naturally etc;
+   – слова для вираження припущень: maybe, perhaps, probably, possibly, obviously, apparently, evudently etc;
+   – слова для оцінки бажаності – небажанос-  ті висловлювання: happily, unluckily, luckily, fortunately, unfortunately etc [4, с. 180].
+   Дослідження перекладу суб’єктивної модаль- ності є однією із найбільш суперечливих проблем лексико-граматичного рівня мови. Основною при- чиною цього твердження можна вважати значні розбіжності у семантиці та кількості модальних слів в англійській та українській мовах. Щоб переклад був не лише адекватним, але й макси- мально точним, обов’язковим для перекладача є опанування засобів модальності в обох мовах.
+   Суб’єктно-оціночна модальність, у розгляну- тих нами медичних інструкціях, виражається за допомогою модальних дієслів: may, need, should, can, could; їхніх заперечних відповідників: may not, should not; пасивних форм Modal+Passive Infinitive: should not be given, should be sent, may be prescribed та модальних слів, наприклад, likely. Говорячи про ці елементи мови, варто зазначити, що в українській мові вони мають свої еквівален- ти, проте не завжди перекладаються саме так.
+   Зміст медичних інструкцій вимагає чіткос-  ті, та не відзначається експресивно-емоційною оцінкою. У текстах перекладу інструкцій, мо- дальність досить часто зберігається. Текст набу- ває приказного виду, сприймається як наказ та настанова: Keep this leaflet, you may want to read it again. – Не викидайте для повторного вико- ристання. У наведеному прикладі, речення із використанням модального дієслова переклада- ється за допомогою антонімічного перекладу, а сама конструкція вилучається.
+   Окрім трансформації вилучення перекла- дач вдається до описового перекладу елементів речення. Це пов’язано із насиченістю медич- них текстів термінологічними одиницями, які в окремих випадках не можна ні калькувати, ні перекласти за допомогою еквівалентного відпо- відника. Patients should be advised not to take the paracetamol-containing products concurrently. – Не приймати препарат з іншими засобами, що містять парацетамол.
+   Аби зберегти сенс та інтенцію автора, під час перекладу застосовують модуляцію. За допомо- гою цього прийому модальне дієслово, слово чи конструкція вилучаються, але його зміст ком- пенсується  за  рахунок  певних  змін  у реченні:
+…may help to restore your interest in daily living. – Сприяє     відновленню     життєвого   інтересу;
+…the general dosage should be administered in cycles. – …препарат слід приймати циклічно.
+
+
+
+   Якщо модальна конструкція знаходиться у складному поширеному реченні, то неможливо обійтися без комплексної трансформації, та пе- рестановки: May be combined to other natural or conventional immunomodulating therapies and medications. – Препарат можна застосовувати з іншими імуномодолюючими ліками.
+   Найменш поширеним способом перекладу модальних конструкцій є застосування синтак- сичного уподібнення, коли зберігається не лише граматична структура вихідного  речення,  але й модальності: This product may contain inactive ingredients, which can cause allergic reactions or other problems. – Цей продукт може містити не- активні компоненти, які можуть спричинити алергічні реакції або інші проблеми; This drug may make you dizzy or drowsy. – Препарат може викликати запаморочення та сонливість.
+   Висновки і пропозиції. Отже, досліджуючи категорію модальності на прикладі медичних тек- стів, а саме інструкцій до медичних препаратів, можна дійти висновку, що категорія модальності
+
+
+є часто застосовуваною по відношенню до такого типу тексту. Під час перекладу, найтиповішим є ви- користання різного типу граматичних трансформа- цій. Розглянувши декілька прикладів модальних речень в інструкціях та провівши перекладаць- кий аналіз, було встановлено, що найчастотнішим є залучення таких трансформацій вилучення, пе- рестановки, комплексної трансформації. Значно рідше перекладач вдається до синтаксичного упо- дібнення, що пояснюється розбіжністю граматики української та англійської мови. Зважаючи на тер- мінологічну насиченість тексту, доцільним є також використання певних лексичних трансформацій. До їх числа відноситься модуляція, калькування, описовий та еквівалентний переклад. Таким чи- ном, вилучення або збереження категорії модаль- ності при перекладі фарма-текстів повністю зале- жить від перекладача. Підсумовуючи викладений матеріал, приходимо до висновку, що використан- ня перекладацьких трансформацій дає змогу змі- нювати вихідний текст із мінімальними втратами сенсу, інформативності та модальності.
+
+Список літератури:
+1. Бурлакова В. В. Теоретическая грамматика английского языка. Ленигнград : Изд-во Ленинградского уни- верситета, 1983. 255 с.
+2. Войналович Л. П. Модальність як багатоаспектна лінгвістична категорія. Наукові записки НДУ ім. М. Гоголя.
+Випуск Філологічні науки, № 3, 2013. С. 28–32.
+3. Карасик В. И. О типах дискурса В.И. Карасик. Языковая личность: институциональный и персональный дискурс. Волгоград : Перемена, 2000. С. 5–20.
+4. Кобрина Н. А. Грамматика английского языка: Морфология. Москва : Просвещение, 1985. 288 с.
+5. Міщенко А. Л. Лінгвістика фахових мов та сучасна модель науково-технічного перекладу. Вінниця : Нова Книга, 2013. 448 с.
+6. Пьеге-Гро Н. Введение в теорию интертекстуальности. Москва : ЛКИ, 2008. 240 с.
+7. Селіванова О. О. Основи теорії мовної комунікації. Черкаси : Видавництво Чабаненко Ю. А., 2011. 350 с.
+8. Швейцер А. Д. Теория перевода: Статус, проблемы, аспекты. М. : URSS, 2011. 216 c.
+9. Якобадзе Д. З. Изучение грамматических особенностей в английском языке на примере медицинского текста. URL: http://xn--80ajonoehe5g.xn--p1ai/2011-03-29-09-03-14/152-special-education/15869-Izuchenie_grammaticheskikh_ osobennostey_v_angliyskom_yazyke_na_primere_meditsinskogo_teksta.html (дата звернення: 15.11.2020).
+10. Panadol Baby & Infant Suspension. URL: http://likicontrol.com.ua/%D1%96%D0%BD%D1%81%D1%82%D1%80
+%D1%83%D0%BA%D1%86%D1%96%D1%8F/?[34797] (дата звернення: 20.11.2020).
+11. Panadol Baby & Infant Suspension. URL: https://www.drugs.com/uk/panadol-baby-and-infant-suspension-leaflet.html (дата звернення: 20.11.2020).
+12. Fluoxetine. URL: https://www.medicinenet.com/fluoxetine-oral/article.htm (дата звернення: 22.11.2020).
+13. Engistol. URL: http://www.heel.ca/upload/Engystol_PF_Ang_Oct2009_7294.pdf (дата звернення: 25.11.2020).
+14. Панадол для дітей. URL: http://mediclab.com.ua/index.php?newsid=132 (дата звернення: 20.11.2020).
+15. Флюоксетин. URL: http://likicontrol.com.ua/%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D 1%86%D1%96%D1%8F/?[27067] (дата звернення: 22.11.2020).
+16. Флюоксетин. URL: https://www.medicines.org.uk/emc/product/6512/smpc (дата звернення: 22.11.2020).
+17. Енгістол. URL: https://compendium.com.ua/dec/281527/ (дата звернення: 25.11.2020).
+18. Енгістол. URL: http://likicontrol.com.ua/%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%8 6%D1%96%D1%8F/?[26450] (дата звернення: 25.11.2020).
+References:
+1. Burlakova V. V. (1983). Teoretycheskaia hrammatyka anhlyiskoho yazyka [Theoretical English grammar]. Leningrad: Yzd-vo Lenynhradskoho unyversyteta, 255 p.
+2. Voinalovych L. P. (2013). Modalnist yak bahatoaspektna linhvistychna katehoriia naukovi zapysky [Modality as a multifaceted linguistic category]. NDU im. M. Hoholia. Filolohichni nauky (electronic journal), no. 3, pp. 28–32.
+3. Karasyk V. Y. (2000). O typakh dyskursa [On the types of discourse. Linguistic Personality: Institutional and Personal Discourse]. Volhohrad: Peremena, pp. 5–20.
+4. Kobryna N. A. (1985). Hrammatyka anhlyiskoho yazyka: Morfolohyia [English Grammar: Morphology]. Moscow: Prosveshchenye, 288 p.
+5. Mishchenko A. L. (2013). Linhvistyka fakhovykh mov ta suchasna model naukovo-tekhnichnoho perekladu [Linguistics of professional languages and modern model of scientific and technical translation]. Vinnytsia: Nova Knyha, 448 p.
+6. Pehe-Hro N. (2008). Vvedenye v teoryiu yntertekstualnosty. Moskva: LKY, 240 p.
+7. Selivanova O. O. (2011). Osnovy teorii movnoi komunikatsii [Fundamentals of the theory of language communication]. Cherkasy: Vydavnytstvo Chabanenko Y. A., 350 p.
+8. Shveitser A. D. (2011). Teoryia perevoda: Status, problemy, aspekty [Translation theory: Status, problems, aspects.]. Moscow: URSS, 216 p.
+9. Iakobadze D. Z. (2020). Yzuchenye hrammatycheskykh osobennostei v anhlyiskom yazyke na prymere medytsynskoho teksta [The study of grammatical features in English using the example of a medical text].
+
+Obrazovatelnyi portal (electronic journal). Available at: http://xn--80ajonoehe5g.xn--p1ai/2011-03-29-09- 03-14/152-special-education/15869-Izuchenie_grammaticheskikh_osobennostey_v_angliyskom_yazyke_na_ primere_meditsinskogo_teksta.html (accessed 15 November 2020).
+10. Panadol Baby & Infant Suspension Paracetamol. Available at: http://likicontrol.com.ua/%D1%96%D0%BD%D1% 81%D1%82%D1%80%D1%83%D0%BA%D1%86%D1%96%D1%8F/?[34797] (accessed 20 November 2020).
+11. Panadol Baby & Infant Suspension Paracetamol. Available at: https://www.drugs.com/uk/panadol-baby-and- infant-suspension-leaflet.html (accessed 20 November 2020).
+12. Fluoxetine. Available at: https://www.medicinenet.com/fluoxetine-oral/article.htm (accessed 22 November 2020).
+13. Engistol. Available at: http://www.heel.ca/upload/Engystol_PF_Ang_Oct2009_7294.pdf (accessed 25 November 2020).
+14. Panadol dlia ditei. Available at: http://mediclab.com.ua/index.php?newsid=132 (accessed 20 November 2020).
+15. Fliuoksetyn. Available at: http://likicontrol.com.ua/%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0% BA%D1%86%D1%96%D1%8F/?[27067] (accessed 22 November 2020).
+16. Fliuoksetyn. Available at: https://www.medicines.org.uk/emc/product/6512/smpc (accessed 22 November 2020).
+17. Enhistol. Available at: https://compendium.com.ua/dec/281527/ (accessed 25 November 2020).
+18. Enhistol. Available at: http://likicontrol.com.ua/%D1%96%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA
+%D1%86%D1%96%D1%8F/?[26450 (accessed 25 November 2020).
+
+
+
+
+
+Zadachina Olena, Voloschuk Iryna National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute”
+TRANSLATION OF SUBJECT-EVALUATIVE MODALITY IN A PROFESSIONAL MEDICAL TEXT
+Summary. Professional text is rightly considered one of the main indicators of world scientific and technologi- cal development in the XXI century. Recently, special attention has been paid to the study of medical texts. In modern translation studies, such a rapid development of society, especially in the medical field, and the emer- gence of new translation studies trends, the replenishment of the terminological system with more specialized professional vocabulary is a challenge for the translator. The medical text is interesting in structure due to the category of modality, which serves as a means of expressing the author's attitude to what is written, and is considered by various researchers as a grammatical, syntactic or semantic category. In addition, linguists do not stand in solidarity on defining and classifying modality, that follows from its comprehensive study.    At present, the study of modality occupies a leading place in linguistics, due to the complexity and diversity  of the category. Means of modality are studied at different levels: formal-syntactic, communicative-functional, semantic-syntactic and, of course, textual. The modality of the text responds on the attitude of the author of the text, usually evaluative, to reality. The essential characteristics of the modality object itself determine the content of the modality. According to different approaches, it is divided into “external”, “internal”, general, vol- untary, true, as well as objective-evaluative and subjective-evaluative. In our study, special attention is paid to the subjective-evaluative modality, which is necessary to express official politeness. It can be argued that the semantic basis of subjective modality influences the formation of the concept of evaluation in its broadest sense. It is not only about the logic of the presentation of information, but also the different types of emotional reac- tion of the person. The main linguistic means for expressing this type of modality have also been established, which include the use of modal verbs, modal words, and modal passive constructions.
+Keywords: professional text, medical text, modality category, text category, subjective-evaluation modality.

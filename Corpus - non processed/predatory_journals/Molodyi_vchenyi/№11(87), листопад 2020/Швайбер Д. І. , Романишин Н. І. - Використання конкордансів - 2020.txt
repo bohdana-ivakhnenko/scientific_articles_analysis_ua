@@ -1,0 +1,134 @@
+«Молодий вчений» • № 11 (87) • листопад, 2020 р.
+DOI: https://doi.org/10.32839/2304-5809/2020-11-87-110 УДК 81’38/’42
+
+
+
+Швайбер Д.І., Романишин Н.І.
+Національний університет «Львівська політехніка»
+
+ВИКОРИСТАННЯ КОНКОРДАНСІВ ТА КОРПУСНИХ ТЕХНОЛОГІЙ ДЛЯ ДОСЛІДЖЕННЯ КОНЦЕПТУ ЗДОРОВ’Я/HEALTH
+Анотація. У статті розглянуто конкорданс як вид словника сполучуваності, що дозволяє аналізувати різні контексти, виводити з них відтінки значення слова, моделювати смислові поля слів-корелятів в різних мо- вах. Метою статті є розкриття методики використання технологій укладання корпусів текстів та конкордан- сів для побудови номінативного поля концепту ЗДОРОВ’Я/HEALTH в англійських та українських медіа тек- стах. Матеріалом дослідження стали корпуси англійських та українських медіа текстів на тему медицини та здоров’я. Проілюстровано, застосування конкордансу для визначення ключових слів-вербалізаторів дослі- джуваного концепту; з’ясування частотності їх вживання, аналізу їхньої семантики лексем, сполучуваності та дистрибуції. Визначено необхідність використання в сучасній лексикографії даних електронних корпусів текстів визначає актуальність дослідження концептуальних засад укладання корпусних словників.
+Ключові слова: корпусна лінгвістика, корпус текстів, конкорданс, ключове слово, концепт.
+
+       Постановка проблеми. Завдання роз- роблення й удосконалення прикладних  систем автоматичного аналізу тексту й укладан- ня словників потребують дослідження великих обсягів природно-мовних текстів електронних корпусів. Ефективність розв’язання прикладних завдань опрацювання текстової інформації зна- чною мірою залежить від вибору підходів і теоре- тичних пріоритетів, визначальних для методоло- гії дослідження. Загальне визнання необхідності використання в сучасній лексикографії даних електронних корпусів текстів визначає акту- альність дослідження концептуальних засад
+укладання корпусних словників.
+   Аналіз останніх досліджень і публікацій. Використання конкордантних та корпусних техно- логій (праці А. Маккарті та Р. Картера, О'Кіффа) за- звичай пов’язане у лінгвістиці з вивченням семан- тики мовних одиниць на основі підрахунку частоти
+© Швайбер Д.І., Романишин Н.І., 2020
+
+слів, ключових слів, кластерного аналізу тощо, лек- сичного та граматичного профілю [4, c. 12].
+   У галузі прикладної лінгвістики конкордан- си особливо визнані мовознавцями завдяки но- вим можливостям ефективного вивчення мови та обробки лексичного матеріалу на основі тек- стів різних видів. Конкорданси дозволяють не лише продемонструвати можливість реалізації лексичного значення в тексті, а й сприяють ви- значенню ролі лексичної одиниці у формуванні словесних образів [4, с. 203–211].
+   Мета статті є розкриття методики викорис- тання технологій укладання корпусів політич- них текстів та конкордансів для побудови номі- нативного поля концепту  ЗДОРОВ’Я/HEALTH в англійських та українських медіа текстах. Матеріалом дослідження стали корпуси англій- ських та українських медіа текстів на тему меди- цини, здоров’я та коронавірусу.
+
+   Виклад основного матеріалу досліджен- ня. Робота користувачів з корпусом здійснюється за допомогою спеціалізованих програмних за- собів – корпусних менеджерів, які надають різ- номанітні можливості по отриманню з корпусу необхідної інформації, а саме:
+– пошук конкретних словоформ;
+– пошук словоформ по лемах;
+   – пошук групи словоформ у вигляді розривної або нерозривної синтагми;
+   – пошук словоформ по набору морфологічних ознак;
+   – відображення інформації про походження, тип тексту тощо;
+   – висновок результатів пошуку із зазначен- ням контексту заданої довжини;
+   – отримання різних лексико-граматичних статистичних даних;
+   – збереження відібраних рядків  конкордансу в окремому файлі на комп'ютері користувача тощо. Результати пошуку зазвичай видаються у ви- гляді конкордансу (тому корпусні менеджери ще називають конкордансерами), де шукана одиниця представлена в її контекстному оточенні і у вигля- ді статистичних даних. Останні можуть фіксувати частотні характеристики окремих мовних одиниць, або грамем, або можуть характеризувати частоту
+сполучуваності декількох лексичних одиниць.
+   Конкорданс – алфавітний перелік усіх слів якого-небудь тексту з наведенням контекстів їх використання [16, c. 57]. Програми-конкорданси використовуються у найрізноманітніших сфе- рах: навчання та вивчення мови, пошук та ана- ліз мовних даних, переклад та мовна інженерія, корпусна лінгвістика, лексикографія, контент- аналіз у бухгалтерії, історії, маркетингу, музиці, політиці, географії, журналістиці тощо.
+   З допомогою конкордансу, можна створити ін- декси та глосарії, підрахувати частоту вживання слова, порівняти різні вживання слова, проаналізу- вати ключові слова, знайти фразеологізми та ідіоми, створити конкорданс одного автора, і так далі. Голо- вним завданням конкордансу є відображення всіх зареєстрованих в деяких текстах випадків вживан- ня слова. На відміну від словника, який ставить на чільне місце словникову статтю, конкорданс наво- дить приклади – праві і ліві контексти слова. У да- ній статті ми розглядаємо конкорданс як один з ін- струментів навчальної та дослідницької діяльності.
+   С.Ю. Толдов [9, c. 11] зазначає, що конкордан- си використовуються для вирішення наступних лінгвістичних завдань:
+   – порівняння різних можливостей вживання одного і того ж слова;
+– аналіз ключових слів;
+– аналіз частоти слів та фраз;
+– пошук та дослідження фраз та ідіом;
+– пошук перекладу;
+– створення списків слів.
+   Основна риса, яка робить конкорданси над- звичайно вагомими у процесі аналізу мовного матеріалу, є їх здатність показати кожне місце  в тексті, де використовується певне задане слово чи словосполучення.
+   Найбільш поширеним  видом  відображен-  ня конкордансу є формат KWIC (ключове слово в контексті), за якого ключове слово розміщуєть- ся по центру стрічки, а навколо нього показу-
+
+ються приблизно 35 символів до та після. Також може показуватися посилання (як, наприклад, номер стрічки) з метою подальшого відновлення контексту в разі необхідності.
+   Відомо, що вибірку мовних одиниць зазвичай проводять з використанням корпусів текстів. Їх (корпусів) зараз надзвичайно багато для бага- тьох мов та підмов, як наприклад, Міжнародний корпус англійської мови і Британський націо- нальний корпус (British National Corpus), Кор- пуси українських текстів: новини, Вікіпедія, ху- дожні тексти, веб – доступні для завантаження (http://lang.org.ua/uk/corpora/).
+   З допомогою програми-конкордансу, особливо- го типу комп’ютерної програми, яка здійснює по- шук по корпусу та представляє результати цього пошуку в особливій формі, можна виявити специ- фіку певних мовних та дискурсивних процесів.
+   Конкорданс відображає всі випадки вжи- вання слова в тому чи іншому тексті, корпусах текстів. Таким чином, здійснюємо пошук за клю- човими словами та визначаємо частоту їх вжи- вання (див. табл. 1, рис. 3, 4).
+   Конкорданс – це програма, що дозволяє аналі- зувати великі масиви тексту на предмет виявлен- ня закономірностей використання в мові слів або виразів. Конкорданс здійснює пошук запитуваної слова в корпусі і видає в новому вікні кілька фраг- ментів пропозицій з різних текстів, в яких вико- ристовується дане слово або вираз [16, c. 9].
+   Програми-конкордансери також можуть вико- ристовуватися як інструмент для вивчення зна- чення слова. Проілюструємо це на прикладі ро- боти з програмою – конкодансером Ant.Conc. На підставі отриманих результатів конкордансу мож- на як зрозуміти значення даного слова з контек- сту, так і провести аналіз його вживання в мові. В таблиці 1 представлений приклад результатів пошуку слів хвороба і virus. Даний приклад чітко показує, що конкорданс видає кожне слово в контексті його реального використання.
+   Результати пошуку можна використовувати для уточнення слововживання і виведення правил ви- користання певних слів і виразів в мові, виявлення декількох значень одного і того ж слова а також для вивчення граматичної будови мови (див. рис. 1-2).
+   Механізм словника-конкордансу є досить про- стим. Словниковим входом служить словоформа. Вона розміщується в центрі рядка і відокрем- ляться від тексту прикладу пробілами зліва, як на рис. 1 та 2 (тобто, тут є можливе використання і інших способів виділення)» [6, с. 74].
+   В таблиці 1 здійснюємо пошук за ключовими сло- вами в англійській мові – «health», «disease», «virus»,
+«covid»,  «isolation»,  «coronavirus»,  «death», «vaccine»,
+«antibodies»,     «illness»,     «quarantine»,    «epidemic»,
+«pandemic»; в таблиці 2 – пошук за ключовими сло- вами в українській – «коронавірус», «вірус», «каран- тин»,  «хвороба»,  «здоров’я»,  «вакцина»,  «смерть»,
+«ізоляція» «антитіла», «пандемія», «епідемія».
+   За результатами аналізу всіх зареєстрованих в конкордансі слововживань ключових слів кор- пусу статей встановлено, що ці слова вживаються в певних значеннях, мають різну сполучуваність з іншими частинами мови, найчастіше це при- кметники, які посилюють  значення  іменника  у вигляді епітета чи порівняння, прикметники та дієслова. Наприклад:
+
+
+
+
+
+Рис. 1. Приклад роботи програми конкордансів Ant.Conc для пошуку ключового слова «virus»
+
+Рис. 2. Приклад роботи програми конкордансів Ant.Conc для пошуку ключового слова «хвороба»
+
+
+   – прикметник: predicting, unexpected, unrecorded, swedish, statistical, relating, rampant, confirmed, experimental, global, soaring, positive, original, far, local, effective, undergoing, positive, weeks-long, negative, self-isolating, severe та ін.; шалений, черговий, специфічний, страшніший, дивовижний, китайський, стримінговий, пози- тивний, хронічний, ключовий тощо.
+   – дієслова: to lose, to damage, to hospitalize, to contact, to issue, to count, to rise, to fight, to disrupt, to tackle, to harm, to claim, to be infected with, to boost, to keep, to collapse та багато інших; проті-
+
+кати, знищувати, рекомендувати, виділити, заражати, інфікуватися, кашляти, втомлю- ватись, припускати, зупинити, відстежити, госпіталізувати, попереджати тощо.
+   Під час пошуку за ключовими словами у кон- кордансі, спостерігаємо частотність метафорич- них способів актуалізації концепту, наприклад: hate from the left, be from mild to severe, be assigned to an outbreak, proceed with no symptoms, the news has prompted record share та ін.; прилипати до поверхні віруса, прогнозувати стан хворого, по- долали спалах кору, протікати безсимптовно,
+
+
+
+
+Таблиця 1. Кількісний аналіз ключових слів концептосфери ЗДОРОВ’Я/ HEALTH
+
+Рис. 3. Порівняльна діаграма вживання найбільш вживаних ключових слів концептосфери ЗДОРОВ'Я
+
+Рис. 4. Частотний аналіз найбільш вживаних ключових слів концептосфери HEALTH в англомовному медіа-дискурсі
+
+повернутись з минулого, спровокувати масовий спалах, не віщувати біди, «оголосити війну» фей- кам, вбивати лише багатих, триматися в пові- трі, залишатися назавжди, корона вірус вбиває лише багатих,злягти з корона вірусом тощо.
+   Конкорданси можуть бути представлені і в ін- ших формах, зручних для користувачів і відпо- відати конкретним завданням. При необхідності на екрані може бути відображена додаткова ін- формація (про джерело прикладу – найменуван- ня, тип, варіант англійської / української мови).
+   Висновки. Конкорданс як особливий тип слов- ника представляє інтерес для лінгвістів, перш за все, як джерело інформації. Це словник, який ві- зуалізує впорядковану базу контекстів вживання слова в межах аналізованого тексту. Структура
+
+конкордансу, як і будь-якого іншого типу слов- ника, повинна варіюватися в залежності від типу тексту, його родової, жанрової приналежності.
+   Конкорданс є надійною інформаційною базою, що дозволяє досліднику в залежності від постав- лених завдань обрати свій метод аналізу та інтер- претації. За допомогою методик стиснення кон- кордансу і концептуального аналізу словникової статті конкордансу можна зробити висновок про місце лексеми в структурі актуалізованого лек- сикону, її семантичних і граматичних особливос- тях, синтагматических зв'язках, а також виявити імпліцитні смисли, вербалізовані лексемою, у мо- делюванні концепту. Лінгвістичний корпус і про- грама конкорданс можуть також значно оптимізу- вати процес вивчення іноземних мов.
+
+Список літератури:
+1. Аскольдов С. А. Концепт и слово / Русская словесность: антология / под. ред. В.Н. Нерознака. Москва, 1997. С. 267–280.
+2. Загорійчук А., Орловська О. Методи лінгвістичних досліджень. URL: http://intkonf.org/zagoriychuk-a-kpn- orlovska-ov-metodi-lingvistichnihdosl idzhen
+3. Лабенко О. В. Концептуалізація образу ХВОРОБИ в текстах зачинів українських, англійських та французь- ких замовлянь: структура, семантика, символізм. Теоретична і дидактична філологія : збірник наукових праць. Вип. 25. Переяслав-Хмельницький, 2017. С. 218–226.
+4. Мартінек С. Концептосфера здоров’я в українській мовній картині світу. Вісник Львівського університету. Серія філологічна. Вип. 70. 2019. С. 234–247.
+5. Петкау А. Ю. Концепт здоровье в советской социальной рекламе. Лингвистический, социальный, историко- культурный, дидактический контексты функционирования русского языка как государственного языка Рос- сийской Федерации : сб. материалов межрегион. конф. Волгоград, 2014. С. 521–526.
+6. Петкау А. Ю. Концепт здоровье: перцептивный образ. Русский язык: исторические судьбы и современность : тр. и материалы междунар. конгресса исследователей русского языка. Москва, 2014. С. 126.
+7. Печенікова Л. М. Концепт здоров’я в системі мови (на матеріалі праць ХНПУ ім. Г. С. Сковороди). Вип. 31. 2011. С. 10–13.
+8. Соснина  Е.  П.  Корпусная  лингвистика  и  корпусный  подход  в   обучении   иностранному   языку.   URL: http://ling.ulstu.ru/linguistics/resourses/literature/articles/corpus_linguistics_language_teaching/
+9. Толдова С. Ю. Конкорданс. URL: http://www.lomonosovfund.ru/enc/ru/encyclopedia:0127200
+10. Ball C. N. Tutorial: Concordances and Corpora. URL: http://www.geo rgetown.edu/cball/corpora/tutorial.html
+11. Corpus Concordance English. URL: http://lextutor.ca/conc/eng/
+12. Kennedy G. (1998). An Introduction to Corpus Linguistics. London.
+13. Leech G. (1991). The State of Art in Corpus Linguistics. English Corpus Linguistics / Aijmer K., Altenberg B. (eds.). London. P. 8–29.
+14. McEnery A., Wilson A. (1996). Corpus Linguistics. Edinburgh.
+15. Oakes M.P. (1998). Statistics for Corpus Linguistics. Edinburgh University Press, Edinburgh.
+16. Sinclair J. (1991). Corpus, Concordance, Collocation, Oxford University Press.
+References:
+1. Askoldov S.A. (1997). Kontsept y slovo. Russkaia slovesnost: antolohyia / pod. red. V.N. Neroznaka. Moscow,   pp. 267–280. (in Russian)
+2. Zahoriichuk A., Orlovska O. Metody linhvistychnykh doslidzhen. URL: http://intkonf.org/zagoriychuk-a-kpn- orlovska-ov-metodi-lingvistichnihdoslidzhen (in Ukrainian)
+3. Labenko O. V. (2017). Kontseptualizatsiia obrazu khvoroby v tekstakh zachyniv ukrainskykh, anhliiskykh ta frantsuzkykh zamovlian: struktura, semantyka, symvolizm. Teoretychna i dydaktychna filolohiia: zbirnyk naukovykh prats, vol. 25. Pereiaslav-Khmelnytskyi, pp. 218–226. (in Ukrainian)
+4. Martinek S. (2019). Kontseptosfera zdorovia v ukrainskii movnii kartyni svitu. Visnyk Lvivskoho universytetu. Seriia filolohichna, vol. 70, pp. 234–247. (in Ukrainian)
+5. Petkau A. Yu. (2014). Kontsept zdorove v sovetskoi sotsyalnoi reklame. Lynhvystycheskyi, sotsyalnyi, ystoryko- kulturnyi, dydaktycheskyi konteksty funktsyonyrovanyia russkoho yazyka kak hosudarstvennoho yazyka Rossyiskoi Federatsyy: sb. materyalov mezhrehyon. konf. Volhohrad, pp. 521–526. (in Russian)
+6. Petkau A. Yu. (2014). Kontsept zdorove: pertseptyvnyi obraz. Russkyi yazyk: ystorycheskye sudby y sovremennost: tr. y materyaly mezhdunar. konhressa yssledovatelei russkoho yazyka. Moskva, p. 126. (in Russian)
+7. Pechenikova L. M. (2011). Kontsept zdorovia v systemi movy (na materiali prats KhNPU im. H. S. Skovorody), vol. 31, pp. 10–13. (in Ukrainian)
+8. Sosnyna  E.  P.  Korpusnaia  lynhvystyka  y  korpusnyi  podkhod  v   obuchenyy   ynostrannomu   yazyku.   URL: http://ling.ulstu.ru/linguistics/resourses/literature/articles/corpus_linguistics_language_teaching/ (in Russian)
+9. Toldova S. Yu. Konkordans. URL: http://www.lomonosovfund.ru/enc/ru/ encyclope dia:0127200 (in Russian)
+10. Ball Catherine N. Tutorial: Concordances and Corpora. URL: www.george town.edu/cball/corpora/tutorial.html
+11. Corpus Concordance English. URL: http://lextutor.ca/conc/eng/
+12. Kennedy G. (1998). An Introduction to Corpus Linguistics. London.
+13. Leech G. (1991). The State of Art in Corpus Linguistics. English Corpus Linguistics / Aijmer K., Altenberg B. (eds.). London, р. 8–29.
+14. McEnery A., Wilson A. (1996). Corpus Linguistics. Edinburgh.
+15. Oakes M.P. (1998). Statistics for Corpus Linguistics. Edinburgh University Press, Edinburgh.
+16. Sinclair J. (1991). Corpus, Concordance, Collocation, Oxford University Press.
+
+
+
+
+
+Shvaiber Denys, Romanyshyn Natalia
+Lviv Polytechnic National University
+USING CONCORDANCE AND CORPORA TECHNOLOGIES TO RESEARCH THE CONCEPT OF HEALTH/HEALTH
+Summary. The article discusses the notion of concordance as a kind of dictionary of compatibility, which allows to analyze different contexts, to deduce shades of word meaning on their basis, to model semantic fields of corre- lated words in different languages. The aim of the article is to reveal the methodology of using the technologies of composing corpora of texts and concordances to build a nominative field of the concept HEALTH in English and Ukrainian media texts. The study was based on media texts on medicine, health and coronavirus in English and Ukrainian media texts (newspapers and magazines: USA Today, The Wall Street Journal, The New York Times, Los Angeles Times, The Washington Post, Vysokyi zamok, Ukrainska pravda; online edition: www.bbc. com/ukrainian/, www.bbc. com/news, time.com/, www.nytimes.com/, www.who.int; Gazeta.ua, Holos Ameryky, Hromadskyi prostir, Ukrainskyi tyzhden, Yevropeiska pravda, Hromadske.ua, Ukraina moloda and others). It   is illustrated how concordance reflects all cases of use of words in this or that text, corpora of texts; the keywords of the researched concept are searched and the frequency of their use is determined. The use of concordance and corpus technologies (works by A. McCarthy and R. Carter, O'Keefe) is usually associated in linguistics with the study of the semantics of language units based on the calculation of word frequency, keywords, cluster analysis, etc., lexical and grammatical profiles. Work of users with the case is carried out by means of the specialized soft- ware – case managers who provide various opportunities on reception of the necessary information from the case. Concordance programs are used in a variety of areas: language learning and learning, language data search and analysis, translation and language engineering, corpus linguistics, lexicography, content analysis in accounting, history, marketing, music, politics, geography, journalism, and more. With concordance, you can create indexes and glossaries, calculate the frequency of use of a word, compare different uses of the word, analyze keywords, find phrases and idioms, create a concordance of one author, and so on. The main task of the concordance is to display all cases of use of the word registered in some texts. The possibility of realization of lexical meaning in the text is demonstrated, which helps to determine the role of lexical unit in the formation of textual conceptual structure.
+Keywords: corpus linguistics, corpora, concordance, keyword, concept.
+

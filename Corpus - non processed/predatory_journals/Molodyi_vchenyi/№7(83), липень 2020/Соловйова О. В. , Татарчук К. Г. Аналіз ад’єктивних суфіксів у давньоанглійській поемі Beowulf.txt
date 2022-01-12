@@ -1,0 +1,136 @@
+﻿«Молодий вчений» • № 7 (83) • липень, 2020 р.
+DOI: https://doi.org/10.32839/2304-5809/2020-7-83-38 УДК 811.111ʼ373.6:811.112.2
+
+
+
+Соловйова О.В., Татарчук К.Г.
+
+Чернівецький національний університет імені Юрія Федьковича
+АНАЛІЗ АД’ЄКТИВНИХ СУФІКСІВ У ДАВНЬОАНГЛІЙСЬКІЙ ПОЕМІ BEOWULF
+Анотація. Стаття присвячена комплексному дослідженню лінгвістичних характеристик ад’єктивних су- фіксів у давньоанглійській поемі Beowulf. Проведено процедуру їхньої інвентаризації в давньоанглій- ській мові, отримано їхні кількісні показники у досліджуваному матеріалі, також проведено їхній струк- турний та функціональний аналіз. У результаті виявлено, що ад’єктивні суфікси у давньоанглійській мові були досить чисельними та слугували для утворення прикметників різних класів. Найчастотнішими за ступенем реалізації у тексті аналізованої поеми виявилися суфікси -ig, -lic та -en. За структурою одно- компонентні суфіксальні прикметники значно переважають над двокомпонентними. найуживанішою мо- деллю їхнього утворення стала модель N+suf. У функціональному плані домінують формотворчі суфікси прикметників, які не змінюють семантику їхньої основи.
+Ключові слова: давньоанглійська мова, ад’єктивні дериваційні суфікси, інвентаризація, структурний аналіз, словотворча модель, функціональний аналіз, формотворча функція.
+
+
+       Постановка проблеми. Питання слово- твору були й залишаються одними з най- актуальніших у сучасному мовознавстві. Однак у діахронічному розрізі структура давньоанглій- ських (д.-а.) прикметників, утворених шляхом деривації, та їхній функціонально-семантич- ний характер залишались поза увагою лінгвіс- тів попри той факт, що давньоанглійські тексти безперервно знаходяться у фокусі їхньої уваги (Л.М. Ікалюк, В.В. Михайленко, Л.Т. Мойсей, Н.В. Садовник-Чучвага, О.В. Соловйова). Вва- жаємо, що актуальність роботи зумовлена необ- хідністю проведення системних досліджень сло- вотворчих засобів побудови д.-а. прикметників, зокрема проведення інвентаризації д.-а. суфіксів прикметників та виділення їхніх структурних
+моделей і функцій у тексті д.-а. поеми Beowulf.
+   Аналіз останніх досліджень і публікацій. Публікація праці Г. Маршана “The Categories and Types of Present-Day English Word-formation. A Synchronic-diachronic Approach” [4] ознаме-
+
+нувала в англійській мові появу словотвору як окремої галузі лінгвістики ще в середині XX ст. У ній Г. Маршан провів аналіз усіх нагальних питань з дослідження словотвору, застосовуючи для опису, як бачимо з назви праці, синхронний та діахронний методи.
+   Наразі наука про словотвір, широко репре- зентована науковими доробками із загальної теорії  словотвору,  проведеними  на   матеріа-  лі як української (С.Ф. Бевзенко, З.О. Валюх, К.Г. Городенська, Н.Ф. Клименко, М.Я. Плющ), так і англійської (Л.Ф. Омельченко, М.М. Полю- жин, R. Alonso, M. Arista, M. Aronoff, L. Bauer,
+G.  Cannon,  R.V.  Escarza,  L.  Fidalgo,  I.  Plag,
+J. Sanita, E. G. Torres, E. Vea та ін.) мов. Сьогодні існують такі напрями для вивчення різних кате- горій, моделей, способів і засобів словотворення: функціональний, когнітивний, ономасіологіч- ний, семантичний тощо.
+   Виділення не вирішених раніше частин загальної проблеми. Не дивлячись на широ-
+
+
+© Соловйова О.В., Татарчук К.Г., 2020
+
+ку низку існуючих робіт з теми статті, автори не застосовували комплексний підхід до вивчення дериваційних процесів давньоанглійських при- кметників. Більш того, переважно  описували- ся словотворчі особливості саме д.-а. іменників, у той час, як така частина мови, як д.-а. прикмет- ник залишалася поза їхньою увагою.
+   Мета статті. Метою дослідження є встанов- лення кількісних, структурних та функціональ- них властивостей суфіксів прикметників давньо- англійської мови, вжитих у д.-а. поемі Beowulf.
+   Виклад основного матеріалу. Мова знахо- диться в стані постійного розвитку, що залучає певні мовні процеси, в тому числі і створення нових лексичних одиниць. Цей процес отримав назву “словотвір”. За визначенням М.П. Кочер- гана, “термін словотвір, або дериватологія (від лат. derivacio – відхилення, утворення), вжива- ється в двох значеннях: 1) розділ мовознавства, який вивчає способи творення нових слів; 2) тво- рення слів, що називаються похідними, на базі однокореневих слів, якими вони мотивовані, тоб- то виводяться за наявними в мові моделями за допомогою афіксації, словоскладання, конверсії, абревіації, транспозиції та інших формальних засобів” [1, с. 284].
+   Як стверджує Т.В. Матвєєва, “cуфіксація – це один із способів творення слів за допомогою су- фіксів, який зазвичай змінює лексичне значення основи і таким чином слова, які виникли в біль- шості випадків переходять в іншу частину мови” [2, с. 472].
+   Важливе значення при дослідженні будь-яких лінгвістичних одиниць, у тому числі суфіксації, має інвентаризація, тобто визначення складу одиниць аналізу, подання їх повного списку. Ця процедура є частиною описового методу, який є саме сукупністю процедур інвентаризації, кла- сифікації і інтерпретації досліджуваних мовних явищ.
+   За Х. М. Аріста, пропонуємо наступну інвента- ризацію д.-а. суфіксів прикметників: -рa, -ad, -ade,
+-bǣre, -cund, -e, -ed, -ede, -eg, -eht, -ehte, -el, -en, -end,
+-ende, -er, -ern, -erne, -es, -et(t), -fæst, -feald, -ful, -ga,
+-ic, -iende, -ig, -ige, -iht, -ihte, -ing, -isc, -lēas, -lic, -n,
+-od, -ode, -ol, -or, -sc, -sum, -ta, -te, -u, -ud, -ul, -um,
+-weard, -welle, -wende and -wīs. [3].
+   Дж. Саніта стверджує, що “найпродуктив- нішими суфіксами прикметників у д.-а. мові були –ig та -isc: mōdig «proud» (from mōd, mood), hālig (holy), bysig (busy)', mennisc «human», Denisc (Danish)”. Ще один продуктивний д.-а. прикмет- никовий суфікс –lic походить від іменника lic “body”, який, вочевидь, втратив своє повне семан- тичне значення [5].
+   Як бачимо, д.-а. прикметникові суфікси були досить чисельними та слугували для утворення прикметників різних класів.
+   Проаналізувавши текст д.-а. поеми Beowulf, ми виявили в ньому 130 прикметників у 222 слововживаннях, утворених за допомогою суфік- сації. З-поміж 51 д.-а. суфіксів, виділених Х.М. Арістою, Р. Квірком та К. Реном, у творі вико- ристовуються наступні 10: -cund, -en, -feald, -full,
+-ig, -isc, leas, -lic, -sum, -weard. Решта суфіксів не знайшли свого застосування.
+Наведемо приклади прикметників у поемі
+Beowulf, утворених шляхом суфіксації :
+   – 
+-cund (1), наприклад: feorran-cund, come from afar
+   “1795 sona him seleþegn siðes wergum, feorrancundum …” [7]. – “At once a hall-retainer, guided him forth, the far-comer…” [6].
+   – -en (22), наприклад: eal(l)-gylden, all-golden “1110Æt þæm ade wæs eþgesyne swatfah syrce, swyn ealgylden, eofer irenheard…” [7]. – “Upon the pyre it was easily seen the blood-splattered byrnie,
+the boar-crest all-golden and iron-hard…” [6].
+– feald (1), наприклад: anfeald, onefold, plain
+   “…256 minne gehyrað anfealdne geþoht” [7]. – “…heard my plain request” [6].
+– -full (6), наприклад: sorhful(l), sorrowful
+   “510 Ne inc ænig mon, ne leof ne lað, belean mihte sorhfullne sið” [7]. – “Nor could any man, hearty or hated, persuade either of you from your sorrowful journey” [6].
+– -ig (106), наприклад: ælmihtig, almighty
+   “90 Sægde se þe cuþe frumsceaft fira feorran reccan, cwæð þæt se ælmihtiga eorðan worhte” [7].
+– “He told the almighty made the earth” [6].
+– -isc (3), наприклад: eotenisc, eotonisc,
+gigantic, of a giant
+   “…þa his broðor læg, eald sweord eotonisc, enti- scne helm 2980 brecan ofer bordweal” [7]. – “…when his brother lay down, his old-sword of giants, break over the board-wall, upon the great helmet” [6].
+– -leas (15), наприклад: wineleas, friendless,
+   “… þam æt sæcce wearð, wræccan wineleasum, Weohstan bana meces ecgum” [7]. – “Weohstan had become the killer in conflict of that friendless exile, with the blade of the sword” [6].
+   – -lic (55), наприклад: leoflic, dear, beloved, precious
+   “1807 Heht þa se hearda Hrunting beran sunu Ecglafes, heht his sweord niman, leoflic iren” [7]. – “Then the hard man ordered Hrunting to be borne back to the son of Ecglaf, asking him to take up his sword, the precious iron” [6].
+   – -sum (6), наприклад: longsum, [long-some] lasting long
+   “133 wæs þæt gewin to strang, lað ond longsum” [7]. – “That struggle was too strong, hateful and long-lasting” [6].
+– -weard (7), наприклад: andweard, opposed
+   “1287 …sweord swate fah swin ofer helme ecgum dyhttig andweard scireð…” [7]. – “…the sword shimmering in blood shears off the boar-crest present upon the helmet, proof against edges” [6]. Провівши кількісний аналіз вживання прикмет- никових суфіксів у поемі Beowulf, можемо зобрази- ти частотність їхнього вживання у рис. 1, поданому нижче, з якого видно, що. найчастотнішим виявив- ся суфікс -ig, вживання якого складає майже поло- вину усіх прикметників, утворених за допомогою су- фіксації (48%). Чверть їх утворюють прикметники, сформовані за допомогою суфіксу -lic (25%). Десяту частину складають прикметники, утворені суфік-
+сом -en (10%). Решта префіксів є менш чисельною.
+   Таким чином, отримані нами результати частотності прикметникових суфіксів у поемі Beowulf повністю співпадають з даними дослід- ників, поданими нами вище.
+   У результаті проведеного морфологічного аналізу будови суфіксальних дериватів-при- кметників у давньоанглійській поемі Beowulf, ми виокремили наступні структурні моделі: од-
+
+
+Рис. 1. Частотність вживання ад’єктивних суфіксів у поемі Beowulf. Джерело: розроблено авторами
+
+
+нокомпонентні (прості) та багатокомпонентні де- ривати, утворені словоскладанням.
+З-поміж перших виділяємо такі:
+   1) Adj=Adj+suf (8): feorrancund, gylden, fagen, sliðen, þungen, werig, halig, longsum;
+   2) Adj=N+suf (78): mistig, modig, monig, swatig, entisc, eotenisc, aldorleas, domleas, dreamleas, ealdorleas, feorleas, atelic, betlic, cwenlic, deorlic, agen, egesful, sorhful, etc;
+3) Adj=Num+suf (2): ænig, ænlic.
+   Багатокомпонентні похідні прикметники у досліджуваній поемі складаються з двох компо- нентів, обов’язковим з яких є іменник:
+   4) Adj=N+past participle (V+suf) (7): beah- hroden, earmsceapen, gilphlæden, handgewriðen, hondlocen, wihbogen, bealohyden;
+   5) Adj=N+N+suf (14): heorodreorig, þristhydig, synbysig, lifbysig, sigoreadig tireadig, fylwarig, guðwerig, hygeþihtig, etc;
+   6) Adj=A+N+suf (4): ealgylden, goldhroden, eacencræftig, gromhydig;
+   7) Adj=N+suf+N (3): sanig-ferþ, sarig-mod, werig-mod;
+8) Adj=Adv+N+suf (2): felamodig, felasynnig.
+   Отже, однокомпонентні суфіксальні прикмет- ники значно переважають (88 лексем, 75%) над двокомпонентними (30 прикладів, 25%). Перші складають три чверті, а другі лише чверть до- сліджуваних суфіксальних прикметників у тво- рі, що аналізується. Найуживанішою моделлю виявилася Adj=N+suf (78).
+   Провівши функціонально-семантичний ана- ліз суфіксів прикметників у давньоанглійській поемі Beowulf, ми виявили, що вони виступають як у функції модифікаторів основи слова, так і формують іншу частину мови без зміни значення основи (переважно іменника) і є формотворчими. Розглянемо ці функції детальніше.
+   Так, формотворчі суфікси включають в себе на- ступні: -ful (3). -feald (1), -ig (54), -isc (2), -lic (34),
+-sum (2). Усі вони утворюють прикметники від іменників (окрім суфіксу -feald, який слугував для утворення прикметника від числівника) без зміни значення твірної основи слова, наприклад:
+   -ful : sorhful(l) – sorrowful, weorðfull – worthful, worthy;
+
+-feald :anfeald – onefold;
+   -ig: anig – any, blodig – bloody, isig – icy, mihtig – mighty, mistig – misty, sarig – sorry, windig – windy, witig – witty;
+-isc:entisc –gigantic (of a giant – ent);
+   -lic: cwenlic – queenly, womanly, eorlic – earllike, grimlic – grimlike, hetelik – hateful, modiglic – moodylike, unwaclik – unweaklike, strong;
+-sum: longsum –longsome, wynsum – winsome. Суфікси також можуть виступати в якості мо-
+дифікаторів значення кореневої морфеми. Ними у  давньоанглійській  мові  виявилися  -cund (1),
+-leas (13), -weard (4). Проаналізуємо зміни зна- чення основи слова на наступних прикладах:
+-cund: feorrancund – come from afar;
+   -leas формував прикметники від іменників, надаючи значення «позбавлений+значення основи»: feohleas – feeless, without money, sigeleas – victoryless, of defeat, sorhleas – sorrowless, free from sorrow;
+   -weard: формував прикметники зі значен- ням “у напрямку“: innanweard – inward, inside, interior, ūtanweard – outward, the outside of.
+   Виконавши кількісні підрахунки, ми маємо змогу побачити, що аналізовані прикметники, в яких суфікси виконують формотворчу функцію, значно переважають над тими, в яких суфікси модифікують значення основи. Отже, формот- ворчі суфікси прикметників, що домінують в аналізованому творі, складають 84% і не зміню- ють семантику основи слова.
+   Висновки і пропозиції. Провівши комплек- сний аналіз д.-а. суфіксів у поемі Beowulf, може- мо стверджувати, що у кількісному відношенні найчастотнішим виявилися суфікси -ig (48%) та
+-lic (25%). Структурно, для д.-а. суфіксальних де- риватів характерною є однокомпонентна модель Adj=N+suf (75%). Також, суфікси аналізованих прикметників характеризуються виконанням переважно формотворчої функції.
+   Перспективами подальших досліджень може стати вивчення словотворчого потенціалу інших частин мови у давньоанглійській мові, компара- тивне дослідження прикметникової афіксації у давньоанглійській та сучасній англійській мовах, а також інших способів утворення прикметників.
+
+
+
+Список літератури:
+1. Кочерган М.П. Загальне мовознавство : підруч. Київ : Академія, 2006. 464 с.
+2. Матвеева Т.В. Полный словарь лингвистических терминов. Ростов н/Д : Феникс, 2010. 562 с.
+3. Arista J. Adjective Formation and Lexical layers in Old English. English Studies. Universidad de La Rioja: Servicio de Publicaciones. 2011. Pр. 323–344.
+4. Marchand H. The Categories and Types of Present-day English Word Formation. A Synchronic-Diachronic Approach. Munchen : Beck, 1969. 378 p.
+5. Sanita J. The Analysis of Historical Origin and Productiveness of Derivational Affixes in the Declaration of Independence of America (1776). English Language Studies. Sanata Dharma University. Vol. 14. No. 2. October 2014. Р. 149–155.
+6. Anglo-Saxon Narrative Poetry Project. URL: https://anglosaxonpoetry.camden.rutgers.edu (дата звернення: 20.07.2020).
+7. The Complete Corpus of Anglo-Saxon Poetry. URL: https://www.sacred-texts.com/neu/ascp/index.htm (дата звер- нення: 14.07.2020).
+References:
+1. Kocherhan, M.P. (2006). Zahalne movoznavstvo [General Linguistics]: pidruchnyk. Kyiv: Academia, 464 p.
+2. Matveeva, T.V. (2010). Polniy slovar lingvisticheskikh terminov [A Complete Dictionary of Linguistic Terms]. Rostov n/D: Feniks, 562 p.
+3. Arista, J. (2011). Adjective Formation and Lexical layers in Old English. English Studies. Universidad de        La Rioja: Servicio de Publicaciones, pр. 323–344.
+4. Marchand, H. (1969). The Categories and Types of Present-day English Word Formation. A Synchronic-Diachronic Approach. Munchen: Beck, 378 p.
+5. Sanita, J. (2014). The Analysis of Historical Origin and Productiveness of Derivational Affixes in the Declaration of Independence of America (1776). English Language Studies. Sanata Dharma University, vol. 14, no. 2, pp. 149–155.
+6. Anglo-Saxon Narrative Poetry Project. URL: https://oldenglishpoetry.camden.rutgers.edu (accessed: 20.07.2020).
+7. The Complete Corpus of Anglo-Saxon Poetry. URL: https://www.sacred-texts.com/neu/ascp/index.htm (accessed: 14.07.2020).
+
+
+
+
+
+Soloviova Olha, Tatarchuk Kristina
+Yuriy Fedkovych Chernivtsi National University
+ANALYSIS OF ADJECTIVE SUFFIXES IN THE OLD ENGLISH POEM BEOWULF
+Summary. The article aims at giving a systematic linguistic description of Old English adjectival suffixes used in the poem of Beowulf. Suffixation is the process of word-formation with the help of suffixes which are supposed to modify the lexical meaning of the base or transfer words to a different class or part of speech. As a result of a thorough analysis of the recent existing publications on affixation in Old English and Old English glossaries, the process of suffix inventory became possible in which we made wide use of the list of suffixes com- piled by the English linguists and grammarians R. Quirk and C. Wrenn who also subdivided them according to the degree of their frequency. After studying the text of the poem under analysis, we selected 130 adjectives in 222 word usages. Among 51 Old English suffixes from the list mentioned above only the following 10 find their application in the text, for example: -cund, -en, -feald, -full, -ig, -isc, leas, -lic, -sum, -weard. In addition, the most frequently used ones appeared to be -ig, -lic and -en correspondingly. As a result of the morphological analysis of the derived adjectives formed employing suffixation, their two structural models were detected: mono- (simple) and polycomponential derivatives formed by means of compounding with the former consider- ably prevailing over the latter. The outcomes of the functional analysis display that adjectival suffixes in the Old English poem Beowulf perform their functions to both modify the base of the word and to form another part of speech, mostly nouns, without changing the meaning of the base. The latter include such suffixes as -ful,
+-feald, -ig, -isc, -lic, -sum. Moreover, the only modifying suffixes used in the poem under investigation proved
+to be -cund, -leas and -weard. Thus, the study tested that formative suffixes are dominant and, consequently, they do not alternate the base semantics. The perspectives of further studies in this field may be the analysis of a derivational potential of another part of speech in Old English, a comparative investigation of derived ad- jectives in both Old and Modern English as well as other means of their formation.
+Keywords: Old English, adjectival derivational suffixes, inventory, structural analysis, word-formation model, functional analysis, formative function.

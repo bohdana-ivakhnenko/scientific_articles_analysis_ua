@@ -1,0 +1,111 @@
+﻿Лінгвістичні студії.
+2018
+Юлія Цимбал
+DOI 10.31558/1815-3070.2018.36.19
+УДК 811.111’373.46
+
+МЕТОДИЧНА ТЕРМІНОЛОГІЯ В АНГЛІЙСЬКІЙ МОВІ
+
+      У статті розглянуто лінгводидактичні терміни та їх структурування, описані складники структурних елементів. Проаналізовані шляхи формування методичних цілей та наведено англомовні приклади різновидів побудови термінів; описано їхній вплив у педагогічних текстах. Терміни – це згорнуті визначення, які описують специфічні ознаки понять, термінологічних словосполучень та їх граматичне оформлення.
+      Ключові слова: термін, морфологічне значення, лінгводидактична термінологія, однокомпонентні терміни, багатоелементні терміни.
+
+      Терміни, з точки зору А.Я. Алексєєва (Alekseev 471), це слова чи словосполучення, які означають поняття спеціальної сфери знань чи діяльності людини. Терміни утворюють термінологічні системи, які входять в загальну лексичну систему мови. Вони характеризуються системністю, тенденцією до моносемічності в рамах своєї терміносистеми, вони нейтральні у вузькому значенні цього слова, тобто позбавлені будь-якої стилістичної конотації.
+      Але щодо системності, як однієї з основних ознак терміна у мовознавстві, існують різні погляди. Учені І.І. Ковалик та В.П. Даниленко вважають, що системність є класифікаційною сутністю терміна, в той час, як Т.Л. Канделакі    та   Л.В.      Лагутіна   вважають,       що   терміну   властива    словотвірна    системність,   а О.О. Реформатський та Т.І. Панько розглядають подвійну системність термінологічної одиниці: як елемента терміносистеми і як елемента мовної системи (Reformed 536).
+      За своєю структурою терміни бувають прості, складні та складені. Прості терміни поділяються на непохідні, тобто терміни, які при синхронному аналізі не мають мотиваційних слів, та похідні, тобто терміни, у яких можливо виокремити мотиваційні основи та словотворчі афікси. Складні терміни – це терміни, які складаються з декількох основ. Складені терміни – це терміни-словосполучення.
+      До простих лінгводидактичних термінів належать наступні: academy, advanced, aids, aim, analysis, assessment, biculturalism, bilingual, bilingualism, clarification, cognitive, criteria, curriculum, dictation, drill, education, target, grammar, gymnasium, interference, involvement, junior, knowledge, language, learning, lecture, lesson, lexis, linguistic, mentor, neutral, objective, pedagogic, perception, phonics, praise, pupil, qualification, quiz, reading, reinforce, repeat, research, response, revise, scholar, school, script, semester, sentence, test, text, vocabulary та інші.
+      Однослівні терміни є фундаментом, на якому вибудовується будь-яка терміносистема. Вони, як правило, називають базові поняття і є найменуваннями первинних понять, що стали основоположними у будь-якій галузі знань (Moskalenko 324). До простих термінів, які мають лише корінь як словотвірний компонент, можна віднести наступні терміни: academy, aim, criteria, quiz, vocabulary та інші. Але найбільш інтенсивне поповнення термінологічного складу слова відбувається за рахунок процесів афіксації, конверсії, утворення словосполучень шляхом додавання лівих і правих визначень до вихідного терміна, запозичення, скорочення, комбінації декількох способів тощо.
+Більшість термінів утворюється морфологічним способом, який базується на афіксації, тобто додаванням
+префіксів, суфіксів, префіксів та суфіксів одночасно.
+      Перший спосіб творення простих термінів – це додавання до основи суфіксів. На прикладах розглянемо особливості творення простих термінів суфіксальним способом:
+      -ation, -tion, -ion – суфікси латинського походження; додаються до дієслів, щоб утворити іменники, які виражають дію. Наприклад, to clarify (з’ясувати, вносити), clarification (роз’яснення, пояснення); to dictate (диктувати) – dictation (диктант); to cooperate (взаємодіяти, працювати разом та допомагати один одному) – co- operation (взаємодія);
+      -er, -or – вказують на той чи інший вид діяльності, походять із старої англійської мови; to teach (навчати) – a teacher (вчитель); to learn (вчити) – a learner (учень); counsel (порада; радити) – a counsellor (той, хто надає учням поради щодо труднощів, які вони можуть мати з межами мовного класу); mentor (досвідчений вчитель, який допомагає новим колегам); monitor/observer той, хто спостерігає та збирає інформацію про поведінку, зусилля та прогрес учня);
+      -ic – з’являється у словах, запозичених з грецької мови, які були спочатку прикметниками: pedagogic (який має відношення до навчання; або ж характеристика педагога); academic (який має відношення до шкіл, коледжів та університетів та пов’язаний із вивченням та мисленням); basic (рівень уміння, мати успіхи у чомусь завдяки тренуванню та практиці, наприклад, говорити англійською);
+      -sis – з’являється в словах грецького походження; використовувався, щоб сформувати з дієслів абстрактні іменники дії, процесу, стану тощо: analysis (аналіз); hypothesis (гіпотеза); metathesis (метатеза).
+      Наступний спосіб – це префіксальний, тобто приєднання до слова префіксів. Найчастіше в лігводидактичній термінології зустрічаються такі префікси як bi-, inter- та re-.
+Наведемо приклади префіксального способу творення простих термінів:
+
+
+-bi – префікс, що має латинське походження та поєднує значення «двічі», «подвійний»: bilingual
+(двомовний; людина, яка володіє двома мовами); bilabial (білабіальний звук);
+      -inter – має латинське походження та значення «між», «серед», «посередені», «разом» тощо: interaction (взаємодія); interact (взаємодіяти); interference (втручання, тобто коли рідна мова учня відображається на мові, яку він вивчає, що помітно у вимові або коли він «застосовує» граматичну структуру своєї мови у тій мові, яку вивчає тощо); interlanguage (мова міжнародного спілкування);
+      -re – префікс латинського походження; має значення «щось повторити, зробити знову» або «назад, у зворотному напрямку»: recast (переробити, тобто змінити слова чи фрази в реченні, щоб покращити його); revise (переглянути, повторити).
+      Також лінгводидактичні терміни можуть бути утворені шляхом додавання до основи більш ніж одного афікса. Це може бути додавання двох префіксів або суфіксів тощо. Найбільш поширений спосіб – це додавання до основи префікса та суфікса: biculturalism, bilingualism, unsupportive, retraining, remediation, intervention та інші.
+      До складних лінгводидактичних термінів належать: brainstorm, back- channeling, checklist, coursebook, feedback, flashcard, flipchart, gap-fill, worksheet, highlight, homework, ice-breaker, micro-teaching, note-taking, pre- teach, proofread, role-play, self-assessment, storybook, storyboard, task- based, tapescript, teacher-centred, test- teach-test, textbook, whole-word- method, workbook, worksheet та інші.
+      До складених лінгводидактичних термінів можна віднести наступні терміни: academic language, achievement test, active vocabulary, bilingual education, comprehensible output, dimensions of learning, discussion group, distance learning, dual language education, educational technology, error analysis, exam paper, extension task, extensive listening, first language, foreign language, Grammar Translation Method, independent learner, informal learning, interactive whiteboard, key word, language use, lexical set, minimal pair drill, monolingual dictionary, native speaker, objective test, pedagogic task, picture dictation, teaching practice, proficiency test, reading approach, reflecting teaching, second language learners, sentence transformation, team teaching, universal grammar.
+      Також серед лінгводидактичних термінів існує багато абревіатур: ADHD (Attention-deficit-hyperactivity disorder), BICS (Basic Interpersonal Communication Skills), BC (British Council), CALL (Computer Assisted Language Learning), CLIL (Content and Language Integrated Learning), CALP (Cognitive Academic Language Proficiency), EAP (English for Academic Purposes), ECTS (European Credit Transfer System) , EFL (English as a Foreign Language), ELL (English Language Learners), ELT (English Language Teaching or Training), ESL (English as a Second Language), ELP (European Language Portfolio), HOTS (Higher-order thinking skills), LOTS (Lower- order thinking skills), IATEFL (International Association of Teachers of English as a Foreign Language), IEP (Individual Education Program), LAD (Language acquisition device), TBL (Task-based learning), TEFL (Teaching English as a Foreign Language), TELL (Technology Enhanced Language Learning), TESL (Teaching English as a Second Language), TESOL (Teaching English to Speakers of Other Languages), TOEFL test (Test of English as a foreign language), VET (Vocational education and training).
+      Серед простих термінів лінгводидактичної термінології найбільш переважають іменники – vocabulary, involvement, academy, lexis тощо. Меншу частину складають прикметники та дієслова – прикметники: cognitive, bilingual, neutral; дієслова: drill, praise, reinforce, repeat, revise.
+      До складних термінів можуть входити корені (worksheet, checklist) та похідні слова (gap-fill, back- channeling), причому такі терміни можуть писатися разом (homework) або ж через дефіс (ice-braker) (Arnold 295).
+      За способом об’єднання компонентів складні терміни М. Лаврик поділяє на дві групи: терміни, утворені на основі складання незалежних одна від одної основ (tapescript, coursebook, brainstorm); терміни, утворені на основі інтерфіксного складання основ. Словотвірними засобами цього термінотворення є сполучні елементи і- та е- , яких ще називають комбінуючими формами (Lavrik 33–39).
+      З погляду структури І.В. Арнольд розрізняє такі типи складних слів: складні слова, що утворюються з простих основ – worksheet, textbook, role-play, checklist; складні слова, у яких принаймні один компонент є похідною основою – back-channeling, micro-teaching, note-taking, teacher-centred; складні слова, у яких принаймні один із компонентів є скороченою основою; складні слова, у яких принаймні один із компонентів є складним словом – gap-fill exercise, role-play activity (Moskalenko 324).
+      Складені терміни створюються шляхом додавання до терміна, який позначає родове поняття, конкретизуючи ознаку з метою отримати видові поняття, безпосередньо пов’язані з вихідним. Такі терміни фактично являють собою згорнуті визначення, що підводять подане поняття під більш загальне і водночас вказують на його специфічну ознаку. Термінологічні словосполучення мають своє граматичне оформлення, яке може виражатися: суфіксами (achievement test, comprehensible output, discussion group); прийменниками (College of higher education, components of lesson plan, dimensions of learning); закінченнями (dimensions of learning, reading approach, reflecting teaching, team teaching).
+      У лінгводидактичній термінології багатокомпонентні терміни посідають дуже вагоме місце. За кількістю терміноелементів було виявлено двокомпонентні та трикомпонентні терміносполучення. Серед багатокомпонентних термінологічних одиниць домінують двокомпонентні терміни, а протім уже трикомпонентні утворення. За морфологічною ознакою головного слова терміни-словосполучення
+
+
+класифікуються на іменникові та прикметникові. Зазначені мовні одиниці утворюються переважно за допомогою іменника, до якого приєднується прикметник.
+      Двокомпонентні терміни цього типу – це типові атрибутивні словосполучення. Багатокомпонентні терміни виражаються складними синтаксичними моделями, що суперечить одній із основних вимог до термінів – лаконічності. Це можна пояснити неспроможністю передати широкий обсяг процесів, явищ компонентними термінами.
+      При аналізі методологічних термінів необхідно спиратись на наступні шляхи формування лінгводидактичної термінології: надання статусу термінів загальновживаним лексичним одиницям певної мови; запозичення з інших мов (вживання запозичень з латинської та грецької мов); запозичення термінологічних одиниць з інших наукових сфер; виникнення неологізмів (Dyakov 220).
+      Особливим типом запозичень є вживання слів і словотворчих моделей грецької та латинської мов. Такі терміни утворювалися на різних етапах розвитку мови. Також, нові терміни часто утворюються за змішаним типом: один корінь грецького походження, інший – латинського (наприклад, слово «термінологія» складається з латинського елемента terminus – межа, та грецького logos – наука) (Dyakov 220). До термінів давньогрецького походження належать наступні терміни – alumna, alumni, alumnus (суфікси -us, -а використовуються для іменників однини, а суфікс -і(аі) використовується для іменників множини), analysis. До термінів латинського походження належать: applicant, campus, certificate, chancellor, cognitive, curriculum, dictation, dictionary, methodology, summa cum laude.
+      Запозичення з інших мов є більш популярним та виправданим шляхом утворення термінів. На різних етапах становлення суспільства терміни запозичуються з різних мов, що зумовлюється різними історичними умовами (Dyakov 220). Терміни іншомовного походження наступні: bachelor (походить зі старофранцузьких слів bachelor, bachelor, bachelier), brochure (з французького brochure), categorization (від французького слова categorization (Tatarinov 311). Як ми бачимо, більшість запозичень в лінгводидактичній термінології є з французької мови.
+      Запозичення одиниць з інших наукових сфер можна розглядати як окремий випадок. При цьому термін нерідко набуває нового значення (Dyakov 220). До термінів, які запозичені з інших термінологій, можна віднести: assessment (утворилось шляхом додавання суфікса -ment, прийшов з економічної термінології, а з середини минулого століття став терміном в лінгводидактиці), cognitive (психологія), neurolinguistic programming (нейролінвістичне програмування), nonverbal communication (невербальна комунікація), overhead projector (технічний термін), pie chart (технічний термін), prop (кінематографічна термінологія), quantitative research (термін запозичено з ділової лексики), recycle (термін в галузі екології та енергетики) (Grammatik's ivy of Ukrainian 286).
+      Також одним із популярних шляхів формування термінів можна вважати надання статусу термінів загальновживаним лексичним одиницям певної мови. Однак, такий варіант утворення термінів не завжди є позитивним, оскільки тут часто мають місце переосмислення, метонімічне перенесення, коли слову приписується нове значення. З метою диференціації подібних лексичних одиниць терміни часто змінюють форму написання, вимови, наголосу тощо (Dyakov 220). До лінгводидактичних термінів, що походять від інших слів, можна віднести наступні терміни: awareness, board game, competence, crossword puzzle, drill, enquire, mingle, playground, podcast, warm up, work out.
+      Неологізми служать, з одного боку, для номінації нових чи ще не названих понять, реалій, а з іншого – для заміни попередніх найменувань новими, зумовленої різними чинниками, – тенденцією до мовної економії, уніфікації номінативних моделей, виразнішого, точнішого найменування, експресивно-стилістичного оновлення, з причин соціально-політичного характеру (Tatarinov 311). Терміни-неологізми в лінгводидактиці: dictocomp (один із варіантів написання диктанту), digital literacy (комп’ютерна грамотність), edublog (educational blog, блог, створений з метою  навчання), podcast тощо.
+      Таким чином, методична термінологія в англійській мові репрезентує різні способи та шляхи структурування.
+
+References
+Alekseev A.Ya. Comparative stylistics: grant. Donetsk: National Mining University, 2012. 471. Print. Arnold I.V. Lexicology of modern English. Moscow: The higher school, 1986. 295. Print.
+      Danilenko V.P. Lexico-semantic and grammatical features of words terms. Researches on the Russian terminology. Moscow: Science, 1971. 67. Print.
+Dmitriyev N.S. To a question of tradition and innovation in terminology. - Ufa: Bashk. State. Un-t., 1991.
+247. Print.
+      Dyakov A.A. Terminoobrazovaniye bases: semantic and sotsiolingvistichesky aspects. Kiev: Academia publishing house, 2004. 220. Print.
+      Kozmina N.A. Classification of difficult terms in the field of informatics and computer facilities, their structural and semantic features. [An electronic resource] / N.A. Kozmina, T.V. Kravchenko - the Mode of access to a resource: http://www.rusnauka.com/23_SND_2008/Philologia/26651.doc.htm.
+Lavrik M.P. Structure of the English medical terms. Bulletin of the Lviv university. Lviv, 1975.
+Philological series. Issue 38. P. 33 – 39. Print.
+
+
+      Mikryukov A.A. Phrase as one of ways of formation of computer terms [Electronic resource] http://www.rusnauka.com/10_NPE_2011/Philologia/3_82680.doc.htm.
+Moskalenko M.A. Sketch of history of Ukrainian of grammatical terminology. Kiev: Radyan. School, 1954.
+324. Print.
+      Grammatik's ivy of Ukrainian: In 2 parts 1. Morphemics. Word formation. Morphology: textbook. Kiev: The highest schook., 2005. 286. Print.
+      Reformed A.A. Introduction to linguistics / Under the editorship of V.A. Vinogradov. – M.: Aspect Press, 1996. 536. Print.
+Tatarinov V.A. Theory of a terminology. Moscow: Moscow lyceum, 1996. 311. Print.
+
+Надійшла до редакції 23 листопада 2018 року.
+
+METHODICAL TERMS IN ENGLISH LANGUAGE
+Yulia Tsymbal
+
+
+
+Abstract
+                    
+Depatrment of the English Philology, National Pedagogical Dragomanov University, Kyiv, Ukraine
+
+      Background: The research of methodical terms in English language is an actual problem of modern linguistics which defined by the general orientation of modern researches on need of the complex description and system studying of methodical terminology for communicative space.
+      Purpose: The purpose of the analysis is define structure and features of formation of a methodical terminology in English.
+      Results: Having investigated ways of formation of terms in methodical terminology the following was defined. Terms on the structure are simple (brief), difficult and compound. Brief terms are a basis on which any term system including the linguo-didactic as they call basic concepts and is names of primary concepts is under construction.
+      The majority of terms is formed in the morphological way which is based on affixation (i.e. addition of prefixes: interact, revise; suffixes: metathesis, pedagogic, involvement, learning, teacher, dictation; prefixes and suffixes at the simultaneously: bilingualism, unsupportive, remediation, intervention).
+      Discussion: The development of historical and pedagogical knowledge in modern conditions, significantly the number of researches of this direction increased, updates need judgment of their methodological terms. However its development has to be followed not only quantitative, but also high-quality shifts, first of all in methodological approaches and methods scientific research that will promote increase in their professional level.
+Keywords: term, morphological value, linguo-didactic terminology, single-component terms, multielement
+terms.
+
+Vitae
+      Yulia Tsymbal is graduate student of Depatrment of the English Philology, National Pedagogical Dragomanov University, Kyiv, Ukraine. Areas of research interests include functional linguistics, methodological discourse.
+Correspondence: hozratkulovayulia@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

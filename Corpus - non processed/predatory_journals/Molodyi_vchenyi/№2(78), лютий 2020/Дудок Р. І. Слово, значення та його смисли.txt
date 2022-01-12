@@ -1,0 +1,172 @@
+﻿«Молодий вчений» • № 2.1 (78.1) • лютий, 2020 р.
+DOI: https://doi.org/10.32839/2304-5809/2020-78.1-5 УДК 81’37-11С.Гурський
+
+
+
+Дудок Р.І.
+
+Львівський національний університет імені Івана Франка
+СЛОВО, ЗНАЧЕННЯ ТА ЙОГО СМИСЛИ
+(ДО100 РІЧЧЯ ВІД ДНЯ НАРОДЖЕННЯ ВЧЕНОГО, ФІЛОЛОГА, ГЕРМАНІСТА ТА ПЕДАГОГА СЕРГІЯ ОМЕЛЯНОВИЧА ГУРСЬКОГО (1919 – 2019 РР).
+Анотація. Сергій Омелянович Гурський, філолог, германіст, лексиколог, термінолог, семасіолог багато- річний завідувач загальної кафедри іноземних мов Львівського національного університету імені Івана Франка (1959-1979 рр.), заступник декана факультету іноземних мов (1953-1955 рр.). З 1965 року голова науково-методичного об’єднання викладачів іноземних мов м. Львова, впродовж багатьох років працював на факультеті іноземних мов Львівського національного університету імені Івана Франка, створив свою наукову школу, виховав покоління учнів та послідовників. Під науковим керівництвом Сергія Омеляно- вича Гурського підготовлено і захищено 12 кандидатських дисертацій з проблем структури, семантики та функціонування фахових терміносистем англійської та німецької мов. Спектр науково-пошукових інте- ресів С.О. Гурського справді вражає своїм широким діапазоном і включає проблеми, лексикології, семан- тики, прикладного та галузевого термінознавства, лінгвокогнітології та лінгвопрагматики.
+Ключові слова: семантика, інваріантне значення, змінні компоненти, метод значення-смисл, утворення різних смислів, інваріантна диференційна ознака, породжуюча природа слова.
+
+Постановка проблеми. Семантика мови на  думку  С.О.  Гурського  є  проблемою
+№ 1 у лінгвістиці, яка має свої філософські, логічні, психологічні, лінгвістичні і чисто се- масіологічні аспекти. Ключовим науковим по- стулатом вченого є твердження, що слово не змі- нюється у різних контекстах, а лише відтворює своє інваріантне значення як низка смислороз- межувальних ознак, оскільки кількість понять, об’єктів реальної дійсності є необмежена, а слов- никовий склад навіть найбагатшої мови обме- жений [13, с. 3–18]. Так за твердженням проф.  І. Арнольд 1000 найуживаніших слів англійської
+
+мови утворюють 25 000 значень, і справжнє зав- дання науки не в тому, щоб складно викласти прості речі, а в тому щоб просто пояснити склад- ні [4]. Як справедливо зауважив відомий вчений у галузі семантики немає, напевно, більш за- плутаної і суперечливої проблеми, ніж проблема значення слова [37]. І тут цілком можна пого- дитися з думкою Дж. Лайонза, що як тільки ми починаємо знайомитися з конкретними семан- тичними працями, ми зіштовхуємося з великим розмаїттям підходів до визначення значення, як от: розмежування між емоційним і понятійним значенням, між значенням і позначенням, між
+
+
+© Дудок Р.І., 2020
+
+смислом і референцією, між денотацією і конота- цією, між знаком і символами, між екстенсіона- лом і інтенсіоналом, і цей перелік можна продо- вжувати і продовжувати [45].
+   Аналіз останніх досліджень і публікацій. Мета статті. Сьогодні ми говоримо про наукову спадщину С.О. Гурського, який передусім мав ці- каві погляди не тільки на структуру та семантику слова, але й на його смисловий і функціональний потенціал, тобто на лінгвістичну семантику або семасіологію, як окремий розділ науки про мову, що почала розвиватися у 19 ст. і основоположни- ками якої були німецький вчений Райзіг (ввів термін семасіологія) і французький мовознавець Мішель Бреаль (термін семантика). Семантич- ні дослідження розвинули відомі вчені В. Гак [10], S. Ullman [48], И. Стернин [33], Найда [46], Болинжер [37], Katz [44] та багато інших. Слово, вважав С.О. Гурський, як правило, співвідносить- ся з якимось одним конкретним об’єктом реальної дійсності, саме тому слово уже узагальнює, його узагальнююча природа, його інваріантне зна- чення ігнорується дослідниками, розчиняється в необмеженій кількості різних ЛСВ, а отже дослід- ники, на його думку, не дають відповіді на клю- чове запитання: як одне і те саме слово у своєму форматі потрапляє в інший контекст?
+   Виділення не вирішених раніше частин загальної проблеми. Розвиваючи свою кон- цепцію інваріантного значення слова – терміна та його численних змістів С.О. Гурський опи- рався на наукові погляди математичного логіка Готліба Фреге, викладені у хрестоматійній праці
+«Sinn und Bedeutung»/ «Значення і cмисл», вва- жав, що у процесі мовлення у структурі слова чітко виокремлюються два елементи: 1) інварі- антний (стабільний); 2) змінний, який задається у кожному акті мовлення [40]. Власне, на думку С.О. Гурського шляхом поєднання інваріантного значення слова як СДО та змінної основи про- тиставлення виявляється і породжується смисл слова [13; 15]. Такого погляду і дотримуються су- часні дослідники, так H. Алефиренко стверджує, що стабільне, константна частина змісту мовно- го знака є його значенням, а варіативна, змінна, динамічна його смисловим компонентом [1].
+   Виклад основного матеріалу. Випрацьо- вана концепція – відмежування стабільного компонента (інваріанта) від змінних компонен- тів (смислів) – лягла в основу апробованої у чис- ленних наукових працях методики «значення- смисл» С.О. Гурського, [16; 43], базові засади якої передбачають розмежування семантики слова на два різнопланові синтагматичні компоненти, стабільний (інваріант) у системі мови та змінний (смисл) у мовленні. Принагідно зазначимо, що аналізуючи часто проблему співвідношення зна- чення і смислу, дослідники зазначають, що зна- чення є лише потенція смислу, щоб впливати на особистість, річ повинна розкривати свій смисло- вий потенціал, а для цього необхідне слово з його можливим контекстом [2; 5; 8; 17; 24; 30].
+   Повернемося до суті методики С.О. Гурського. яка полягає у послідовному сполученні семи – інваріантної диференційної ознаки, зафіксова- ної у знаковому значенні, з різними поняттями в контексті та утворенні, відповідно, різних смис- лів. Для цієї теоретичної викладки, вчений часто
+
+наводив такий приклад терміна: bank1 – financial institution – фінансова інституція та bank2 – ground at edge of river (берег річки), номінуються однаково «bank» та мають спільну сему «keeping money», чи «keeping water», відповідно. Усе зале- жить від того, що зберігається гроші у банку чи вода, яка утримується у берегах річки. С.О. Гур- ський часто задавав собі запитання, що саме сприяє, так би мовити, відриву слова від одного предмета, скажімо, двірник – людина і спрямовує його на цілком інший предмет – двірник як меха- нізм автомобіля. Тут процес мислення виділяє, абстрагує і фіксує у даному слові-терміні лише ті ознаки, які найбільше відповідають потребам мовного спілкування у конкретній мовленнєвій ситуації [16, c. 28].
+   Як відомо, методика виявлення мікроеле- ментів (сем), які складають значення лексич- ної одиниці (семеми) у свій час запровадили американські семасіологи Гуденаф і Лаунсбері [42], яку згодом почали називати компонентним аналізом. Цей метод опису значення. Так само широко відома класифікація структурних ком- понентів на маркери та дистингвишери [44; 49], які стали базовими поняттями семної семасіоло- гії і які розвинув у своїх наукових працях уче- ний. Так, наукова концепція, «значення смисл» С.О. Гурського, ґрунтується на двох принципо- вих положеннях: 1) на розмежовуванні двох різ- нопланових компонентів інваріантного значен- ня у парадигматиці мови і змінного компонента у синтагматиці мовлення; 2) на відношеннях опозицій, тотожних понять за диференційними ознаками, які є основою протиставлення [11].
+   С.О. Гурський стверджував, що інваріантне значення, яке складається із сукупності дифе- ренційних сем, виконує функцію диференціації на послідовно різних основах семантичної опо- зиції, (тут дослідник творчо опрацював у сема- сіології метод М.С. Трубецького, використаний ним у фонології), а отже, породжує різні смисли. Нагадаємо, що ключовою тезою теорії М.С. Тру- бецького є та, що для протиставлення об’єктів, недостатньо, щоб вони були різними, необхідно, щоб вони мали щось спільне, основу для проти- ставлення [35].
+   У своїх наукових міркуваннях С.О. Гурський багато уваги приділяв процесу виокремлення семантичного інваріанта і задавав собі запитан- ня: завдяки чому узагальнене слово-інваріант опиняється в іншій терміносфері? Намагаю- чись відповісти на це запитання, вчений ствер- джував, що такий процес надзвичайно складний та потребує надійної методики. Він називав дві основні причини таких труднощів: перша по- лягає у спробі виокремити синтагматичний ін- варіант з різних значень, що нереально, а дру- га – у намаганні вивести всі варіанти з одного якогось інваріанта – у мовленні, що теж не узго- джується з нашою концепцією «значення-смисл». С.О. Гурський далі розмірковуючи про семантич- ну суть фахового терміна, наполягав на механіз- мі виявлення власне стабільного інваріантного значення кожного слова із різних його семантич- них змістів, описаних і в тлумачних словниках,  і в спеціальних текстах [43].
+   Такий підхід вченого засвідчує, що інваріант- не значення слова як елемент лексико-семан-
+
+тичної системи мови – це низка елементарних стабільних сем/компонентів як складових інва- ріантного значення слова, оволодівши якими зможемо найбільш адекватно зрозуміти слово чи словосполучення у фаховому тексті. Тут, дослід- ник часто цитував слушну думку В.А. Звегин- цева «значення у середині мови, а смисл зовні мови, кожного разу, коли слово виступає у скла- ді речення, відбувається актуальне породження його значення, зумовлене смисловим змістом цього речення [18; 19].
+   Розвиваючи у своїй концепції ідею семантич- них опозицій вчений навчав, що різні поняття за своїми основними суттєвими ознаками про- тиставляються на основі диференційних ознак. Такий підхід, як він вважав, передбачає проти- ставлення лише абсолютно тотожних смислових понять. Лише разом із носієм – маркованим чле- ном семантичної опозиції – семантико-диферен- ційна ознака (СДО) – виконує і утворює смисл. У численних вживаннях слова його смисл щора- зу змінюється саме тому, що змінюється основа опозиції – інтегральна сема. Відмежування ін- варіантного значення як низки незмінних СДО від змінної основи опозиції – необхідна умова застосування методу опозицій у семасіологічних дослідженнях [15].
+   Для подальшого викладу концепції «зна- чення-смисл», його розуміння, особливостей се- мантичних опозицій і умов їхньої нейтралізації в окремих позиціях вчений визначив основні робочі поняття: «основа семантичної опозиції»,
+«семантична позиція», «семантична диференцій- на ознака», «позиція нейтралізації» та їхні зна- чення. Ці робочі поняття достеменно науково об- ґрунтовані та витлумачені у ключових наукових працях С.О. Гурського, головно опублікованих в нашій Іноземній філології, до яких я відсилаю зацікавленого читача.
+   Отже, незважаючи на важливість проблеми значення слова / терміна, в сучасному мовознав- стві більшість питань є і на сьогодні дискусійни- ми та недостатньо дослідженими. Базовою тезою С.О. Гурського є те, що слово не змінюється, а від- творює своє інваріантне значення як низка смис- лорозмежувальних ознак, що  зрозумілі  apriori у процесі абстрагуючої діяльності мислення.
+   Серед наукових поглядів вченого пов’язаних зі структурою і семантикою слова – терміна за- слуговує на увагу трактування переносного зна- чення, якого, як він вважав, взагалі немає, адже у процесі мислення люди переносять об’єкти під відповідні ознаки протиставлення, а не ознаки протиставлення на об’єкти. С.О. Гурський пояс- нює це на такому прикладі: коли арештують лю-
+
+
+дину, то не ставлять грати перед нею, а логічно переносять її за грати. Семантична структура мови нагадує об’єктивні грати зі смислорозмежу- вальних ознак семасіологічних протиставлень, за які ми переносимо і ставимо різні об’єкти ре- альної дійсності, щоб показати співбесіднику якими вони є в дійсності. На думку дослідника, переносне значення, така ж наївна неточність, освячена тисячоліттями, як і схід сонця.
+   Обґрунтовуючи свої наукові постулати, до- слідник часто наводив слова Дж. Лайонза, який у свою чергу покликався  на  гасловий  вислів  Л. Вітгенштайна: не шукайте значення слова, дивіться як воно вживається. Тут доречно зга- дати й хрестоматійні слова Рене Декарта: уточ- ніть значення слів і ви врятуєте людство від половини неприємностей.
+   Сучасні численні наукові дослідження семан- тики, структури та функціонування слова, тер- міна засвідчують, що значення подібне на чор- ну скриньку, внутрішні процеси якої недоступні прямому спостереженню, які лежать у площині нейрофізіологічних і нейролінгвістичних пошу- ків. Як відомо, Homo sapiens виник щонайменше 200 тисяч років тому. Сучасна наука каже, що інформаційно-накопичувальні можливості моз- ку надзвичайно великі. За деякими оцінками вони у мільярди разів перевищують спроможнос- ті сучасних комп’ютерів. Якщо зіставити наукові погляди С.О. Гурського із сучасними когнітив- но-психологічними експериментами, то під час появи якогось слова, з’являється і низка його елементарних структурних ознак, що містять найхарактерніші компоненти, своєрідне загаль- не значення, яке він називав інваріантом та його смислами.
+   Висновки і пропозиції. Безперечно, що наукова спадщина відомого вченого германіста С.О. Гурського є актуальною і сьогодні для ви- вчення структурно-семантичного потенціалу слова – терміна, вважаю, що подальші теоре- тико-практичні дослідження про інваріантне значення та смисли матимуть вагомий внесок   у перспективу вивчення цієї проблеми у галузі термінознавства, інваріантології, дискурсної се- мантики і, звичайно, при укладенні галузевих термінологічних словників.
+   Віддаючи глибоку шану С.О. Гурському про- веденням нашої Урочистої Академії з нагоди 100-річчя від дня народження, його педагогічної і наукової спадщині, як один з його учнів (чим дуже пишаюся), хотів би завершити свій виступ такими словами, людина не народжується му- дрою, а стає нею – це нагорода за її тривалу подо- рож через наукові терни.
+
+Список літератури:
+1. Алефиренко Н.Ф. Спорные проблемы семантики. М., 2005. 326 с.
+2. Айдукевич К. Язык и смысл. Философия и логика Львовско-Варшавской школы. М., 1999. 309 с.
+3. Аллендорф К.А. Значение и изменение значений слова. М., 1965. 260 с.
+4. Арнольд И.В. Семантическая структура слова в современном английском языке и методы ее исследования. Докт. дис. Л., 1966.
+5. Беляевская Е.Г. Семантическая структура слова в номинативном и коммуникативном аспектах. (Когнитивные основания семантической структуры слова). Дис. канд. филол. наук. Москва, 1991. 401 с.
+6. Болинжер Д. Атомация значения. Новое  в  зарубежной  лингвистике:  Пер.  с  англ.  Медниковой  Д.М. М., 1981. С. 200–235.
+7. Вежбицкая А. Семантика: примитивы и универсалии. Семантические универсалии и описание языков.  М.: Языки русской культуры, 1999. 776 с.
+
+8. Вилюман В.Г. Семантические и функциональные связи слов и их синонимия в современном английском языке. Л., 1971.
+9. Витгенштейн Л. Логико-философский трактат. М.: Изд-во иностр. литературы, 1958. 133 с.
+10. Гак В.Г. Лексическое значение слова. Лингвистический энциклопедический словарь. М., 1990.
+11. Гурський С.О. Два типи протиставлень у семасіології. Іноземна філологія. Львів, 1969. Вип. 18. С. 3–13.
+12. Гурський С.О. Деякі проблеми семантичної комбінаторики. Іноземна філологія. Львів, 1979. Вип. 53.
+13. Гурський С.О. Значення і смисл слова. Іноземна філологія. Львів, 1974. Вип. 34. С. 3–18.
+14. Гурський С.О. Значення та вживання прийменників в англійській мові. Іноземна філологія. Вип. 2. Львів, 1965.
+15. Гурський С.О. Нейтралізація опозицій в семасіології. Іноземна філологія. Львів, 1981. Вип. 63. С. 5–56.
+16. Гурський С.О. Значення слова і термін. Іноземна філологія. Вип. 26. Львів, 1971. С. 28.
+17. Дудок Р.І. Проблема значення та смислу терміна в гуманітарних науках. Львів, 2009. 358 с.
+18. Звегинцев В.А. Смысл и значение. Теоретические и экспериментальные исследования в области струк- турной и прикладной лингвистики. М., 1973.
+19. Звегинцев В.А. Семасиология. М., 1957. 336 с.
+20. Кубрякова Е.С. Семантика производного слова. Аспекты семантических исследований. М., 1980. С. 96.
+21. Курилович Е.Р. Заметки о значении слова. Вопросы языкознания. № 25. 1955.
+22. Лайонз Дж. Лингвистическая семантика. М., 2000.
+23. Лакофф Д. О порождающей семантике. Новое в зарубежной лингвистике. Вып. 10. М., 1981.
+24. Левицький В.В. Семасіологія. Винниця, 2006. 512 с.
+25. Медникова Э.М. Значение слова и методы его описания. М., 1974. 201 с.
+26. Никитин М.В. Лексическое значение в слове и словосочетании. Владимир, 1974.
+27. Огуй О.Д. Семантичний розвиток німецького прикметника «kuhn». Іноземна філологія. № 94. Львів, 1989. С. 87–94.
+28. Плотников Б.А. Основы семасиологии. Минск, 1986. 340 с.
+29. Рассел Б. Введение к логико-философскому трактату Л. Витгенштейна. М., 1958.
+30. Слюсарева Н.А. Смысл как экстралингвистическое явление. 1963. С. 185.
+31. Снітко О.С. Внутрішня форма мовної одиниці та її зміст. Мовознавство. 1991. № 5. С. 8–16.
+32. Солнцев В.М. Язык как системно-структурное образование. М., 1977. 341 с.
+33. Стернин И.А. Значение и актуальный смысл слова. Семантические категории сопоставительного изучения русского языка. Воронеж, 1981.
+34. Сулейменова Э.Д. Понятие и смысл в современной лингвистике. Алма-Ата, 1989.
+35. Трубецкой Н.С. Основы фонологии. М., 1960. 372 с.
+36. Ульман С. Семантические универсалии. Новое в лингвистике. Вып. 5. М., 1970.
+37. Baldinger D. Semantics theory: towards a modern semantics. Oxford, 1980.
+38. Breal M. Essai de Scemantigue. Paris, I987.
+39. Darmesteter A. La vie des mots etudiee dans leurs significations. Paris, 1899.
+40. Darmsteter Arsene. The life of Words as symbols of Ideals. London. 1886.
+41. Frege G. Uber Sinn und Bedeutung. Zeitschrift fur Philosophie Kritik – B., 1891.
+42. Verlag Enzyklopadie. 162 s.
+43. Hjelmslev L. Prologomena to a theory of Language. Vol. 19. No 1. Baltimore, 1953. 340 p.
+44. Goodenough. Componential analysis and the study of meaning. Language. 1956. V. 32, 1.
+45. Goursky S. The Idiomatic Heart of the English Language. Lviv, 1975. 179 p.
+46. Katz J.J., Fordor J.A. The structure of semantics theory. Language. 1963. V. 39. No. 2.
+47. Lyons John. Semantics. Vol. 1. Cambridge Univer Press. London.
+48. Nida E. Componentiai Analysis of Meaning. The Hauge-Paris, 1975.
+49. Ogden C.K., Richards L.E. The Meaning of Meaning. L., 1946.
+50. Ullman St. Words and their meanings. Australian National Univer. Camberra. 1974.
+51. Weinrich Uriel. On the Semantic Structure of Language. Univer. of Pensylvana Press. 1980. 420 p.
+52. Weirzbicka A. Semantic Primitives. Frankfurt. M., 1972.
+53. Wittgenstein L. Philosophical Investigations. Oxford, 1953. 220 p.
+References:
+1. Alefirenko N.F. Spornyye problem semantiki [Controversial issues of semantics]. М., 2005. 326 s.
+2. Aydukevich K. Yazyk I smysl [Language and Meaning]. Filosofiya I logika Lvovsko-Varshavskoi shkoly. М., 1999. 309 s.
+3. Allendorf K.A. Znacheniye I izmeneniye znachenij slova [Meaning and change of meaning of a word]. M., 1965. 260 s.
+4. Arnold I.V. Semanticheskaya struktura slova v sovremennom anglijskom yazyke I metody yeye issledovaniya [The semantic structure of the word in modern English and the methods of its research]. Doc. dis. L., 1966.
+5. Belyaevskaya E.G. Semanticheskaya struktura slova v nominativnom I kommunikativnom aspektakh. (Kognitivnyye osnovaniya semanticheskoj struktury slova) [The semantic structure of the word in the nominative and communicative aspects. (Cognitive foundations of the semantic structure of a word)]. Dis. kand. filol. nauk. Moscow, 1991. 401 s.
+6. Bolinger D. Atomatsiya znacheniya [Atomation of meaning]. Novoye v zarubezhnoj lingvistike: Per. s angl. Mednikova D.M. M., 1981. S. 200–235.
+7. Vezhbitskaya A. SEmantika: primitivy i universaliyi. Semanticheskiye universali i opisaniye yazykov [Semantics: primitives and universals. Semantic universals and description of languages]. M.: Yazyki russkoj kultury, 1999. 776 s.
+8. Vilyuman V.G. Semanticheskiye i funktsionalnyye svyazi slov i ikh sinonimiya v sovremennom anglijskom yazyke [Semantic and functional connections of words and their synonyms in modern English]. L., 1971.
+9. Wittgenstein L. Logiko-filosofskij traktat [Logical and philosophical treatise]. M., 1958. 133 s.
+10. Gak V.G. Leksicheskoye znacheniye slova [The lexical meaning of the word]. M., 1990. Lingvisticheskiy entsyklopedicheskiy slovar. М., 1990.
+11. Gursky S.O. Dva typy protystavlen u semasiologii [Two types of opposition in semasiology]. Inozemna filologiya. Lviv, 1969. Issue 18. S. 3–13.
+12. Gursky S.O. Deyaki problem semantychnoi kombinatoryky [Actual problems of semantic combinatorics].
+Inozemna filologiya. Lviv, 1979. Issue 53.
+
+13. Gursky S.O. Znachennya i smysl slova [Significance and meaning of the word]. Inozemna filologiya. Lviv, 1974. Issue 34. S. 3–18.
+14. Gursky S.O. Znachennya ta vzhyvannya prykmetnykiv v anglijskij movi [Significance and usage of prepositions in English]. Inozemna filologiya. Lviv, 1965. Issue 2.
+15. Gursky S.O. Nejtralizatsiya opozitsij v semasiologii [Neutralization of the oppositions in the semasiology].
+Inozemna filologiya. Lviv, 1981. Issue 63. S. 5–56.
+16. Gursky S.O. Znachennya slova i termin [Meaning of the word and the term]. Inozemna filologiya. Lviv, 1971. Issuie. 26. S. 28.
+17. Dudok R.I. Problema znachennya ta smyslu termina v humanitarnykh naukakh [The problem of term and sense meaning in the Humanities]. Lviv, 2009. 358 s.
+18. Zvegintsev V.A. Smysl i znacheniye [Sense and significance]. Theoretical and experimental studies in the field of structural and applied linguistics. Teoreticheskiye i eksperimentalnyye issledovaniya v oblasti strukturnoi i prikladnoi lingvistiki. М., 1973.
+19. Zvegintsev V.A. Semasiologiya [Semasiology]. M., 1957. 336 s.
+20. Kubryakova E.S. Semantika proizvodnogo slova [The semantics of a derivative word]. Aspekty semanticheskikh issledovanij. M., 1980. S. 96.
+21. Kurilovich E.R. Zametki o znachenii slova [Notes on the meaning of the word]. Voprosy yazykoznaniya. 1955. No. 25.
+22. Lyons J. Lingvisticheskaya semantika [Linguistic semantics]. M., 2000.
+23. Lakoff D. O porozhdayushchey semantike [On generative semantics]. Novoye v zarubezhnoi lingvistike. Vol. 10. M., 1981.
+24. Levitsky V.V. Semasiologiya [Semasiology]. Vinnitsya, 2006. 512 s.
+25. Mednikova E.M. Znacheniye slova i metody yego opisaniya [The meaning of the word and methods for its description]. M., 1974. 201 s.
+26. Nikitin M.V. Leksicheskoye znacheniye v slove i slovosochetanii [The lexical meaning in the word and phrase]. Vladimir, 1974.
+27. Oguy O.D. Semantychnyi rozvytok nimetskoho prykmetnyka «kuhn» [The semantic development of the German adjective «kuhn»]. Inozemna filologiya. Lviv, 1989. Issue 94. S. 87–94.
+28. Plotnikov B.A. Osnovy semasiologii [Fundamentals of Semasiology]. Minsk, 1986. 340 s.
+29. Russell B. Vvedeniye k logiko-filosofskomu traktatu L.Vitgenshteyna [Introduction to the logical and philosophical treatise of L. Wittgenstein]. M., 1958.
+30. Slyusareva N.A. Smysl kak ekstralingvisticheskoye yzvleniye [Sense as an extralinguistic phenomenon]. 1963. S. 185.
+31. Snitko O.S. Vnutrishnya forma movnoi odynytsi ta ii zmist [The internal form of a language unit and its inner essense]. Movoznavstvo. No. 5. 1991. S. 8–16.
+32. Solntsev V.M. Yazyk kak sistemno-strukturnoye obrazovaniye [Language as a systematic-and-structural formation]. М., 1977. 341 s.
+33. Sternin I.A. Znacheniye i aktualnyi smysl slova [The meaning and actual meaning of the word]. Semanticheskiye kategorii sopostavitelnogo izucheniya russkogo yazyka. Voronezh, 1981.
+34. Suleimenova E.D. Ponyatiye i smysl v sovremennoi lingvistike [Notion and meaning in modern linguistics]. Alma-Ata, 1989.
+35. Trubetskoy N.S. Osnovy fonologii [The basics of phonology]. М., 1960. 372 s.
+36. Ulman S. Semanticheskiye universalii [Semantic universals]. Novoye v lingvistike. Vol. 5. M., 1970.
+37. Baldinger D. Semantics theory: towards a modern semantics. Oxford, 1980.
+38. Breal M. Essai de Scemantigue. Paris, I987.
+39. Darmesteter A. La vie des mots etudiee dans leurs significations. Paris, 1899.
+40. Darmsteter Arsene. The life of Words as symbols of Ideals. London, 1886.
+41. Frege G. Uber Sinn und Bedeutung. Zeitschrift fur Philosophie Kritik – B., 1891.
+42. Verlag Enzyklopadie. 162 s.
+43. Hjelmslev L. Prologomena to a theory of Language. Vol. 19. No 1. Baltimore, 1953. 340 p.
+44. Goodenough. Componential analysis and the study of meaning. Language. 1956. V. 32, 1.
+45. Goursky S. The Idiomatic Heart of the English Language. Lviv, 1975. 179 p.
+46. Katz J.J., Fordor J.A. The structure of semantics theory. Language. 1963. V. 39. No. 2.
+47. Lyons John. Semantics. Vol. 1. Cambridge Univer Press. London.
+48. Nida E. Componentiai Analysis of Meaning. The Hauge-Paris, 1975.
+49. Ogden C.K., Richards L.E. The Meaning of Meaning. L., 1946.
+50. Ullman St. Words and their meanings. Australian National Univer. Camberra. 1974.
+51. Weinrich Uriel. On the Semantic Structure of Language. Univer. of Pensylvana Press. 1980. 420 p.
+52. Weirzbicka A. Semantic Primitives. Frankfurt. M., 1972.
+53. Wittgenstein L. Philosophical Investigations. Oxford, 1953. 220 p.
+
+
+Dudok Roman
+Ivan Franko National University of Lviv
+THE WORD, THE MEANING AND ITS SENSES
+(TO THE 100TH ANNIVERSARY OF THE SCIENTIST, PHILOLOGIST, GERMANIST, AND PEDAGOGUE SERGEI OMELANOVICH GURSKY (1919-2019)
+Summary. Spectrum of S.О. Gursky’s research interests impresses with his range and includes problems of lexicology, semantics, applied and branch terminology, linguocognitology and linguopragmatics. The seman- tics of language according to S.O. Gursky is the problem number one in linguistics, which has philosophical, logical, psychological, linguistic and purely semasiological aspects. The key scientific postulate of S.O. Gursky argues that the word does not change in different contexts, but merely reproduces its invariant meaning as a series of meaning-distinguishing signs, since the number of concepts, objects of real reality is unlimited, and the vocabulary of even the richest language is always limited. The word, according to S.O. Gursky, as a rule, relates to some one particular object of reality, which has, its generalizing nature, so to say, it is the invariant meaning. In fact, by combining the invariant meaning of the word and the variable basis of opposition, the meaning of the word is generated. Produced by S.O. Gursky concept – the separation of the stable component (invariant) from the variable components (senses) – formed the basis of the method “sense-meaning” worked out in his numerous scientific works. The essence of the technique consists in the sequential combination of invariant differential signs, fixed in sign meaning with different concepts in the context, and the formation of different senses. So, the scientific concept, of S.O. Gursky the “meaning-sense” is based on two fundamental principles: 1) on the distinguishing two diverse components of invariant meaning in the paradigm of speech and the variable component in speech syntagmatics; 2) on the relations of oppositions, identical concepts on differential signs, which are the basis of opposition. This approach of the scientist demonstrates that the in- variant meaning of a word as an element of the lexical-semantic system of language is a series of elementary stable semes / as components of the invariant meaning of the word, knowing them we can best understand the word or phrase in the professional text. The basic thesis of S.O. Goursky is that the word does not change, but reproduces its invariant meaning as a series of meaning-distinguishing features that are understood by apriori in the process of abstract thinking activity.
+Keywords: semantics, invariant meaning, variable components, method of “sense-meaning”, formation of different meanings, invariant differential sign, generalizing nature of the word.
+
+
+
+

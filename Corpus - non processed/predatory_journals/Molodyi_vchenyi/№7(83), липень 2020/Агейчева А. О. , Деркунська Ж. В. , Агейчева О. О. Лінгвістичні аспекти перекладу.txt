@@ -1,0 +1,325 @@
+«Молодий вчений» • № 7.1 (83.1) • липень, 2020 р.
+
+DOI: https://doi.org//10.32839/2304-5809/2020-83.1-2 
+УДК 378.018.43.02:004
+
+Агейчева А.О., Деркунська Ж.В., Агейчева О.О.
+Національний університет «Полтавська політехніка імені Юрія Кондратюка»
+
+ЛІНГВІСТИЧНІ АСПЕКТИ ПЕРЕКЛАДУ 
+АНГЛІЙСЬКОЇ НАУКОВО-ТЕХНІЧНОЇ ТЕРМІНОЛОГІЇ
+
+Анотація. Стаття є оглядом найбільш значних досліджень з проблем перекладу англійської науково- 
+технічної термінології. Представлені класифікація та аналіз труднощів, що виникають при перекладі, 
+пояснені їх основні причини. Пропонуються шляхи вирішення проблем перекладу науково-технічних 
+термінів. Доведено, що вирішальне значення у технічному перекладі має правильна інтерпретація тер- 
+мінів, які містять ключову інформацію. Досліджено деякі стилістично-граматичні особливості англійсько- 
+го тексту, невластиві стилю української технічної літератури. Визначено причини труднощів у процесі 
+аналізу зовнішньої форми і структурної організації терміну, інтерференція рідної мови, внутрішньомовна 
+омонімія. У ході вирішення поставлених завдань було виявлено, що термінологія є окремою лексичної 
+категорією, ключовим аспектом якої є термін, який у більшості вивчених нами робіт визначається як оди- 
+ниця мови, що вживається для позначення спеціальних понять і явищ.
+Ключові слова: науково-технічна термінологія, переклад, стилістично-граматичні особливості.
+
+
+
+Постановка проблеми. Сучасна термі- 
+нологія – досить складний і неоднорід-
+ний лексичний пласт. Попри твердження про 
+однозначність, конкретність, чіткість і ясність 
+термінів, багато з них не можуть вважатися 
+такими, оскільки вони є багатозначними і ма- 
+ють синоніми. Межі між термінологічною і не- 
+термінологічною лексикою часто розмиті. Вод- 
+ночас, стрімкий розвиток термінологічних сфер 
+практично всіх наук призводить до того, що 
+в сучасній термінології з'являється велика кіль- 
+кість нових лексичних одиниць. Подібні терміни 
+починають широко використовуватися, проте їх 
+фіксація в словниках дещо спізнюється, що ство- 
+рює необхідність знання та вмілого застосування 
+перекладацьких прийомів під час їх перекладу.
+   Аналіз останніх досліджень і публікацій. 
+Оскільки основними рисами українського тех- 
+нічного стилю є сувора ясність викладу, чіткість
+
+
+визначень, лаконічність форми, А.В. 
+Федоров визначив повноцінність перекладу 
+як «вичерп- ну передачу смислового змісту 
+оригіналу і повну функціонально-стилістичну 
+відповідність йому» [1], то, працюючи зі 
+спеціальними текстами, перекладач 
+зобов'язаний правильно зрозуміти і 
+адекватно передати мовою перекладу всю ін- 
+формацію, закладену в оригіналі.
+   Вирішальне значення у технічному 
+перекла- ді має правильна інтерпретація 
+термінів, які містять ключову інформацію. 
+Теоретично пере- клад термінів не повинен 
+викликати будь-яких ускладнень. Однак, 
+оскільки сучасна терміноло- гія являє собою 
+досить складний і неоднозначний пласт 
+лексики, на практиці ми переконалися, що 
+термінологічні одиниці часто є серйозною 
+пере- шкодою для правильного розуміння і 
+перекладу спеціальних текстів. Аналіз 
+труднощів перекла- ду є важливим для 
+навчання іноземної мови,
+оскільки він «є одним із способів оцінки викла- 
+дачем ефективності навчання і визначення, на 
+що слід звернути увагу в майбутньому» [2]. Щоб 
+вичерпно передати зміст, необхідно правильно 
+зрозуміти сенс термінологічної одиниці, а також
+«співвідношення між змістом і формою» [3, c. 121] 
+оригіналу, і підібрати відповідний еквівалент 
+у мові перекладу. При цьому Ю.Н. Марчук за- 
+кликає не протиставляти синтаксис і семантику 
+у визначенні частин мови і членів речення, а
+«розглядати ці два аспекти у тісному зв'язку і в їх 
+маніфестації у контексті» [4, c. 42]. Перешкодою 
+для розуміння може стати як форма терміну, так 
+і зміст укладеного в зовнішньо зрозумілій формі 
+поняття. Нерідко підбір відповідного еквівален- 
+та в мові перекладу також є нелегким завданням 
+для починаючого перекладача.
+   Формулювання мети статті. Визначення 
+деяких стилістично-граматичних особливостях 
+англійського тексту, невластивих стилю україн- 
+ської технічної літератури.
+   Виділення не вирішених раніше частин 
+загальної проблеми. Форма терміну є важли- 
+вим елементом для його розуміння. Розглянуто 
+труднощі, пов'язані з формою терміну. Форма 
+є невід'ємною частиною семантичної структури 
+будь-якого слова.
+Виклад основного матеріалу дослідження.
+   1.	В англійському тексті переважають осо- 
+бові форми дієслова, тоді як українському 
+науковому стилю більш властиві безособові 
+або невизначено-особові звороти, напри- 
+клад: You might ask why engineers have generally 
+chosen to supply us with a.c. rather than d.c. for our 
+household needs. – Можно запитати, чому для до- 
+машніх потреб зазвичай використовується змін- 
+ний, а не постійний ток. We know the primary coil 
+in the ordinary transformer to have more turns than 
+the secondary one. – Відомо, що первинна обмотка 
+звичайного трансформатора має більше витків, 
+ніж вторинна.
+   2.	В англійських текстах описового характеру 
+нерідко вживається майбутній час для вира- 
+ження теперішньої дії.
+   Керуючись контекстом, слід перекладати 
+такі пропозиції не майбутнім, а теперішнім ча- 
+сом, іноді з модальним відтінком: The zinc in the 
+dry cell accumulates a great many excess electrons 
+which will move to the carbon electrode. – Цинк 
+в сухому елементі акумулює велике число над- 
+лишкових електронів, що рухаються до вугіль- 
+ного електроду. Fig. 10 gives a drawing of a bulb; 
+the filament will be seen in the centre. – На рис. 10 
+наводиться креслення електричної лампи; нитку 
+розжарення видно в центрі.
+   3.	В англійських технічних текстах особливо 
+часто зустрічаються пасивні звороти, тоді як в 
+українській мові пасивний стан вживається зна- 
+чно рідше.
+   Отже, під час перекладу нам часто доводить- 
+ся вдаватися до заміни пасивних конструкцій 
+іншими засобами вираження, більш властиви- 
+ми українській мові [5, c. 184]. This question was 
+discussed at the conference. – Це питання було об- 
+говорено на конференції. – Це питання обговорю- 
+валося на конференції. – Це питання обговорю- 
+вали на конференції. – Конференція обговорюва- 
+ла (або: обговорила) це питання.
+   
+
+4.	Автори англійської технічної літератури 
+широко використовують різні скорочення, які 
+абсолютно не вживаються в українській мові, на- 
+приклад: d.c. (Direct current) – постійний струм; 
+а.с. (Alternating current) – змінний струм; s.a. 
+(Sectional area) – площа перерізу; b.p. (Boiling 
+point) точка кипіння та ін.
+   Такі скорочення в перекладі повинні розшиф- 
+ровуватися і даватися в повному позначенні.
+   5.	Деякі слова або вирази в англійському тексті 
+містять чужий нашій мові образ. Під час перекла- 
+ду вони повинні замінюватися аналогами, тобто 
+виразами, відповідними за змістом, але більш 
+звичними для українського тексту, наприклад:
+   We have learned to manufacture dozens of 
+construction materials to substitute iron.
+   Замість dozen – «тузінь» в українській мові 
+звичайно в таких випадках вживається слово де- 
+сяток, тому це речення ми перекладаємо так:
+   «Ми навчилися виробляти десятки будівель- 
+них матеріалів, що замінюють залізо».
+   Будь-який предмет або явище асоціюються у 
+нас з їх вербальним позначенням у рідній мові. 
+Стосовно іноземної мови, ми можемо не знати 
+того чи іншого слова, проте його форма часто до- 
+помагає нам по асоціації з рідною мовою, або ж 
+на основі вже відомих нам слів іноземною мовою 
+ми можемо зрозуміти його без словника. Н.І. Ша- 
+хова, вивчаючи питання розуміння слів у проце- 
+сі читання, виділила три їх категорії:
+   –	слова, розуміння яких відбувається через 
+усвідомлення їхньої графіки;
+   –	слова, розуміння яких відбувається через 
+усвідомлення їхньої структури;
+   –	слова, розуміння яких відбувається через 
+розуміння їхнього контексту [6, c. 124].
+   Подібна класифікація повною мірою стосується 
+термінів. Так, до першої групи можна віднести весь 
+комплекс інтернаціональних термінів, форми 
+яких у мовах оригіналу та перекладу схожі. Напри- 
+клад, схожа графічна форма терміну process – про- 
+цес допомагає зрозуміти його значення в тексті. Що 
+стосується терміну expert, то хоча для його перекла- 
+ду краще використовувати український еквівалент
+«спеціаліст», замість запозичення «експерт», фор- 
+ма англійського терміну є і в цьому випадку ключем 
+для правильного трактування [7, с. 27].
+   До термінів, розуміння яких відбувається 
+через контекст, відносяться багатозначні слова 
+і словосполучення, реалії, терміни та слова, які 
+набули нового значення у спеціальному контек- 
+сті, так звані конотовані терміни. Аналіз кон- 
+тексту при роботі з подібними термінами необ- 
+хідний для їх правильного перекладу [8, с. 31].
+   Під час перекладу термінів важливо врахо- 
+вувати багато факторів, однак якщо правильно 
+виділено той елемент, який допомагає встанови- 
+ти послідовність між відомим і новим, це можна 
+вважати першим кроком до правильного розу- 
+міння. Усі види аналізу терміна: компонентний, 
+словотвірний, морфологічний, контекстуальний 
+полегшують розуміння терміну. Стосовно термі- 
+нів, що відносяться до перших двох груп, то гра- 
+мотно проведений аналіз форми терміну в цьому 
+випадку найчастіше призводить до його розумін- 
+ня і вірного перекладу [9, с. 38].
+   Однак досить часто інтерференція рідної мови 
+сильно заважає роботі перекладача [10, с. 7].
+   В.В. Алімов називає «дві будь-які значущі 
+одиниці (морфеми, слова, вирази, речення), які 
+за звучанням / написанням та функціями в од- 
+ній мові нагадують відповідні одиниці і функції 
+в іншій мові» [11, c. 15] інтерферентами і ви- 
+діляє як позитивні, так і негативні інтерфе- 
+ренти. «Мовна інтерференція визначається як 
+взаємодія мовних систем в умовах двомовності, 
+що формується або за взаємодії різномовних со- 
+ціумів, або у разі індивідуального білінгвізму».
+«Основною причиною деструктивної інтерфе- 
+ренції у технічному перекладі є недостатня або 
+надмірна ідентифікація якихось лінгвістичних 
+і спеціальних явищ і функцій в одній мові і їх 
+компенсація схожими, на думку перекладача, 
+явищами і функціями у іншій мові» [11, c. 22].
+   Висновки і перспективи дослідження. Як 
+відомо, джерелом формування термінологічної ін-
+формації є практична творча діяльність 
+людей, суспільно-пізнавальний досвід. Цим 
+визначаєть- ся соціальна сутність 
+термінологічної інформації, яка концентрує в 
+собі колективну профільно-на- укову пам'ять, 
+базовими одиницями якої виступа- ють 
+поняття. Формування нового поняття нерідко 
+пов'язане із новим сприйняттям предмета, 
+який розуміється на базі наявного мовного 
+досвіду. Пере- кладач повинен вивчити ту 
+область науки і тех- ніки, в якій він 
+працює. Це дає йому можливість домогтися 
+вичерпного розуміння змісту понять, що 
+виражені термінами. Недостатня обізнаність у 
+тій галузі знання, до якої відноситься текст, 
+що пере- кладається веде до нерозуміння 
+терміну, незважа- ючи на те, що його форма 
+може бути зрозуміла або навіть знайома 
+перекладачеві. Перспективу по- дальших 
+досліджень також вбачаємо в аналізі ін- ших 
+труднощів, що виникають під час перекладу.
+
+Список літератури:
+1.	Федоров А.В. Основы общей теории перевода. Лингвистические проблемы : учебное пособие. Москва : Высш. 
+школа, 2009. 396 с.
+2.	Алимов В.В. Явление лингвистической интерференции при изучении специального перевода : автореф. дис. 
+канд. филолог. наук. Москва : МГУ, 2008. 24 с.
+3.	Нелюбин Л.Л. Введение в технику перевода (когнитивный теоретико-прагматический аспект) : учебное по- 
+собие. Москва : Изд-во МГОУ, 2005. 153 с.
+4.	Марчук Ю.Н. Проблемы машинного перевода : учебное пособие. Москва : Наука, 2008. 232 с.
+5.	Ковтун О.В. Особливості перекладу англійських авіаційних термінів українською мовою. Матеріали 
+ІІІ міжн. наук.-практ. конф. [«Соціокультурні та етнолінгвістичні проблеми галузевого перекладу в па- 
+радигмі євроінтеграції»], (2-3 квітня 2010 р.). Київ : АграрМедіаГруп, 2010. С. 182–186.
+6.	Шахова Н.И. Вопросы обучения пониманию слов в процессе чтения. Лингвистика и методика преподава- 
+ния иностранного языка. Москва : Наука, 2006. С. 124–128.
+7.	Рябцева Н.К. Перевод как специальная речевая деятельность. Проблемы перевода текстов разных типов. 
+Москва : Ин-т языкознания, 2007. С. 22–35.
+8.	Кучман І. Переклад англійських термінів у галузі комп’ютерних технологій. Вісник Житомир. держ. ун-ту 
+імені Івана Франка. 2005. Вип. 10. С. 25–32.
+9.	Корбут О.Г. До проблеми труднощів перекладу технічних термінів у студентів машинобудівних спеціальностей.
+Advanced Education. 2014. Вип. 1. С. 36–41.
+10.	Смірнова Т.В. Лексичні прийоми перекладу термінологічних одиниць транспортної галузі (Нац. авіаційний 
+ун-т, м. Київ). URL: http://er/nau/edu/ua
+11.	Алимов В.В. Явление лингвистической интерференции при изучении специального перевода : автореф. дис. 
+канд. филолог. наук. Москва : МГУ, 2008. 24 с.
+References:
+1.	Fedorov A.V. (2009). Osnovy obshhej teorii perevoda. Lingvisticheskie problemy: uchebnoe posobie [Fundamentals 
+of general translation theory. Linguistic problems: a textbook]. Moskva: Vyssh. shkola, 396 s.
+2.	Alimov V.V. (2008). Yavlenie lingvisticheskoj interferenczii pri izuchenii speczial`nogo perevoda [The phenomenon 
+of linguistic interference in the study of special translation]: avtoref. dis. kand. filolog. nauk. Moskva: MGU, 24 s.
+3.	Nelyubin L.L. (2005). Vvedenie v tekhniku perevoda (kognitivny`j teoretiko-pragmaticheskij aspekt): uchebnoe 
+posobie [Introduction to the technique of translation (cognitive theoretical and pragmatic aspect): a textbook]. 
+Moskva: Izd-vo MGOU, 153 s.
+4.	Marchuk Yu.N. (2008). Problemy mashinnogo perevoda: uchebnoe posobie [Problems of machine translation: 
+a textbook]. Moskva: Nauka, 232 s.
+5.	Kovtun O.V. (2010). Osoblyvosti perekladu anhliiskykh aviatsiinykh terminiv ukrainskoiu movoiu [Features of 
+the translation of English aviation terms into Ukrainian]. Materialy III mizhn. nauk.-prakt. konf. [«Sotsiokulturni 
+ta etnolinhvistychni problemy haluzevoho perekladu v paradyhmi yevrointehratsii»], (2-3 kvitnia 2010 r.). Kyiv: 
+AhrarMediaHrup, s. 182–186.
+6.	Shakhova N.I. (2006). Voprosy obucheniya ponimaniyu slov v proczesse chteniya [Questions of learning to 
+understand words in the process of reading]. Lingvistika i metodika prepodavaniya inostrannogo yazyka. Moskva: 
+Nauka, s. 124–128.
+7.	Ryabczeva N.K. (2007). Perevod kak speczialnaya rechevaya deyatelnost [Translation as a Special Speech 
+Activity]. Problemy perevoda tekstov raznykh tipov. Moskva: In-t yazykoznaniya, s. 22–35.
+8.	Kuchman I. (2005). Pereklad anhliiskykh terminiv u haluzi kompiuternykh tekhnolohii [Translation of English 
+Terms in Computer Technology]. Visnyk Zhytomyr. derzh. un-tu imeni Ivana Franka, vyp. 10, s. 25–32.
+9.	Korbut O.H. (2014). Do problemy trudnoshchiv perekladu tekhnichnykh terminiv u studentiv mashynobudivnykh 
+spetsialnostei [On the Problem of Difficulties in Translation of Technical Terms in Students of Mechanical 
+Engineering Specialties]. Advanced Education, vyp. 1, s. 36–41.
+10.	Smirnova T.V. Leksychni pryiomy perekladu terminolohichnykh odynyts transportnoi haluzi [Lexical methods of 
+translation of terminological units of the transport industry] (Nats. aviatsiinyi un-t, m. Kyiv). URL: http://er/nau/edu/ua
+11.	Alimov V.V. (2008). Yavlenie lingvisticheskoj interferenczii pri izuchenii speczial`nogo perevoda [The phenomenon 
+of linguistic interference in the study of special translation]: avtoref. dis. kand. filolog. nauk. Moskva: MGU, 24 s.
+
+
+Ageicheva Anna, Derkunska Zhanna, Aheicheva Oleksandra
+National University «Yuri Kondratyuk Poltava Polytechnic»
+ENGLISH SCIENTIFIC AND TECHNICAL TERMINOLOGY
+TRANSLATION LINGUISTIC ASPECTS
+Summary. The article is an overview of the most significant research on the problems of translation in English 
+scientific and technical terminology. The classification and analysis of difficulties encountered in translation 
+are presented, their main reasons are explained. Ways of solving problems of translation scientific and techni- 
+cal terms are offered. It is proved that the correct interpretation of terms that contain key information is crucial 
+in technical translation. Some stylistic and grammatical features of the English text, which are not peculiar 
+to the style of Ukrainian technical literature, are investigated. The causes of difficulties in the process of anal- 
+ysis of the external form and structural organization of the term interference of the mother tongue, intrinsic 
+homonymy, foreign to the language translation form of the term, complex structural organization of the term. 
+The basic properties of the term were also revealed, such as systematicity, uniqueness, out-of-context, lack of 
+emotional coloring, informativeness. The specificity of the term, which distinguishes it from other words of the 
+language, is a special purpose, the function of the term – whenever possible to clearly call special concepts. 
+As professionalism is used to refer to certain concepts only in the sphere of a particular profession, crafts, 
+crafts, they do not always meet the standards of literary language. For the most part, professionalism is used in 
+the oral informal speech of people of a particular profession. In the terminology studied, the thematic principle 
+distinguishes different in terms of volume and structure of the group of technical terms, combined semanti- 
+cally and functionally on the basis of the connection of objects and phenomena of reality, which they denote 
+in the language of translation the form of the term, complex structural organization of the term. Source of 
+formation of terminological information is practical creative activity of people, social and cognitive experience. 
+This defines the social essence of terminological information, which concentrates the collective profile-scientific 
+memory, the basic units of which are concepts. The formation of a new concept is often associated with a new 
+perception of the subject, which is understood on the basis of available language experience
+Keywords: scientific and technical terminology, translation, stylistic and grammatical features.

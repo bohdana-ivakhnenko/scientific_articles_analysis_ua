@@ -1,0 +1,199 @@
+﻿Лінгвістичні студії ДоНУ
+2018
+Жанна Краснобаєва-Чорна
+УДК 371.1:81’374.2
+ОСОБЛИВОСТІ ПРОЕКТУВАННЯ ТА ФУНКЦІЙНЕ ПРИЗНАЧЕННЯ ЛІНГВІСТИЧНИХ БАЗ ДАНИХ У ФРАЗЕОЛОГІЇ, ФРАЗЕОГРАФІЇ ТА ФРАЗЕОЛОГІЧНІЙ ТЕРМІНОГРАФІЇ
+
+      У статті здійснено огляд студіювань із фразеології, фразеографії та фразеологічної термінографії, здійснених у рамах освітньої програми «Прикладна лінгвістика / Applied Linguistics» (03 «Гуманітарні науки», спеціальність 035 «Філологія») та в межах наукової теми «Комунікативно-прагматична і дискурсивно- граматична лінгвоперсонологія: структурування мовної особистості та її комп’ютерне моделювання» (номер державної реєстрації 0115U000088) кафедри загального та прикладного мовознавства і слов’янської філології Донецького національного університету імені Василя Стуса, із опертям на проектування лінгвістичних баз даних. Запропоновано алгоритм опрацювання лінгвістичної бази даних термінів на позначення класифікаційних типів фразеологізмів, що сформована 13 термінологічними підсистемами та позиціонована як комп’ютерний галузевий термінографічний словник.
+      Ключові слова: лінгвістична база даних, фразеологія, фразеографія, фразеологічна термінографія, комп’ютерний галузевий термінографічний словник.
+
+      Сучасні студіювання з прикладної лінгвістики позиціонують базу даних як один із найадекватніших способів    структурування,    формалізації    й    упорядкування     мовних    даних     (див. праці     А. Загнітка, Є. Карпіловської, А. Міщенко, В. Широкова та ін.). Проблематика використання лінгвістичних баз даних (ЛБД) у фразеології, фразеографії та фразеологічній термінографії на матеріалі досліджень, здійснених у рамах освітньої програми «Прикладна лінгвістика / Applied Linguistics» (03 «Гуманітарні науки», спеціальність 035 «Філологія») та в межах наукової теми «Комунікативно-прагматична і дискурсивно-граматична лінгвоперсонологія: структурування мовної особистості та її комп’ютерне моделювання» (номер державної реєстрації 0115U000088) кафедри загального та прикладного мовознавства і слов’янської філології Донецького національного університету імені Василя Стуса, досі не поставала предметом окремої розвідки, що і зумовлює актуальність статті.
+      Мета статті: схарактеризувати основні напрями використання лінгвістичних баз даних у фразеології та фразеографії й опрацювати алгоритм проектування лінгвістичної бази даних у фразеологічній термінографії.
+      ЛБД лексичних фразеологізмів. Двоетапне проектування ЛБД (інфологічний і датологічний етапи) презентоване в проектах В. Лобасової (ЛБД «Емоції людини» (на матеріалі фразеології української та російської мов) (Lobasova 2011)), А. Філенко (ЛБД вигукових фразеологізмів сучасної української мови (Filenko 2013)), Д. Кизим (ЛБД урочистих фразеологізмів сучасної української мови (Kyzym 2016)) та ін.
+      Метою наукової розвідки Є. Рахматової (Rakhmatova 2012) є створення бази даних «Людина як носій психічних та морфологічних властивостей» і програми, що забезпечить швидкий доступ до фразеологічних одиниць (ФО) сучасної української мови з архісемою “людина”. Під час упорядкування ФО за основу взято фразеоідеографічну класифікацію. База даних створена за допомогою табличного процесора Microsoft Access 2010 в традиційному для цього середовища створення бази даних форматі .accdb й, на думку автора, може використовуватись під час укладання електронного фразеологічного словника ідеографічного типу.
+      О. Негру ставить за мету виявити етнолінгвістичну специфіку українських весільнообрядових ФО із компонентами вінок / вінець і рушник та опрацювати електронні словникові статті «етнореалія вінок/вінець» й
+«етнореалія рушник» для етнолінгвістичного словника-довідника української мови (Nehru 2011; Nehru 2012). Електронні статті створено в програмі Microsoft Office Access і сформовано 4 полями: 1) етнолінгвістична семантика етнореалій вінок / вінець і рушник; 2) ФО з компонентами вінок / вінець і рушник та їхнє тлумачення різними лексикографічними джерелами; 3) етнолінгвістичний коментар; 4) етнографічна довідка. В такий спосіб за необхідності у базі можна одразу побачити всі ФО української мови з компонентами вінок / вінець і рушник, їхню лексикографічну інтерпретацію та зв’язок з обрядодіями українського весілля.
+      О. Філіпповською (Filippovsjka 2014) опрацьовано структуру полів оптимальної бази даних ФО і визначено принципи її укладання в середовищі програми системи керування базою даних Microsoft Access 2010. База даних ФО ґрунтована на реляційній моделі репрезентації даних, має вигляд форми з вкладками, що об’єднують відповідні текстові поля й елементи керування. В кожній вкладці закладено суттєву інформацію про відповідні параметри ФО. Базовою вкладкою виступає «Характерологія», в якій подано поля: словникове значення ФО, контекст, інформація про синонімію, переклад російською мовою. Друга вкладка «Синтаксична функційність» висвітлює спроби визначити типові синтаксичні функції ФО в структурі речення. В третій вкладці «Структурність» проаналізовано кількість компонентів у складі ФО задля подальшої квантифікації. Четверта вкладка подає інформацію про тип ФО за семантико-граматичною класифікацією.
+      О. Савенко на ґрунті бази даних «Фразеологічні одиниці з компонентом “міфологічна істота” в сучасній українській мові» створено електронний словник, для укладання якого обрано мову програмування C# (Savenko 2014; Savenko 2015). Visual studio 2012 C# Form Application дає змогу створювати програми, які завантажують інформацію з файлових документів і відображають її у вікні. Програма займає невелику кількість пам’яті та реалізує всі потреби репрезентації словника. Для кожної міфологічної істоти (доля, душа,
+
+жар-птиця, лизь, хапун, чорт тощо) словник фіксує синонімію назв, походження, ілюстрації й ФО. До фразеологізму подано тлумачення, структурну схему, особливості вживання, семантико-граматичну характеристику та контекст із художньої літератури.
+      Проектування ЛБД «Концепт людина у фразеології східностепових українських говірок» здійснено І. Гарберою також у два етапи (Gharbera 2018). На інфологічному етапі: а) сформовано корпус ареальних фразеологічних одиниць (АФО) східностепових українських говірок з архісемою “людина”; б) визначено класифікаційні типи АФО за аксіологічним, ідеографічним, структурним параметрами; в) опрацьовано перелік кодів культури та міжкодових переходів аналізованого концепту; г) побудовано словникову статтю АФО; ґ) укладено проектну таблицю ЛБД.
+      Під час датологічного етапу створено ЛБД на основі Microsoft Office Access із використанням єдиної таблиці даних, яка становить алфавітний словник аналізованих АФО з указівкою приналежності до певної фразеосемантичної групи або підгрупи; запитів, що відповідають за вибірку даних із таблиці за визначеними параметрами; форм, що виступають сторінками в меню; макросів, що забезпечують навігаційні дії в розділах меню ЛБД. Головне меню представлено розділами «Ареальні фразеологічні одиниці», «Коди культури»,
+«Аксіологічна характеристика», що цілком відповідає структурним складникам концепту людина у фразеології східностепових українських говірок.
+      Л Б Д с и н т а к с и ч н и х ф р а з е о л о г і з м і в . Найефективнішим інструментом для компактної репрезентації сукупності параметрів синтаксичних фразеологізмів, зручності і швидкості опрацювання потрібних даних Г. Ситар також вважає базу даних. Інфологічний етап проектування бази даних «Синтаксичні фразеологізми в українській мові» включає відбір і структурування відповідних мовних і / або лінгвістичних даних, тобто виділення моделей синтаксичних фразеологізмів в українській мові та встановлення їхніх класифікаційних ознак. На другому етапі здійснено вибір системи керування базою даних (Sytar 2017). Основним полем у режимі форми є поле «Структурна схема речення», що відповідає запису моделі речення. Решта виділених ознак синтаксичних фразеологізмів згруповано авторкою у вісім вкладок: 1) структура (тип речення за будовою; частиномовний статус стрижневого компонента; кількість словоформ у межах стрижневого компонента; варіанти структурної схеми; наявність поширювачів; членованість / нечленованість речення); 2) семантика (типова семантика речення; додаткові семантичні відтінки; семантичний тип; ступінь злитості компонентів; наявність / відсутність лексичних обмежень на заповнення позиції змінного компонента; образні моделі); 3) синтаксична парадигматика відбиває компонентний склад синтаксичної парадигми описуваної моделі речення (граматичні модифікації часу, способу, фазові, модальні та інші перетворення базової моделі речення); 4) прагматика (прагматична функція синтаксичного фразеологізму; прагматичний статус мовця;   прагматичний статус адресата);   5) статистика (обчислення   показників асоціації   МІ,МІ3, MI log Freq, Dice і gmean); 6) семантико-парадигмальні властивості (синтаксичні синоніми; синтаксичні омоніми); 7) словникові відомості (дані, які наведено в авторитетних словниках); 8) приклади вживання в художньому, публіцистичному й розмовному стилях.
+      ЛБД у фразеографії. За матеріалами поліграфічного опису «Сучасна українська фразеографія: Довідник» (Krasnobaieva-Chorna and Borovyk 2011) А. Боровик та В. Боровик опрацьовано його електронну версію (Borovyk and Borovyk 2013), позиціоновану як комп’ютерна база даних, що дає змогу здійснювати швидкий пошук і подавати повну інформацію на запит, оновлювати дані та визначувана високою надійністю її збереження та захисту. База даних «Сучасна українська фразеологічна лексикографія» створена у Java- програмі та реалізує 10 складників: 1) код; 2) колектив укладачів; 3) назва; 4) місто видання; 5) видавництво;
+6) рік видання; 7) типологічна характеристика; 8) реєстровий склад; 9) загальна характеристика; 10) читацька адреса. Форма містить також світлину видання.
+      ЛБД у фразеологічній термінографії. ЛБД постає також актуальним способом формалізації й організації термінів на позначення фраземних1 типів (Krasnobaieva-Chorna 2016). Завданнями інфологічного етапу проектування ЛБД «Фраземокласифікація» на ґрунті української мови є: 1) добір термінів з архісемою “фраземокласифікаційний тип” із наукової літератури; 2) опис специфіки класифікаційних критеріїв фразем; 3) установлення складу виокремлених термінологічних підсистем; 4) побудова словникової статті.
+1 крок: корпус термінів аналізованої мікросистеми нараховує 75 одиниць:
+1) ідіома1;
+2) ідіома2;
+3) ідіома квазіреальна;
+4) ідіома проміжного типу;
+5) ідіома, утворена незалежно від вільного словосполучення;
+6) ідіома, утворена шляхом переосмислення вільного словосполучення;
+7) ідіома фантомна;
+8) каламбур;
+9) крилатий вислів;
+10) приказка;
+11) прислів’я;
+
+
+1 Термін «фразема» вжито в роботі як синонім до термінів «фразеологізм», «фразеологічна одиниця».
+
+12) фразема адвербіальна;
+13) фразема ад’єктивна;
+14) фразема активна;
+15) фразема аплікована;
+16) фразема ареальна;
+17) фразема афористична;
+18) фразема вигукова;
+19) фразема-власне парафраза;
+20) фразема власне-українська;
+21) фразема-дисфемізм;
+22) фразема дієслівна;
+23) фразема-евфемізм;
+24) фразема еліптична;
+25) фразема займенникова;
+26) фразема замкненої структури;
+27) фразема запозичена;
+28) фразема застаріла1;
+29) фразема застаріла2;
+30) фразема з двопозиційним оточенням;
+31) фразема з однопозиційним оточенням;
+32) фразема з трипозиційним оточенням;
+33) фразема іменникова;
+34) фразема-інновація;
+35) фразема інтер’єктивна;
+36) фразема книжна;
+37) фразема контекстологічна;
+38) фразема літературна;
+39) фразема метафорична;
+40) фразема метонімічна;
+41) фразема міжстильова;
+42) фразема неаплікована;
+43) фразема незамкненої структури;
+44) фразема ненормативна;
+45) фразема нормативна;
+46) фразема образно-виразна;
+47) фразема-парафраза;
+48) фразема пасивна;
+49) фразема питомо українська;
+50) фразема прикметникова;
+51) фразема прислівникова;
+52) фразема просторічна;
+53) фразема професійного мовлення та жаргонів;
+54) фразема розмовна;
+55) фразема розмовно-побутова;
+56) фразема спільнослов’янська;
+57) фразема субстантивна;
+58) фразема східнослов’янська;
+59) фразема-табу;
+60) фразема тавтологічна;
+61) фразема термінологічна;
+62) фразема фольклорна;
+63) фраземна калька;
+64) фраземна калька денотативно-образна;
+65) фраземна калька неточна;
+66) фраземна калька смислово-образна;
+67) фраземна калька точна;
+68) фраземна напівкалька;
+69) фраземосемантична група;
+70) фраземосемантична підгрупа;
+71) фраземосемантичне поле;
+72) фразеологічна єдність;
+73) фразеологічне зрощення;
+
+74) фразеологічне сполучення;
+75) фразеологічний вираз.
+Зазначені вище терміни формують тринадцять підсистем:
+1) семантична фраземокласифікація;
+2) семантико-граматична фраземокласифікація;
+3) експресивно-стилістична фраземокласифікація;
+4) генетична фраземокласифікація;
+5) когнітивно-генетична фраземокласифікація;
+6) ідеографічна фраземокласифікація;
+7) структурна фраземокласифікація;
+8) функційна фраземокласифікація;
+9) фраземокласифікація з погляду переосмислення компонентів фразем;
+10) фраземокласифікація за сферою вживання;
+11) фраземокласифікація за лексичним складом;
+12) фраземокласифікація на основі методу фраземної аплікації;
+13) фраземокласифікація за оточенням.
+      2 крок: опис специфіки фраземокласифікаційного параметра (на прикладі фраземокласифікації на основі методу фраземної аплікації).
+      Фраземокласифікація на основі методу фраземної аплікації  – класифікація фразеологізмів, що передбачає виділення різновидів фразем на ґрунті їхнього накладання на еквівалентні вільні словосполучення за наявності таких. За цією методикою загальне (цілісне) значення фраземи порівнюване з лексичним значенням слів, що входять у вільне словосполучення такого саме лексичного складу. Розряди в цій класифікаційній схемі відображають різний характер віддаленості тієї чи тієї фраземи від вихідних словосполучень (за умови наявності останніх) і різний ступінь віддаленості компонентів фраземи від відповідних слів вільного вжитку (за умови неможливості утворення еквівалентно змінного словосполучення), пор.: історично апліковані фраземи, що мають цілісне немотивоване значення; апліковані звороти з цілісним немотивованим значенням у сучасній мові; апліковані фраземи з цілісним мотивованим значенням; неапліковані фраземи, мотивовані, з частково цілісним значенням. Метод фраземної аплікації, на думку В. Жукова, по-новому параметризує фраземний матеріал і водночас виявляє приховані лексико-семантичні процеси синтетичного й аналітичного характеру всередині кожного фраземного різновиду (Zhukov 1986: 80– 81). Заслугою В. Жукова, на думку М. Алефіренка, є вчення про смисловий центр фраземи – повнозначний компонент, який виконує в складі фраземи смислоутворювальну функцію; його наявність зумовлена нерівномірністю фраземологізації, тобто різним ступенем деактуалізації компонентів (Alefirenko 1987: 8). Визначальними термінами аналізованої фраземокласифікації є «фразема аплікована» та «фразема неаплікована».
+3 крок: складниками термінологічної підсистеми постають «фразема аплікована», «фразема неаплікована».
+4 крок: побудова словникових статей «фразема аплікована» і «фразема неаплікована»:
+      ФРАЗЕМА АПЛІКОВАНА – фразема, що в синхронному аспекті може протиставлятися вільним словосполученням такого ж самого лексичного складу. До цієї групи належать: 1) фраземи, які на тлі вільних словосполучень не дають метафоричного ефекту (рос. барашек в бумажке; лить колокола); 2) фраземи, що на тлі вільних словосполучень еквівалентного складу дають метафоричний ефект (рос. бить мимо цели; бить по рукам).
+ДИВ.: фразема неаплікована.
+      Література: Жуков 1986: Жуков В.П. Русская фразеология : уч. пособ. / В. П. Жуков. – М. : Высшая школа, 1986. – С. 80– 82.
+      ФРАЗЕМА НЕАПЛІКОВАНА – фразема, що з погляду сучасного мовного стану не може накладатися на вільне словосполучення через нездатність його утворити. До цієї групи належать: 1) окремі фраземи, що складаються з лексичних і лексико-фонетичних архаїзмів (рос. опочить в бозе; семо и овамо); 2) значна частина фразем, що містять окремі невживані лексичні елементи (рос. точить лясы; бить баклуши);
+3) фраземи, які повністю чи частково охоплені граматичною архаїзацією (рос. во вся тяжкая; еле можаху; очертя голову; спустя рукава).
+ДИВ.: фразема аплікована.
+      Література: Жуков 1986: Жуков В.П. Русская фразеология : уч. пособ. / В. П. Жуков. – М. : Высшая школа, 1986. – С. 80; 83– 89.
+      Під час датологічного етапу створено ЛБД на основі Microsoft Office Access із використанням єдиної таблиці даних, запитів, макросів і форм. Головне меню ЛБД представлено вікнами «терміни» і «термінологічні підсистеми». Запит «терміни» уводить до таблиці з даними, що уможливлює перегляд усіх даних і здійснення пошуку певних термінів, розташованих за абетковим принципом, або термінологічних підсистем. Таблиця містить також указівку на джерело терміна та відображає його парадигмальні відношення. Запит
+«термінологічні підсистеми» вводить до меню, де кожна кнопка відповідає типу класифікації фразем за певним критерієм.
+
+      Основним принципом систематизації термінів на позначення типів фразем у дослідженні постає принцип тезаурусу, тобто наповнення парадигми «терміносистема – термінологічна мікросистема – термінологічна підсистема – термін», презентований за допомогою лінгвістичної бази даних. Так, одним із складників терміносистеми «фраземіка» постає мікросистема «фраземокласифікація» (пор., мікросистеми
+«фраземіка як наука», «кваліфікаційні ознаки фраземи», «фраземографія»).
+      Лінгвістичну базу даних визнано найбільш адекватним інструментом компактної репрезентації різноманітних параметрів лексичних і синтаксичних фразеологічних одиниць. Тематичні лінгвістичні бази даних, опрацьовані на ґрунті фразеологічного фонду мови, проектовано на (а) електронний фразеологічний словник ідеографічного зразка; (б) електронний етнолінгвістичний словник-довідник; (в) електронний перекладний фразеологічний словник; (г) електронний словник-довідник міфологічних істот; (д) електронний лінгвокультурологічний фразеологічний словник тощо. Поліграфічний опис сучасної української фразеографії також уможливлює презентацію комп’ютерною базою даних довідкового типу. Лінгвістична база даних термінів, представлена в статті 75 термінологічними одиницями на позначення класифікаційних типів фразеологізмів і сформована 13 термінологічними підсистемами, позиціонована як комп’ютерний галузевий термінографічний словник.
+      Перспективу вбачаємо в укладанні лінгвістичних баз даних інших тематичних груп фразеологізмів і термінологічних мікросистем фразеології за опрацьованими в прикладній лінгвістиці моделями й алгоритмами.
+
+References
+      Alefirenko, Mykola. Teoretychni pytannja frazeologhiji (Theoretical Issues of Phraseology). Kharkiv: Vyshha shkola, 1987. Print.
+      Borovyk, Alina, and Borovyk, Volodymyr. “Alghorytm stvorennja bazy danykh «Suchasna ukrajinsjka frazeologhichna leksykoghrafija» (Algorithm for Creating a Database «Modern Ukrainian Phraseological Lexicography»).” Linghvokomp'juterni doslidzhennja (Lingvo-Computer Studies) 6 (2013): 140– 147. Print.
+Zhukov, Vlas. Russkaja frazeologija (Russian Phraseology). Moskva: Vysshaja shkola, 1986. Print.
+      Gharbera, Iryna. “Koncept «Ljudyna» u frazeologhiji skhidnostepovykh ukrajinsjkykh ghovirok (Concept «Human» in Phraseology of East-Step Ukrainian Dialects).” Diss. Vasyl’ Stus Donetsk National U, 2018. Abstract. Print.
+      Zagnitko, Anatolij, and Dany`lyuk, Illya, and Krasnobaieva-Chorna, Zhanna, and Puty`lina, Oksana, and Sy`tar, Ganna. Parady`gmal`no-kategorijni osnovy` pry`kladnoyi lingvisty`ky` (Paradigm-Categorical Foundations of Applied Linguistics). Vinnytsia: TOV «Niland-LTD». 2015. Print.
+      Karpilovs`ka, Yevgeniya. Vstup do pry`kladnoyi lingvisty`ky`: komp'yuterna lingvisty`ka (Introduction to Applied Linguistics: Computer Linguistics). Donetsk: TOV «Yugo-Vostok, Ltd», 2006. Print.
+      Kyzym, Diana. “Urochysti frazeologhichni odynyci suchasnoji ukrajinsjkoji movy: infologhichnyj i datologhichnyj etapy proektuvannja bazy danykh (Solemn Phraseological Units of Modern Ukrainian Language: Infologic and Datological Stages of Database Project).” Linghvokomp'juterni doslidzhennja (Lingvo-Computer Studies) 9 (2016): 63– 66. Print.
+      Krasnobaieva-Chorna, Zhanna. Linhvofrazemna aksiolohiya: paradyhmal’no-katehoriynyy vymir (Linguaphrasemic Axiology: Paradigmal-Categorical Dimension). Vinnytsia: TOV «Niland-LTD». 2016. Print.
+      Krasnobaieva-Chorna, Zhanna, and Borovyk, Alina. Suchasna ukrajinsjka frazeoghrafija: Dovidnyk (Modern Ukrainian Phraseography: Directory). Donetsk: DonNU. 2011. Print.
+      Lobasova, Valerija. “Linghvokuljturologhichna specyfika emocijnykh reakcij ljudyny u frazeologhiji (na materiali bazy danykh «Emociji ljudyny») (Lingvo-Cultural Specificity of Human Emotional Reactions in Phraseology (Based on the Database of «Human Emotions»)).” Linghvokomp'juterni   doslidzhennja   (Lingvo-Computer Studies) 4 (2011): 58– 61. Print.
+      Mishhenko, Alla. Lingvisty`ka faxovy`x mov ta suchasna model` naukovo-texnichnogo perekladu (Linguistics of Professional Languages and Modern Model of Scientific and Technical Translation). Vinny`cya: Nova Kny`ga, 2013. Print.
+      Nehru, Olena. “Etnorealija vinok/vinecj v ukrajinsjkij vesiljnoobrjadovij frazeologhiji: elektronna slovnykova stattja (Ethno-Real Wreath in Ukrainian Wedding Phraseology: Electronic Dictionary Article).” Linghvokomp'juterni doslidzhennja (Lingvo-Computer Studies) 4 (2011): 61– 63. Print.
+      Nehru, Olena. “Etnorealija «rushnyk» v ukrajinsjkij shljubnoobrjadovij frazeologhiji: elektronna slovnykova stattja (Ethno-Real «Towel» in Ukrainian Wedding Phraseology: Electronic Dictionary Article).” Linghvokomp'juterni doslidzhennja (Lingvo-Computer Studies) 5 (2012): 82– 86. Print.
+      Rakhmatova, Jevghenija. “Portretna kharakterystyka ljudyny v ukrajinsjkij i rosijsjkij frazeologhiji: komp'juterna versija (Portrait Characterization of a Person in Ukrainian and Russian Phraseology: Computer Version).” Ucheni zapysky Tavrijsjkogho nacionaljnogho universytetu imeni V. I. Vernadsjkogho. Serija: Filologhija. Socialjni komunikaciji (Scientists Note the V. I. Vernadsky Taurida National University. Series: Philology. Social Communication) 25(64) (2012): 223– 229. Print.
+      Savenko, Marija. “Mifologhemy na poznachennja khvoroby v ukrajinsjkij frazemici: elektronna slovnykova stattja (Mythologems on the Designation of the Disease in the Ukrainian Phrasemic: Electronic Dictionary Article).” Donecjkyj visnyk Naukovogho tovarystva im. Shevchenka (Donetsk Gazette of the   Shevchenko   Scientific Society) 39 (2014): 165– 172. Print.
+
+      Savenko, Marija. “Mifologhemy zolota rybka ta zhar-ptycja v ukrajinsjkij frazeologhiji: elektronna slovnykova stattja (Mythologems of Golden Fish and Poultry in Ukrainian Phraseology: Electronic Dictionary Article).”Linghvokomp'juterni doslidzhennja (Lingvo-Computer Studies) 8 (2015): 8– 13. Print.
+      Sytar, Hanna. Syntaksychni frazeolohizmy v rozrizi konstruktsiinoi hramatyky (Syntactic Idioms in the Context of Construction Grammar). Vinnytsya: ТОV «Nilan-LTD», 2017. Print.
+      Filenko, Aljona. “Stylistychna dyferenciacija vyghukovykh frazeologhizmiv v ukrajinsjkij movi: baza danykh (Stylistic Differentiation of Exclamation Phraseologisms in the Ukrainian: Database).” Linghvokomp'juterni doslidzhennja (Lingvo-Computer Studies) 6 (2013): 210– 213. Print.
+      Filippovsjka, Olena. “Strukturuvannja frazeologhichnykh odynycj u bazi danykh: typologhija poljovykh markeriv (Structure of Phraseological Units in the Database: Typology of Field Markers).” Linghvokomp'juterni doslidzhennja (Lingvo-Computer Studies) 7 (2014): 62– 64. Print.
+      Shy`rokov, Volody`my`r. Komp'yuterna leksy`kografiya (Computer Lexicography). Ky`yiv: Naukova dumka, 2011. Print.
+List of Abbreviations
+АФО – ареальна фразеологічна одиниця ЛБД – лінгвістична база даних
+ФО – фразеологічна одиниця
+
+Надійшла до редакції 14 березня 2018 року.
+
+      DESIGN FEATURES AND FUNCTIONAL PURPOSE OF LINGUISTIC DATABASES IN PHRASEOLOGY, PHRASEOGRAPHY AND PHRASEOLOGICAL TERMINOGRAPHY
+Zhanna Krasnobaieva-Chorna
+Department of General and Applied Linguistics and Slavonic Philology, Vasyl’ Stus Donetsk National
+University, Vinnytsia, Ukraine
+Abstract
+      Background: Modern researches of applied linguistics position the database as one of the most adequate ways of structuring, formalizing and arranging the linguistic data. The problems of the use of linguistic databases in phraseology, phraseography and phraseological terminography on the basis of the studies conducted within the framework of the educational program Applied Linguistics (03 “Humanities”, specialty 035 “Philology”) and within the framework of the scientific theme “Communicatively-Pragmatic and Discourse-Grammatical Linguopersonology: Structuring of the Language Personality and its Computer Modeling” (state registration number 0115U000088) of the Department of General and Applied Linguistics and Slavic Philology of Vasyl’ Stus Donetsk National University, has not yet been the subject of a separate study, which determines the relevance of the article.
+      Purpose: The purpose of the article: to characterize the main directions of using linguistic databases in phraseology and phraseography and to develop an algorithm for designing a linguistic database in phraseological terminography.
+      Results: The linguistic database is also positioned as an actual way of formalizing and organizing phraseological units, terms for designating types of phraseological units. The main principle of systematization of the latter in the study is the thesaurus principle, that is the filling of the paradigm «terminological system – terminological microsystem – terminological subsystem – term», represented by a linguistic database.
+      Discussion: The linguistic database is recognized as the most adequate tool for the compact representation of various parameters of lexical and syntactic phraseological units. Thematic linguistic databases, developed on the basis of the phraseological foundation of the language, enable the design on (a) an electronic phraseological dictionary of an ideographic sample; (b) electronic ethnolinguistic dictionary-reference; (c) an electronic translation phrase book; (d) an electronic dictionary of mythological creatures; (e) electronic linguistic and cultural phraseological dictionary, etc. The polygraphic description of modern Ukrainian phraseology is also represented by a computer database of reference type. The linguistic database of terms, presented in article 75 by terminological units to denote the classification types of phraseological units and is formed by 13 terminological subsystems, is positioned as a computer-specific terminological vocabulary.
+      We see the perspective in the compilation of linguistic databases of other thematic groups of phraseological units and terminological microsystems of phraseology based on models developed in applied linguistics and algorithms.
+      Keywords: linguistic database, phraseology, phraseography, phraseological terminography, computer industry terminological dictionary.
+
+Vitae
+      Zhanna Krasnobaieva-Chorna is Doctor of Philology, Associate Professor, Professor of Department of General and Applied Linguistics and Slavonic Philology at Vasyl’ Stus Donetsk National University. Her areas of research interests include phraseology, cognitive linguistics, comparative linguistics, lexicographic linguistics.
+Correspondence: zh.krasnobaieva@donnu.edu.ua
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

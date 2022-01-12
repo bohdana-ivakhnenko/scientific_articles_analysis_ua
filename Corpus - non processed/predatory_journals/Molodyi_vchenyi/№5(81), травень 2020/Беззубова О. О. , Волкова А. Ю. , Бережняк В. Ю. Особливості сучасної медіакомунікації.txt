@@ -1,0 +1,594 @@
+﻿«Молодий вчений» • № 5 (81) • травень, 2020 р.
+DOI: https://doi.org/10.32839/2304-5809/2020-5-81-89 
+УДК 811.11–112:81’42
+Беззубова О.О., Волкова А.Ю., Бережняк В.Ю.
+Національний технічний університет України
+«Київський політехнічний інститут імені Ігоря Сікорського»
+
+ОСОБЛИВОСТІ СУЧАСНОЇ МЕДІАКОМУНІКАЦІЇ
+
+Анотація. Стаття присвячена дослідженню сучасного медіа-простору, як каналу передачі інформації. Ви- 
+значення поняття «текст» у рамках аналізу текстів німецькомовних новин з онлайн джерел Der Spiegel, 
+Deutsche Welle, Ntv, Frankfurt Allgemeine та соціальних мереж Twitter, Instagram та Facebook. Актуальність 
+дослідження масмедійної комунікації зумовлена збільшенням потоку інформації. Технічний прогрес викли- 
+кає зміну моделі трансляції інформації, оскільки канали електронної комунікації мають специфічні ознаки, 
+тексти новин обмежуються згідно з технічними характеристиками та мають відповідати вимогам онлайн 
+джерел та соціальних мереж. Були визначені функції новин, а також їх завдання та структура. У ході ана- 
+лізу журналістських текстів (замітка, новина, репортаж) було досліджено та прокоментовано особливості 
+текстів, мовні та позамовні засоби, які використовують для досягнення комунікативної мети в медіатекстах.
+Ключові слова: комунікація, мас-медіа, медіатекст, канали електронної комунікації, замітка, новина, 
+репортаж.
+
+
+
+Постановка проблеми. Мас-медіа є одні- 
+єю з функціональних систем, що відобра-
+жає стан та вектори суспільного розвитку. Сучас- 
+ний медіа-простір представлений традиційними 
+каналами розповсюдження інформації – телеба- 
+ченням, радіо, газетами, журналами, які активно 
+інтегруються в мережу Інтернет, а також новими 
+медіа-засобами – месенджерами, соціальними 
+мережами та мікроблогами Telegram, Facebook, 
+Instagram, Twitter і т.д. Технічний прогрес ви- 
+кликав трансформацію комунікації та зміну мо- 
+делі трансляції інформації.
+   аналіз останніх досліджень і публікацій. 
+Актуальність дослідження масмедійної комуні- 
+кації зумовлена збільшенням потоку інформації. 
+Організація масової комунікації в електронному 
+просторі викликає науковий інтерес. Вивчен- 
+ням мас-медіа займалися вітчизняні та зарубіж- 
+ні лінгвісти С. Бернштейн, Т. Добросклонська,
+
+
+В. Костомаров, І. Лисакова, О. Пономарів, Б. 
+По- тятиник, В. Різун.
+   мета і завдання статті. Метою статті є 
+ви- світлити сутність масової ко-мунікації, 
+що реа- лізується в електронному просторі. 
+Наше зав- дання вбачаємо у визначенні 
+поняття текст та аналізі німецькомовних 
+новин з онлайн дже- рел Der Spiegel, 
+Deutsche Welle, Ntv, Frankfurt Allgemeine, а 
+також соціальних мереж Twitter та 
+Facebook.
+   Виклад основного матеріалу. В ХХІ 
+сто- літті інформація генерується та 
+репрезенту- ється в ефірному, друкованому 
+та електро- нному онлайн форматах. Масова 
+комунікація поступово зосереджується на 
+інформаційно-ко- мунікативних платформах 
+соціальних мереж та сервісів мікроблогінгу. 
+Потужним інструмен- том комунікативної 
+взаємодії та масової кому- нікації є 
+месенджер Telegram. Наприклад, но-
+
+винне повідомлення Telegram-каналу німецької 
+газети Rhein-Zeitung:
+   Schule für alle – aber im Corona-Modus: So soll 
+der Schulbetrieb laufen
+   https://www.rhein-zeitung.de/region/rheinland- 
+pfalz_artikel,-schule-fuer-alle-aber-im-coronamodus- 
+so-soll-der-schulbetrieb-laufen-_arid,2119457.html
+   Rheinland-Pfalz. Ab dem 18. Mai kehren 
+weitere Schüler in die rheinland-pfälzischen 
+Schulen zurück. Den Anfang machen die Höheren 
+Berufsfachschulen.
+   Заголовок тексту Schule für alle – aber im 
+Corona-Modus: So soll der Schulbetrieb laufen 
+спрямований привернути увагу читача до по- 
+дальшої інформації щодо відновлення навчаль- 
+ного процесу після карантинних обмежень через 
+пандемію COVID-19. В тексті оголошується дата 
+повернення німецьких школярів та учнів про- 
+фесійних шкіл федеративної землі Рейнланд- 
+Пфальц до навчання – 18 травня, а також пода- 
+ється посилання на повну статтю на сайті елек- 
+тронної версії газети.
+   Канали електронної комунікації вирізняють- 
+ся специфічними технічними характеристиками, 
+зокрема сервіс мікроблогів Twitter обмежує текст 
+повідомлення 280 знаками. Наприклад: Corona- 
+Zwangspause: EU und London nehmen Brexit- 
+Gespräche wieder auf http://dlvr.it/RV77w3 
+(@politikumfragen).
+   Через обмеження знаків текстового повідомлен- 
+ня у Twitter здебільшого зазначають лише назву 
+статті або подають короткий огляд, а також поси- 
+лання на сайт із повною версією статті, а у мережі 
+Facebook або Instagram може бути розміщена вся 
+стаття. Наприклад, політична партія Alternative 
+für Deutschland у своєму блозі на Facebook розміс- 
+тила повну статтю „Corona-Bonds betonieren die 
+Schuldenunion mit der EU!“ без редукування тексту:
+   Corona-Bonds betonieren die Schuldenunion 
+mit der EU!
+   Die Vergemeinschaftung von Schulden in der 
+EU erreicht im Schatten der Corona-Krise einen 
+neuen Höhepunkt. Mit sogenannten «Coronabonds» 
+versuchen EU-Politfunktionäre nun erneut, den
+u. a. deutschen Steuerzahler für das schlechte 
+Wirtschaften südlicher Volkswirtschaften bezahlen 
+zu lassen. Doch was vor Corona nicht funktioniert 
+hat, wird nach Corona auch nicht funktionieren.
+   Erinnert sei an das brandgefährliche Instrument 
+der «Target 2 Salden» oder das 2,6 Billionen 
+schwere EZB-Anleihenkaufprogramm aus dem 
+Jahr 2018. All diese Maßnahmen führen nur dazu, 
+dass Pleitestaaten sich weiter durchfüttern lassen 
+und somit schlechtes Wirtschaften belohnt wird.
+   Ein weiterer negativer Aspekt von Corona-Bonds 
+oder EZB-Anleihen sind die dadurch entstehenden 
+Marktverzerrungen: Denn was für Pleitestaaten 
+gilt, das trifft auch auf Unternehmen zu. Während 
+multi-globale Großkonzerne sich Marktvorteile 
+verschaffen, in dem sie sich von der EZB mit Geld 
+versorgen lassen, stehen kleine und mittelständische 
+Unternehmen diesen Mitbewerbern dann am Markt 
+chancenlos gegenüber.
+   Martin Schiller, stellv. Landessprecher der AfD 
+NRW, nimmt wie folgt Stellung:
+   «Die hilflosen Versuche bei der Bewältigung 
+der Folgen durch die Corona-Krise zeigen die 
+Schwächen eines zentralistischen Europa. Denn
+
+
+die EU-Funktionäre haben nur einen Plan: Geld 
+drucken. Was die Bevölkerung Europas aber braucht 
+ist weniger Bürokratie, weniger Umverteilung und 
+weniger Steuern. Wir müssen zurück zur sozialen 
+Marktwirtschaft und raus aus dem Euro, damit 
+die nationalen Wachstumskräfte endlich wieder 
+freigesetzt werden können» (@Alternative für 
+Deutschland NRW • AfD NRW).
+   Популярні онлайн видання та сайти Der 
+Spiegel, https://www.n-tv.de публікують замітки, 
+короткі новини та репортажі, які є текстами з 
+притаманними публіцистичному стилю мовнос- 
+тилістичними особливостями.
+   Поняття текст є важливою лінгвістичною ка- 
+тегорією. Погляди вчених на проблематику тек- 
+сту розходяться, оскільки текст відзначається 
+особливою складністю та багатоплановістю. Дея- 
+кі представники сучасної когнітивної лінгвістики 
+вважають, що поняття «текст» взагалі не можна 
+визначити, оскільки чим глибше рівень розумін- 
+ня тексту, тим більшу кількість різних напрямів 
+в його інтерпретації він відкриває [3, с. 24].
+   Термін текст може використовуватися для ви- 
+значення будь-якого цілісного продукту мовної 
+спроможності людини [5, с. 5]. Мовний акт або ряд 
+зв’язаних мовних актів, які здійснюються індиві- 
+дом в певній ситуації, представляють собою текст 
+(усний або письмовий) [2, с. 18]. Е. Косеріу визна- 
+чає текст як будь-яке словесне творення в усній 
+чи писемній формі. На думку О.С. Кубрякової,
+«текст – реально висловлене (написане) речення 
+чи сукупність речень (включаючи відрізок усно- 
+го чи письмового мовлення будь-якої довжини, 
+аж до цілого літературного твору усної народної 
+творчості тощо), що, зокрема, може служити мате- 
+ріалом для спостереження фактів даної мови» [4]. 
+Під поняттям тексту ототожнюють висловлю- 
+вання, які розрізняються за обсягом, побудовою 
+та способом викладу – від прислів’я до роману. 
+Широко вживаним є визначення тексту як тво- 
+ру мовленнєвотворчого процесу, що має завер- 
+шеність, об’єктивність у формі письмового доку- 
+мента, літературну обробку відповідно до типу 
+цього документа. Що стосується композиційної 
+структури, то текст є твором, який складається 
+з назви (заголовка) та низки особливих одиниць 
+(надфразових єдностей), об’єднаних різними ти- 
+пами лексичного, граматичного, логічного, сти- 
+лістичного зв’язку, має певну цілеспрямованість
+та прагматичну настанову [2, с. 18].
+   В умовах становлення інформаційного сус- 
+пільства електронна комунікація, що позначає 
+технічно опосередковане спілкування між іден- 
+тифікованими комунікантами, а також комуні- 
+кантами – суб’єктами масової комунікації – при 
+їхній просторово-часовій дистанції [1, с. 54], залу- 
+чає у свій простір все більше користувачів. Масова 
+комунікація перетікає у текстово-базовий простір 
+електронної комунікації, технічні умови якого 
+дозволяють передавати текстове повідомлення, 
+фото-, аудіо- та відеофайли. На сьогоднішній день 
+соціальна мережа Instagram є комунікативним 
+майданчиком соціальної взаємодії культурних, 
+політичних та громадських діячів, які продуку- 
+ють повідомлення з ціллю проінформовування 
+та комунікації з публікою – фолловерами. Напри- 
+клад, пост Ангели Меркель в Instagram, що вико- 
+нує соціально-політичне завдання:
+
+Рис. 1
+
+   bundeskanzlerin Bundeskanzlerin Merkel 
+nach dem Bund-Länder-Gespräch Ich weiß, dass das 
+hart ist, aber es rettet Menschenleben. Es hilft denen, 
+die von diesen Infektionen besonders betroffenen 
+sind und für die wir alles tun müssen, um sie zu 
+schützen, so Kanzlerin Merkel zu den verlängerten 
+Maßnahmen gegen die Covid19-Pandemie.
+   Наведений текст вирізняється поліфонічніс- 
+тю – містить фото канцлера Німеччини з тек- 
+стом, в якому піднімається питання святкування 
+Пасхи в умовах пандемії, аудіо-запис, і сам текст 
+посту з поясненням подовжених заходів боротьби 
+з корона-вірусом.
+   Основною функцією новин є надавати чита- 
+чам інформацію про актуальні події. Важливу 
+роль відіграє впливова функцію, яку викону- 
+ють передусім політичні новини, що спрямовані 
+на формування думки населення. Також нови- 
+ни розкривають сутність різноманітних явищ 
+та процесів, що дозволяє виділити ще одну функ- 
+цію новин – просвітницьку.
+   Своєчасному отриманню інформації щодо 
+актуальних подій слугують он-лайн новини. За- 
+звичай, замість читання повної статті, перевагу 
+надають більш доступному та зручному варіанту 
+інформування – читанню замітки або короткої 
+новини в одній з улюблених соціальних мереж.
+   Замітка – коротке повідомлення про подію. 
+Назва жанру «замітка» не синонімічна до слів: по- 
+відомлення, новина, інформація, сенсація, факт. 
+Жанр «замітка» проектує новинне повідомлен- 
+ня і реальну, а не вигадану чи штучно створену 
+сенсацію. Текст містить центральну інформацію 
+в декількох рядках, іноді навіть в одному речен- 
+ні. В такому короткому повідомленні є відповіді 
+на всі так звані W-питання хто? що? де? коли?, 
+а також як це сталось?. Найчастіше короткі но- 
+вини можна побачити на сторінках Deutsche 
+Presseagentur (dpa) або Informationsdienst 
+Wissenschaft (idw) [7]. Наприклад:
+   Kanzlerin Angela Merkel (CDU) hat die 
+Menschen in Deutschland auf eine lange Zeit 
+der Beschränkungen wegen der Corona-Krise 
+eingestellt. Einzelne Bundesländer kritisierte sie für 
+voreilige Lockerungen (dpa, 24.04.2020).
+   Новини ж інформують читача докладніше, 
+експлікують більше подробиць про події, які є
+
+
+важливими та цікавими для читача. Розмір 
+таких новин складає приблизно одну колонку 
+газети чи журналу. Проте немає чітких 
+параметрів, все за- лежить від автора, джерела 
+та цільової аудиторії. Головною 
+характеристикою новин є лаконіч- ність, 
+сконцентрованість на конкретній події та 
+стислість, відсутність в них діалогів та 
+комента-
+рів. Наприклад:
+   Norbert #Blüm ist tot. Im März hatte der 
+ehemalige Arbeitsminister, der zuletzt nach 
+einer Blutvergiftung an Armen und Beinen 
+gelähmt war, @DieZEIT noch über sein Leben 
+im Rollstuhl geschrieben. Hier können Sie den 
+Text noch einmal lesen: https://trib.al/Bi43vF1 
+(@zeitonline, Zeit Online, 24.04.2020).
+   Новинний текст є лаконічним, 
+інформатив- ним та зрозумілим. Тексти 
+новин вимагають ви- сокого ступеня 
+об’єктивності викладу. З цієї при- чини автор 
+повинен ретельно дослідити і точно назвати 
+джерела інформації.
+   Репортаж – найбільший за розміром текст 
+пу- бліцистичного стилю. Фактично репортаж 
+– це збагачена інформацією новина, яка 
+побудована також на відповідях на W-
+питання. Але відпові- ді є розширеними та 
+містять додаткові елементи, такі як конкретні 
+деталі та довідкову інформа- цію. 
+Наприклад:
+   Kommentar: Positiv gefärbte Uneinigkeit in der 
+EU Kurz und bündig war der EU-Gipfel, aber 
+auch frei von Ergebnissen. Das Corona-
+Konjunkturpaket soll kommen, aber wie, fragt 
+sich Bernd Riegert. Die Solidarität in der EU 
+muss noch einige Härtetests
+bestehen.
+   Die jüngste Ausgabe der europäischen Video- 
+Serie «Corona-Gipfel» macht etwas Hoffnung. 
+Die
+27 Staats– und Regierungschefs scheinen sich 
+angesichts der gewaltigen Krise einig zu sein, 
+ihren Streit um bisher ungeahnt hohe Summen 
+nicht mehr so öffentlich auszutragen. Einigkeit 
+soll stark machen. Ein Bekenntnis zur 
+Solidarität soll die verunsicherten EU-Bürger, 
+die Arbeitsplätze verlieren, um ihre Existenz 
+fürchten und bald vielleicht kein Geld mehr für 
+das Nötigste haben werden, beruhigen: «Schaut 
+her, eure Regierungen kümmern sich, wollen 
+ein Aufbauprogramm von einer Billion (1000 
+Milliarden) Euro auflegen!» Das soll die frohe 
+Botschaft sein.
+   Und die ist angesichts des Komas, in das die 
+Pandemiebekämpfer die Wirtschaft und 
+Gesellschaft versetzt haben, auch nötig. Den 
+starken Willen der
+27 vorwärts zu gehen, betonte EU-
+Ratspräsident Charles Michel nach seinem 
+vierten Corona-Video- Gipfel. An der 
+Europäischen Union soll also nicht gerüttelt 
+werden. Wütende Drohungen und Fragen der 
+italienischen Regierung, wozu denn die EU 
+überhaupt noch gut sein, wenn sie jetzt nicht 
+hülfe, sind erst einmal verstummt.
+Fester Wille, aber keine Einigung
+   Der italienische Ministerpräsident Giuseppe 
+Conte zeigte sich nach den kurzen Beratungen 
+mit seinen Kolleginnen und Kollegen 
+überraschend begeistert. Es gebe jetzt einen 
+Aufbaufonds, der mit gemeinsamen 
+europäischen Sicherheiten finanziert werden 
+solle. Das wäre vor drei Wochen noch 
+undenkbar gewesen, triumphierte Conte. Wenn 
+er sich da mal nicht vertut. Für viele 
+Regierungschefs sind gemeinsame Sicherheiten, 
+Bonds oder Schulden auch weiterhin 
+undenkbar.
+
+
+
+
+
+   Uneinig sind sich die Damen und Herren Chefs 
+auch noch über die Frage, wie das Geld verteilt 
+werden soll: Als direkter Zuschuss in die Staatskasse 
+oder als Kredit, den man irgendwann zurückzahlen 
+müsste. Deutschland tritt für Kredite ein, Frankreich 
+ebenso wie Italien für Zuschüsse. Spanien kam mit 
+der Idee, in der EU Schulden aufzunehmen, die 
+man ewig nicht zurückzahlt. Beflügelt wurde die 
+Fantasie vor allem durch die Ankündigung von 
+Bundeskanzlerin Angela Merkel, dass die Deutschen 
+solidarisch sein werden und erheblich mehr in 
+den gemeinsamen EU-Haushalt einzahlen wollen. 
+Zahlen nannte sie wohlweislich nicht.
+Für die EU-Staaten geht es nur zusammen
+   Die Stimmung war also gelöster. Das Ziel 
+ist klarer, aber die Einzelheiten sind alle nicht 
+entschieden, obwohl alle zur Eile mahnen. Nun 
+soll die EU-Kommission innerhalb weniger 
+Wochen ein politisches Wunder vollbringen und 
+einen EU-Haushalt aufstellen, der als Grundlage 
+für den großen Wiederaufbaufonds dienen soll. 
+Kommissionspräsidentin Ursula von der Leyen hat 
+bereits angedeutet, dass die EU-Staaten doppelt so 
+viel wie bislang in diesen gemeinsamen Haushalt 
+einzahlen müssen, statt 150 also 300 Milliarden 
+Euro für zwei oder drei Jahre. Diesen Kapitalstock 
+will sie dann mit Krediten auf 1000 Milliarden 
+hebeln. Ob diese Summe dann als Kredit an die 
+Corona-geschädigten Staaten weitergeben oder 
+als Zuschuss verschenkt wird, ist unklar. Von der 
+Leyen schwebt ein «Mix» vor, mit anderen Worten: 
+Sie weiß es auch nicht.
+   Klar ist nur, dass die stärkeren EU-Staaten 
+die schwächeren werden mitziehen müssen. Die 
+Gewichte werden sich verschieben. Das Geld wird 
+nicht mehr wie bisher in den Osten, sondern in 
+den Süden fließen. Die Solidarität in der EU 
+wird noch einige Härtetests aushalten müssen. 
+Die Corona-Rechnung werden die Steuerzahler in 
+den nördlichen EU-Staaten schultern müssen. Die 
+Deutschen sind mindestens mit 25 Prozent dabei. 
+Sie werden sich solidarisch zeigen müssen und 
+sie verdienen deshalb den Dank der südlichen 
+Staaten. Es geht nur zusammen. Alleine hätte 
+keiner der EU-Staaten eine Chance. Die Wirtschaft 
+ist im Binnenmarkt viel zu verflochten. Gemeinsam 
+werden die EU-Staaten nun in das tiefe Loch der 
+Rezession fallen, sie müssen gemeinsam wieder 
+heraus krabbeln» (Deutsche Welle, 24.04.2020).
+   У прикладі можна побачити, що автор описує 
+подію, використовуючи пряму і непряму мову, що 
+робить репортаж динамічним та жвавим. Причому 
+репортаж є завжди об’єктивним та не відображає 
+суб’єктивну думку автора, тобто автор не намага- 
+ється вплинути на читача, а лише інформує його.
+   Перед читанням онлайн статті звертають ува- 
+гу на назву новини, замітки чи репортажу. За- 
+головки, серед яких слід виділити інформаційні 
+та констатуючо-описові, виступають самостійно 
+завершеними текстами. Наприклад:
+   EU treibt Pläne für Sanktionen gegen Türkei 
+voran (Deutsche Welle, 11.11.2019)
+Macron bescheinigt der NATO den «Hirntod»
+(Deutsche Welle, 07.11.2019)
+UNHCR: Landweg gefährlicher als Seeweg
+(Deutsche Welle, 03.11.2019)
+Statt Brexit: Neuwahlen vor Weihnachten
+(Deutsche Welle, 30.10.2019)
+   
+
+Для новин важливою є зв’язність тексту, тому 
+що без зв’язності новина не зможе донести сенс 
+викладеної інформації. Когезія співвідносить 
+один з одним компоненти тексту, тобто слова, які 
+читач сприймає як текст. Стандартним прикла- 
+дом когезії є відношення між займенником та 
+повторюваним словом, яке замінюють займенни- 
+ком. Наприклад:
+   Nach drei Monaten im Amt war Boris Johnson 
+als Regierungschef bereits am Ende. Abstimmungen 
+im Unterhaus verlor er in Serie – es war klar, 
+dass er weder für den Brexit noch für normales 
+Regierungshandeln eine Mehrheit hatte (Deutsche 
+Welle, 30.10.2019).
+   У тексті спостерігаємо явище прономіналіза- 
+ції, де власне ім’я Boris Johnson замінено на за- 
+йменник er, що дозволило уникнути повтору та 
+зберегти зв’язність тексту. Текст зв’язують також 
+сполучники та прийменники. Наприклад:
+   Auf dem Weg von der ersten zur zweiten 
+Abstimmung schrumpfte der Widerstand gegen 
+den Deal spürbar. Aber inzwischen haben einige 
+Tory-Kritiker, die dem Vertrag erst beim zweiten 
+Mal zugestimmt hatten, für das dritte Votum 
+eine abermalige Umkehr signalisiert (Frankfurt 
+Allgemeine, 22.03.19)
+   Der NATO-Vertrag sieht nicht vor, dass ein Land 
+aus dem transatlantischen Bündnis ausgeschlossen 
+wird (Deutsche Welle, 29.10.19).
+   Ще одним засобом когезії є еліпсис – опу- 
+щення деяких структурних елементів. Зазви- 
+чай вони використовуються в назвах новин, 
+наприклад: Distanz zu Bouteflika als politische 
+Überlebensstrategie? (Deutsche Welle, 23.03.19).
+   Слова-зв’язки, опущення певних елементів та 
+заміна слів забезпечують зв’язність тексту. Ко- 
+герентність означає саме цілісність тексту, його 
+логічність та смисловий зв’язок речень. Когезія і 
+когерентність це ті критерії, в центрі уваги яких 
+розташований текст і його структура.
+   Наступною ознакою новинних текстів є члену- 
+вання. Текст новини може поділятися на підте- 
+ми і розділятися на абзаци. Кожен новий абзац 
+містить нову тему чи підтему. Ці частини пови- 
+нні бути взаємопов’язаними. При цьому голов- 
+ним принципом побудови текстів новин є логічне 
+подання інформації та завершеність думки кож- 
+ного абзацу.
+   Текст має початок, кінець та внутрішню орга- 
+нізацію, яка притаманна всякому тексту за ви- 
+значенням [6, с. 55]. Новинний текст складається 
+зі вступу, викладення основної інформації, тобто 
+зачину, а також висновків. Наприклад:
+   Faschingskostüm löst Einsatz mit vier 
+Polizeiautos aus [Заголовок]
+   In Karlsruhe sind mehrere Polizeiwagen 
+ausgerückt, weil Passanten einen schwer 
+bewaffneten Mann gemeldet hatten. Der 22-Jährige 
+entpuppte sich als Karnevalist – und erhielt eine 
+Anzeige. [Вступ]
+   Mit seinem martialischen Faschingskostüm hat 
+ein 22-Jähriger in Karlsruhe einen Polizeieinsatz 
+ausgelöst. Wie die Behörde mitteilte, bestieg der mit 
+vermeintlichen Gewehren ausgerüstete Mann am 
+Montagmorgen eine Stadtbahn – und trug eine 
+Schutzweste im FBI-Look. Zeugen alarmierten die 
+Polizei, die den 22-Jährigen an einer Haltestelle in 
+der Innenstadt festnahmen. Die Waffen entpuppten
+
+
+sich später als Spielzeugpistole und Softairgewehr.
+[Основна інформація]
+   Bei der Durchsuchung des Mannes fanden die 
+Beamten den Angaben zufolge noch Munition für 
+die Softairwaffe sowie zwei Taschenmesser. Ihn 
+erwartet nun eine Anzeige wegen Verstoßes gegen 
+das Waffengesetz [Заключна інформація – висно- 
+вок] (Der Spiegel. kurz & krass, 10.02.2020).
+   В тексті короткої новини зберігаються всі 
+структурні одиниці, які подаються послідовно, 
+що обумовлює лінійність тексту. Важливо наго- 
+лосити, що найважливішою ознакою новинного 
+тексту виступає інформативність, тобто факти, 
+опис подій та їх наслідки підпорядковані інфор- 
+муванню населення.
+   Висновки. На сьогоднішній день сучасна ма- 
+сова комунікація представлена не лише новин- 
+ними веб-порталами, а й мікроблогами у соцме- 
+режах та месенджерах. Таким чином електронна 
+комунікація наразі є дуже популярною. Було ви- 
+явлено, що онлайн новини можуть бути різними
+
+
+за розміром – це може бути повідомлення у 
+соцме- режі Twitter, достатньо велика стаття у 
+Facebook, або, навіть, новина в Instagram, де 
+вона також, як і у Twitter, обмежена кількістю 
+символів.
+   Проаналізувавши тексти новин ми 
+виявили, що, незалежно від того замітка це 
+або репортаж, для правильного розуміння 
+текст повинен бути зв’язним, логічним та 
+лаконічним. Відрізняються ці тексти лише 
+тим, що в інтернет-статтях нови- 
+на може 
+бути подана у детальних подробицях, а 
+короткі новини складаються лише з декількох 
+ре- 
+чень, які коротко описують подію. 
+Головним є те, щоб ці тексти несли у собі 
+основні функції новин: інформаційну, 
+впливову та просвітницьку.
+   Отже, ми визначили, що головним при 
+напи- санні текстів інтернет-новин є 
+зв'язність та пра- 
+вильний розподіл на 
+частини, абзаци, для того, щоб читач вірно 
+зрозумів подану інформацію. Не менш 
+важливим є і правильна інтерпретація зі- 
+браної інформації, фактів, щоб не 
+дезінформува- 
+ти читачів.
+
+Список літератури:
+1.	Беззубова О., Литовченко І., Дабагян І. Засоби зв’язності тексту в німецькомовній електронній комунікації.
+Актуальні питання гуманітарних наук. 2019. С. 54–60.
+2.	Гальперин И.Р. Текст как объект лингвистического исследования. Москва : КомКнига, 2007. 144 с.
+3.	Кубрякова Е.С. Виды пространств текста и дискурса. Категоризация мира: пространства и время. Москва : 
+МГУ, 1997. С. 15–25.
+4.	Кубрякова Е.С., Александрова О.В. О контурах новой парадигмы знания в лингвистике: Структура и се- 
+мантика художественного текста. Доклады Международной VII конференции. Москва : Московский 
+государственный открытый педагогический университет, 1999. С. 123–135.
+5.	Науменко А. Дискусії про текст у сучасній філології. Наукові записки. 2010. № 5. С. 3–14.
+6.	Щирова И.А., Гончарова Е.А. Многомерность текста: понимание и интерпретация : учебное пособие. 2007. 472 с.
+7.	Journalistische Textsorten. Meldung, Nachricht, Bericht. URL: https://www.br.de/alphalernen/faecher/deutsch/ 
+2-meldung-bericht-nachricht-journalistische-formen-102.html
+references:
+1.	Bezzubova, O., Lytovchenko, I., & Dabahian, I. (2019). Zasoby zviaznosti tekstu v nimetskomovnii elektronnii 
+komunikatsii [Text connectivity tools in German-language electronic communication]. Aktualni pytannia 
+humanitarnykh nauk, pp. 54–60.
+2.	Galperin, I.R. (2007). Tekst kak ob'ekt lingvisticheskogo issledovaniya [Text as object of linguistic research]. 
+Moskva: KomKniga.
+3.	Kubryakova, E.S. (1997). Vidyi prostranstv teksta i diskursa. Kategorizatsiya mira: prostranstva i vremya 
+[Types of text and discourse spaces. Categorisation of the world: spaces and time]. Moskva: MGU.
+4.	Kubryakova, E.S. & Aleksandrova, O.V. (1999). O konturah novoy paradigmyi znaniya v lingvistike: Struktura 
+i semantika hudozhestvennogo teksta [About the contours of the new paradigm of knowledge in linguistics: 
+Structure and semantics of the fiction text]. Dokladyi Mezhdunarodnoy VII konferentsii. Moskva: Moskovskiy 
+gosudarstvennyiy otkryityiy pedagogicheskiy universitet.
+5.	Naumenko, A. (2010). Dyskusii pro tekst u suchasnii filolohii [Discussions about text in modern philology].
+Naukovi zapysky, no. 5, pp. 3–14.
+6.	Schirova, I.A., & Goncharova, E.A. (2007). Mnogomernost teksta: ponimanie i interpretatsiya: uchebnoe posobie 
+[Multivariate text: understanding and interpretation].
+7.	Journalistische Textsorten. Meldung, Nachricht, Bericht. URL: https://www.br.de/alphalernen/faecher/deutsch/2-meldung-bericht-nachricht-journalistische-formen-102.html
+
+	
+
+Bezzubova Olena, Volkova Anna, Berezhniak Valentyna
+National Technical University of Ukraine
+«Igor Sikorsky Kyiv Polytechnic Institute»
+
+SPECIFICS OF MODERN MEDIACOMUNICATION
+
+Summary. The article is devoted to the study of modern media space as a channel for information transmis- 
+sion. The objectives of the article are to define the definition of «text» and analyze texts of German-language 
+news from online sources such as Der Spiegel, Deutsche Welle, Ntv, Frankfurt Allgemeine and social networks 
+such as Twitter, Instagram and Facebook. The aim of the article is to highlight the meaning of mass com- 
+munication implemented in the electronic space. The relevance of the study of mass media communication is 
+due to the increasing flow of information. Technical progress is causing a change in the model of broadcasting 
+information, which in the 21st century is presented in broadcast, print and electronic online formats. Today, 
+modern mass communication is represented not only by news web portals, but also by microblogs in social 
+networks and messengers. Electronic communication channels have their own specific features; news texts 
+are limited according to technical characteristics and must meet the requirements of online sources and social 
+networks. News functions have been defined: information, impact and education. The tasks of news and their 
+structure have also been described. The features of short messages (article) and messages with a lot of infor- 
+mation (reportage) were considered, the textual features of these texts, linguistic and extra-linguistic means 
+used to achieve the communicative purpose in media texts were analyzed and commented on. After analyzing 
+news texts, we found that whether it is a reportage or an article, the text must be coherent, logical and concise 
+to be understood correctly. These texts are distinguished by the fact that in Internet articles, the news can be 
+presented in detail, and short news consists of only a few sentences, which briefly describe the event. The main 
+thing is that these texts carry the main functions of news. We have determined that the main thing when writ- 
+ing online news texts is coherence and the correct distribution of parts, paragraphs, so that the reader believes 
+only to understand the information presented. No less important is the correct interpretation of the collected 
+information, facts, so as not to misinform the readers.
+Keywords: communication, mass media, media text, electronic communication channels, article, news, report.

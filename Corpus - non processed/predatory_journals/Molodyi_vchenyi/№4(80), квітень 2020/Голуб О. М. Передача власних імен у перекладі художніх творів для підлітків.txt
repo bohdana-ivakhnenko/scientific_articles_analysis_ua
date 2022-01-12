@@ -1,0 +1,106 @@
+﻿«Молодий вчений» • № 4 (80) • квітень, 2020 р.
+
+DOI: https://doi.org/10.32839/2304-5809/2020-4-80-40
+УДК 81'255.4:81'373.231
+
+
+
+Голуб О.М.
+Державний вищий навчальний заклад
+«Донбаський державний педагогічний університет»
+
+ПЕРЕДАЧА ВЛАСНИХ ІМЕН У ПЕРЕКЛАДІ ХУДОЖНІХ ТВОРІВ ДЛЯ ПІДЛІТКІВ
+Анотація. Досліджено найуживаніші способи передачі власних імен у перекладі художніх творів для дітей. Матеріалом розвідки виступає роман Л. Г. Андерсон «Говори» і його переклад українською. Вка- зано, що власні назви є реаліями, які найчастіше подаються у перекладі за допомогою транслітерації і транскрипції, що застосовуються до власних імен людей, географічних назв, назв брендів тощо. До назв свят, історичних подій, назв спортивних команд і різних угруповань застосовано калькування. Особливу увагу приділено відтворенню прізвиськ у перекладах художніх творів для підлітків. Передавання цієї групи власних назв вимагає творчого підходу і врахування комплексу лінгвістичних й екстралінгвістич- них факторів. Ті власні назви, розуміння яких важливе для цілісного сприйняття тексту, але які можуть бути незнайомими читацькій аудиторії тексту перекладу, дістають додаткового витлумачення (головно у вигляді виносок).
+Ключові слова: власні імена, транслітерація, транскрипція, калька, прізвиська.
+
+
+       Постановка проблеми. Власні назви є ре- аліями, одним з видів безеквівалентної лексики. Вибір способу передачі власних назв залежить від класу, до яких вони належать, жан- ру тексту, в яких вживаються тощо. Передаван- ня власних назв у перекладі художніх творів має свої особливості, а надто у перекладі літератури
+для дітей і підлітків.
+   Аналіз останніх досліджень і публіка- цій. В аналізі окресленої проблематики ми спи- ралися на студії таких перекладознавців, як В.І. Карабан, І.В. Корунець, М.С. Зарицький [4], Д.І. Єрмолович [3] та ін. Розглядаючи проб- леми, пов’язані з передаванням реалій у пере- кладах українською, автори спиралися на роз- відки Р.П. Зорівчак [5], а також С.П. Флоріна і С.І. Власова [9]. Корисними для власного до-
+
+
+слідження проблем перекладу літератури для дітей і підлітків вважаємо доробок А.Є. Потапо- вої [6; 7], О.В. Ребрія [8] та ін. Основою розвідки є попередні роботи автора з актуальних питань передавання власних назв, реалій тощо, зокрема у перекладах для дітей і підлітків [1; 2; 10].
+   Виділення не вирішених раніше частин загальної проблеми. Перекладознавство сфо- кусовано на дослідженні загальних проблем перекладу. Зазначені праці представляють тео- ретичну основу роботи перекладача з ім’ям влас- ним у цілому, незалежно від жанрово-стилістич- них особливостей тексту оригіналу. Збільшення обсягів видання перекладних творів для підліт- ків вимагає створення теоретичної основи робо- ти перекладача саме з цим різновидом художніх творів.
+
+
+© Голуб О.М., 2020
+
+   Мета статті. Запропонована стаття має на меті дослідити, які способи передавання власних імен є найбільш уживаними у перекладанні тво- рів для підлітків з англійської мови українською. Матеріалом розвідки виступив роман американ- ської письменниці Л.Г. Андерсон “Speak” і його переклад українською [11; 12].
+   Виклад основного матеріалу. Найбільш застосовуваним методом передавання власних імен у художньому перекладі з англійської мови українською є транслітерація, що часто поєдну- ється з транскрипцією. У перекладі літератури для підлітків ці методи вживаються у переда- ванні тих власних імен, які є відомими юним читачам, зрозумілими, або такими, декодування яких не перешкоджає розумінню тексту в цілому. Транскрибуються і транслітеруються такі влас- ні імена: імена людей, наприклад: Jenni, Jen, Jenna, Ashley, Aubrey, Amber, Colleen, Kaitlin, Marcie, Donner, Blitzen, Raven [12, p. 29] – Дженні, Джен, Дженна, Ешлі, Обрі, Ембер, Колін, Кейт- лін, Марсі, Доннер, Блітзен, Рейвен [11, с. 39]; географічні назви (НАЗВИ?) (назви штатів, міст, вулиць), як-от: Ohio [12, p. 5] – Огайо [11, с. 16],
+Syracuse [12, p. 10] – Сірак’юс [11, с. 20], Main
+Street [12, p. 98] – Мейн-стрит [11, с. 100]; на-
+зви брендів: Gap [12, p. 128] – Ґеп [11, с. 128]; назви телеканалів, такі як: National Geographic [12,p.5]– «НешнлДжіогрефік» [11, с. 16]; іменазна- менитостей, наприклад: Arnold Schwarzenegger [12, p. 22] – Арнольд Шварценеґґер [11, с. 44] тощо. Транскрипція і транслітерація часто поєдну- ються з іншими способами передавання влас- них імен. Часто значення того чи іншого влас- ного імені пояснюється в тексті або стає зрозу- мілим з контексту, наприклад: By the time I get to Fayette’s, the town bakery, I’m hungry again [12, p. 96]. – Коли я дістаюся «Фаєттс», міської
+пекарні, знову хочу їсти [11, с. 99].
+   Особливу роль транслітерація відіграє при передаванні жарту в одному з епізодів аналізо- ваного роману. Неправильно написана літера на позначення приголосного звука в імені Anjela українською мовою не викличе такої самої ре- акції у читача (Анжело, Анхело), тому задля збереження смислу жарту у перекладі непра- вильно вжито літеру на позначення голосного звука: “I Love You, Anjela!” is spray-painted into the snowbank along the parking lot. I don’t know if Angela is crying because she is happy or because her heart’s desire can’t spell [12, p. 107]. – «Я Лю- блю Тебе, Анджило!» – написано фарбою з ба- лончика на кучугурі снігу вздовж паркувального майданчика. Не знаю, чому плаче Анджела: від щастя, чи від того, що її любий пише з помил- ками [11, с. 109].
+   У переважній більшості випадків застосу- вання транслітерації і транскрипції у перекладі вживається ідентифікаційний елемент, що до- помагає зрозуміти, до якого саме класу власних назв належить те чи інше слово, як наприклад у реченнях: He studies the wax women in the Sears window… [12, p. 99] – Вивчає воскові манекени у крамниці «Сірс»… [11, с. 102].
+   Такий маркер необов’язково має бути іменни- ком. Потрібну інформацію, залежно від контек- сту, може виражати і прикметник: …a bunch of kids wearing clothes that most definitely did not
+
+come from the EastSide Mall [12, p. 4]. – …ком- панія хлопців, на яких одяг явно не з дешевого
+«Іст-Сайд Молу» [11, с. 15].
+   У тих випадках, коли власне ім’я є незна- йомим для реципієнтів перекладу і не відіграє вагомої ролі у сюжеті, перекладачі вдаються до опускання власної – видової – назви, залиша- ючи таким чином лише родову назву предмета (трансформація генералізації), як-от: It bounces into my lap – a Ho-Ho [12, p. 3]. – Вона опиня- ється в мене на колінах – від солодкого рулету [11, с. 14].
+   Якщо для читачів оригіналу власні назви є добре знайомими, для аудиторії тексту пере- кладу кожне власне ім’я є новим. Тож, вважаємо, що у художніх творах для підлітків таке опускан- ня власних імен на користь родових понять є ви- правданим, оскільки сприяє уникненню переоб- тяження понятійного апарату юних читачів.
+   Найцікавішим, з нашого погляду, у перекла- ді художніх творів для підлітків є передавання власних імен, що позначають прізвиська дійо- вих осіб твору. Присудження прізвиськ влас- тиве підліткам. У такий спосіб вони, по-перше, виражають свій протест проти усталених норм, традиційних ярликів, правил, обмежень тощо. По-друге, підлітковий вік – час активного піз- нання світу й оточуючого суспільства. Надаючи об’єктам реальності власні ймення, підліток ка- тегоризує цей світ, створює власну картину світу. У перекладі подібних власних назв перекладач має орієнтуватися на відтворення внутрішньої форми.
+   У романі Л.Г. Андерсон «Говори» головна геро- їня Мелінда Сордіно наділяє прізвиськами вчи- телів й учнів школи, де навчається. Мотивацією найменування можуть виступати риси зовніш- ності, ролі та т. ін. Так, через «товстезну, ширшу за голову» шию вчитель суспільствознавства діс- тає прізвисько Mr. Neck [12, p. 5] – Містер Шия [11, с. 16]. Завдяки «нечесаному волоссю, що зви- сає пасмами до плечей» вчителька англійської стає Лахудрою [11, с. 17], хоча, на нашу думку, вжитому в оригіналі слову Hairwoman [12, p. 6] у цьому випадку більше відповідає слово Пат- лата, що позбавлене негативної конотації та значення якого більше пов’язане саме з ознака- ми зовнішності. Серед найменувань за викону- ваною функцією – Principal Principal [12, p. 17], що в перекладі стає Найголовнішим директо- ром [11, с. 27], тренер з баскетболу дістає генера- лізоване прізвисько Basketball Coach [12, p. 76] – Тренер-з-Баскетболу [11, с. 81]. Цікаво, що ті вчителі, які подобаються головній героїні, або до яких вона залишається байдужою, зберігають власні імена. У цьому випадку за транслітеру- вання в українському перекладі не зберігається закладена в ці «промовисті власні назви» семан- тика. Наприклад, вчитель мистецтва має в ори- гіналі прізвище Freeman [12, p. 10], що викликає асоціації з художником, вільним душею, котрий не визнає правила, шаблони й обмеження. Але український відповідник Фрімен [11, с. 20] тако- го підтексту не має. Ім’я вчительки біології Miss Keen [12, p. 45] передане українською як міс Кін [11, с. 65], тоді як її ставлення до викладання і до учнів дозволяє прочитати в її імені: «Завзята». Подібні втрати у перекладі неминучі.
+
+
+
+   Отримують ярлики й однолітки головної геро- їні. Так, через схильність підлітків об’єднуватися в групи і клани, окремі групки отримують у внутрішній мові Мелінди назви за іменами своїх членкинь, індивідуальність яких втрача- ється у спільному образі: Meg’n’Emily’n’Siobhan [12, p. 43] – Меґґ-Емілі-Шивон [11, с. 51]. “The eight-foot senior… Basketball Pole” [12, p. 8] стає
+«двометровим старшокласником… Жердиною» [11, с. 19]. Свого кривдника Мелінда називає Andy Beast [12, p. 143] – Енді Потворою [11, с. 156]. Така схильність до категоризації і наділення емоційно забарвленими ярликами людей і об’єктів навколишнього світу типова не лише для голов- ної героїні. Вона проявляється і в найменуванні неформальних об’єднань учнів, і в постійному по- шуку влучної назви для шкільної спортивної ко- манди. В цих випадках у перекладі застосовано, окрім транскрипції і транслітерації, ще і кальку- вання, наприклад: We fall into clans: Jocks, Country Clubbers, Idiot Savants, Cheerleaders, Human Waste, Eurotrash, Future Fascists of America, Big Hair Chix, the Marthas, Suffering Artists, Thespians, Goths, Shredders [12, p. 4]. – Ми ділимося на клуби: «Кач- ки», «Сільські клабери», «Ботани», «Чирлідерки»,
+«Покидьки», «Євротреш», «Майбутні американ- ські фашисти», «Гламурні ціпочки», «Марти»,
+«Стражденні митці», «Трагіки», «Готи», «Шреде- ри» [11, с. 15].
+   Семантику збережено у передачі таких влас- них назв: назв історичних подій: Revolutionary War [12, p. 67] – Війна за незалежність США [11, с. 73]; назв свят: Valentine’s Day [12, p. 107] – День Святого Валентина [11, с. 109] (але Halloween [12, p. 39] – Геловін [11, с. 48]); назв лі- тературних творів: “The Scarlet Letter” [12, p. 100] –
+«Багряна літера» [11, с. 174] тощо.
+   Імена відомих людей, зокрема митців, пере- даються за допомогою традиційних відповідни- ків: Kahlo, Monet, O’Keeffe, Pollock, Picasso, Dali
+
+[12, p. 31] – Кало, Моне, О’Кіф, Поллок, Пікас- со, Далі [11, с. 41]. Ім’я Ной також не потребує додаткової експлікації, оскільки є загальновідо- мим: May is finally here and it has stopped raining. Good thing, too – the mayor of Syracuse was about to put out a call for a guy named Noah [12, p. 165]. – Зрештою настав травень і дощі припинилися. Що теж добре – мер Сірак’юса вже збирався кликати хлопця на ім’я Ной [11, с. 160].
+   Проте група маловідомих власних назв у ро- мані потребує експлікації, аби бути зрозумілими читачами-підлітками. Такі пояснення представ- лені у вигляді виносок, поданих внизу сторінки. Наприклад, підліткам властиво обирати собі ку- мирів – неординарних людей, котрі відстоюють власну самобутність. Для головної героїні рома- ну «Говори» таким кумиром стала Майя Ендже- лоу. Щоб юний читач українського перекладу міг краще зрозуміти цей вибір, на відповідній сторінці тексту подано виноску, що розповідає про цю людину. Дістають пояснень назви філо- софських рухів, імена телеведучих, назви не над- то відомих українському читачеві літературних творів тощо.
+   Висновки і пропозиції. Отже, які особли- вості має передавання власних назв у перекладі творів для підлітків? По-перше, широке застосу- вання ідентифікаційних елементів – родових по- нять, що пояснюють сутність власних імен. По- друге, відтворення відтінків значення прізвиськ як своєрідних ярликів, що наповнюють картину світу підлітка. По-третє, розгорнуте пояснення у вигляді виносок маловідомих читацькій аудито- рії України власних імен. Вважаємо, що наступ- ним кроком у дослідженні окресленої проблема- тики має бути з’ясування найбільш ефективних способів передавання безеквівалентної лексики у перекладах художніх творів для підлітків укра- їнською, що має враховувати психологічні особли- вості цієї вікової групи читачів.
+
+Список літератури:
+1. Голуб О.М., Жукова М.К. Переклад реалій у художніх творах для дітей (на матеріалі перекладу роману для дітей Дж. Бінг «Molly Moon’s Hypnotic Time-Travel Adventure» українською мовою). Молодий вчений. 2018.
+№ 5. С. 107–110.
+2. Голуб О.М., Мірошніченко Д.О. Типові помилки студентів при передачі українських власних імен людей латиницею у перекладах з української на англійську мову. Теоретичні й прикладні проблеми сучасної філології. 2016. Вип. 3. С. 246–252.
+3. Ермолович Д.И. Методика межъязыковой передачи имен собственных. Москва : ВЦПНТЛД, 2009. 88 с.
+4. Зарицький М.С. Переклад: створення та редагування. Київ : Парламентське видавництво, 2004. 120 с.
+5. Зорівчак Р.П. Реалія і переклад (на матеріалі англомовних перекладів української прози). Львів : Вид-во ЛНУ, 1989. 216 с.
+6. Потапова А.Є. Відтворення стилістичних засобів у перекладі дитячої художньої літератури (на матеріалі українських, німецьких та російських перекладів творів Дж. Ролінґ) : автореф. дис. … канд. філол. наук :
+10.02.16 / ДЗ «Південноукраїнський національний педагогічний університет ім. К.Д. Ушинського». Одеса, 2011. 20 с.
+7. Потапова А.Є. Дитяча література: підходи та критерії перекладу. Вісник Житомирського державного уні- верситету. 2010. Вип. 49. С. 193–197.
+8. Ребрій О.В. Творчі виміри перекладу дитячої літератури. Філологічні трактати. 2012. Т. 4. № 2. С. 89–94.
+9. Флорин С.П., Власов С.И. Непереводимое в переводе. Москва : Р. Валент, 2009. 360 с.
+10. Holub O. The Semantic Structure of People’s Proper Names in Translation. Scientific achievements of modern society: Abstracts of the 3rd International scientific and practical conference. Liverpool, UK, 6-8 November, 2019. Liverpool: Cognum Publishing House, 2019. P. 21–27.
+Джерела ілюстративного матеріалу:
+11. Андерсон Л.Г. Говори / пер. з англ. О. Голуб. Харків : Віват, 2019. 192 с.
+12. Anderson, L.H. Speak. New York : Square Fish (Farrar Straus Groux), 2011. 224 p.
+
+References:
+1. Holub, O.M., & Zhhukova, M.K. (2018). Pereklad realii u khudozhnikh tvorakh dlia ditei (na materialy perekladu romanu dlia ditei G. Byng «Molly Moon’s Hypnotic Time-Travel Adventure» ukrainskoiu movoiu) [Rendering realia in children’s books (based on the Ukrainian translation of G. Byng’s novel «Molly Moon’s Hypnotic Time- Travel Adventure»)]. Molodyi vchenyi, vol. 5, pp. 107–110.
+2. Holub, O.M., & Miroshnichenko, D.O. (2016). Typovi pomylky studentiv pry peredachi ukrainskykh vlasnykh imen liudei latynytseiu u perekladakh z ukrainskoi na anhliisku movu [Typical students’ mistakes in rendering Ukrainian people’s proper names with Latin letters in Ukrainian–English translations]. Theoretical and applied issues of Modern Linguistics, vol. 3, pp. 246–252.
+3. Yermolovich, D.I. (2009). Metodika mezhiazykovoi peredachi imen sobstvennykh [Methodology of rendering proper
+names from one language into another]. Moscow: VTsPNTLD. (in Russian)
+4. Zarytskyi, M.S. (2004). Pereklad : stvorennia i redahuvannia [Translation: creation and editing]. Kyiv:
+Parlamentske vydavnytstvo. (in Ukrainian)
+5. Zorivchak, R.P. (1989). Realiia i pereklad (na materiali anhlomovnykh perekladiv ukrainskoi prozy) [Realia and
+translation (based on translations of Ukrainian prose works into English)]. Lviv: LNU. (in Ukrainian)
+6. Potapova, A.Ye. (2011). Vidtvorennia stylistychnykh zasobiv u perekladi dytiachoi khudozhnoi literatury (na materiali ukrainskykh, nimetskykh ta rosiiskykh perekladiv tvoriv J. Rowling) [Rendering stylistic devices in literay translation of children’s literature (based on Ukrainian, German and Russian translations of J. Rowling’s writings)] (PhD Thesis), Odesa: Southern Ukrainian K. Ushynskyi National Pedagogical University.
+7. Potapova, A.Ye. (2010). Dytiacha literatura: pidkhody ta kryterii perekladu [Children’s literature: approaches
+and criteria of translating]. Papers of Zhytomyr State University, vol. 49, pp. 193–197.
+8. Rebrii, O.V. (2012). Tvorchi vymiry perekladu dytiachoi literatury [Creative dimensions in the translation of children’s literature]. Treatise in Philoligy, vol. 4, no. 2, pp. 89–94.
+9. Florin, S.P., & Vlasov, S.I. (2009). Neperevodimoe v perevode [Eqiuvalent-lacking units in translation]. Moscow:
+R. Valent. (in Russian)
+10. Holub, O. (2019). The Semantic Structure of People’s Proper Names in Translation. Scientific achievements of modern society: Abstracts of the 3rd International scientific and practical conference. (Liverpool, 6-8 November), 2019. Liverpool: Cognum Publishing House, pp. 21–27.
+Source of illustrative materials:
+11. Anderson, L.H. Hovory [Speak]. Kharkiv: Vivat. (in Ukrainian)
+12. Anderson, L.H. (2011). Speak. New York: Square Fish (Farrar Straus Groux).
+
+
+
+
+
+Holub Olena
+State Higher Educational Establishment
+«Donbas State Teachers’ Training University»
+   THE WAYS OF RENDERING PROPER NAMES WHILE TRANSLATING FICTION FOR TEENAGERS
+Summary. Proper names are country-specific units which constitute the group of equivalent-lacking words. Rendering of these language signs in literary works written for teenagers has its specific features. The article outlines the most frequently used ways of rendering proper names in literary translation based on the novel by
+L. H. Anderson “Speak” and its Ukrainian translation. The majority of proper names are rendered by means of transliteration and transcription which are applied to rendering people’s proper names, geographical names, brand names etc. In fiction for teenagers such transliterated or transcribed equivalents often acquire an iden- tifying element which refers the name in question to the particular class of proper names. In some instances such explanation is not necessary because it is provided by the author in the text. When a proper name is not important for the general perception of the literary text, the translator may omit the proper name itself leav- ing only the identifying element, thus applying the transformation of generalization. A group of proper names cannot be rendered by means of transcoding as in this way they will not be deciphered by the recipient of the translation. In this case it is the preserving of the meaning of the proper name which becomes the goal of the translator. Here belong, for instance, the names of historic events, some holidays and titles of works of fiction. The names of artists which abound in the original are in most cases rendered by means of their traditional equivalents in translation, as many of them have been formed with due regard to the pronunciation of each name according to the rules of the language of origin. The same concerns biblical names used by the author. It has been emphasized that as it is typical of teenagers to label people and objects of the extra-linguistic world, pieces of fiction depicting teenagers often comprise a lot of nicknames rendering of which requires special skills and creativity on the part of the translator whose focus should be on reproducing the inner form of such linguistic units. Some proper names which may be new for the recipients of the translation need additional explication which is usually given in the form of footnotes. The author concludes that rendering proper names in literary translations for teenagers should take into account the psychological peculiarities of this age group.
+Keywords: proper names, transliteration, transcription, loan translation, people’s nicknames.

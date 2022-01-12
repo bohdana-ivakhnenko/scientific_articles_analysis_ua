@@ -1,0 +1,548 @@
+﻿Лінгвістичні студії. №40(1)/2020
+
+Ольга Залужна
+ORCID: https://orcid.org/0000-0002-7929-6769
+Олександра Холодюк
+ORCID: https://orcid.org/0000-0002-1434-6606
+
+DOI 10.31558/1815-3070.2020.40.1.8 
+УДК 81’42(811.111)
+
+ГРАМАТИЧНІ ТА ПРАГМАСЕМАНТИЧНІ ОСОБЛИВОСТІ
+СПОНУКАЛЬНИХ ВИСЛОВЛЮВАНЬ В АНГЛІЙСЬКОМОВНОМУ 
+ПУБЛІЦИСТИЧНОМУ ДИСКУРСІ
+(на матеріалі заголовків статей онлайн версії The Guardian)
+
+     Стаття присвячена встановленню граматичних та прагмасемантичних особливостей 
+спонукальних висловлювань у заголовках англійськомовного публіцистичного дискурсу на ма- 
+теріалі статей онлайн версії періодичного видання The Guardian. Окреслено місце та статус 
+спонукальності в колі дискурсивних досліджень, уточнено термінологічну базу та запропоно- 
+вано визначення спонукання як об’єктного поля лінгвістичного дискурсу. З’ясовано, що не- 
+прямі спонукальні мовленнєві акти значно переважають над прямими не тільки чисельно, але 
+й демонструють більшу варіативність інвентарю способів свого вираження в мовленні. Ана- 
+ліз прагматичних особливостей матеріалу дослідження дозволив виділити низку мовленнєвих 
+актів, серед яких зокрема наказ, порада, прохання, побажання, запрошення, заборона, дозвіл, 
+виправдання, інструкція, підбурювання, загроза.
+     Ключові слова: публіцистичний дискурс, семантика, прагматика, імператив, спону- 
+кальне висловлювання, прямий / непрямий спонукальний акт.
+
+1.	Вступні зауваження
+    Розвиток сучасного мовознавства засвідчує, що поглиблене вивчення мови 
+як найважливішого засобу спілкування неможливе без залучення до аналізу ко- 
+мунікативно-прагматичного аспекту її функціонування (Бацевич 12-13). Будь- 
+яка мовна інтеракція (усна або письмова) як інструмент передачі інформації пе- 
+редбачає досягнення перцептивної мети між комунікантами. Саме тому природ- 
+ним є підвищений інтерес з боку мовознавців до проблем комунікації та 
+мовленнєвої поведінки комунікантів.
+    Виконуючи певну інтеракцію, комунікант має на меті не тільки інформувати 
+реципієнта, але і продемонструвати своє ставлення до блоку інформації, який пе- 
+редається, певним чином вплинути на об’єкт(и) комунікативного акту (Poole 73). 
+Саме тому реалізація впливової функції мови привертає значну увагу не тільки 
+мовознавців (Rodríguez-Vergara), але і представників суміжних наук (O’Keeffe), 
+таким чином формуючи міждисциплінарне дискурсивне поле наукових дослі- 
+джень. Окрему увагу привертає й спонукальна функція мови (Бацевич 28), адже 
+спонукання як мовленнєвий акт, при якому діяльність одного комуніканта вер- 
+бально регулюється іншим, відіграє значну роль у процесі спілкування і керує 
+взаємовідносинами між комунікантами (Potsdam, Edmiston).
+    У свою чергу комунікативно-прагматичний напрям лінгвістичних дослі- 
+джень (Загнітко), який базується на урахуванні соціальних, міжособистісних, ін-
+© Залужна О., Холодюк О., 2020
+
+
+дивідуально-психологічних, культурологічних, когнітивних, експертизних (від 
+англ. expertise «special skills or knowledge in a particular subject, that you learn by 
+experience or training» “спеціальні навички або знання в певній царині, які отри- 
+мані через досвід або навчання”) характеристик учасників комунікативного акту 
+в конкретних умовах його перебігу, передбачає дослідження спонукальної функ- 
+ції мови крізь призму їхньої ролі для досягнення перцептивної мети.
+    Таким чином, актуальність даної наукової розвідки обумовлена потребою 
+більш детального аналізу граматичних та прагмасемантичних особливостей спо- 
+нукальних висловлювань в англійськомовному публіцистичному дискурсі, що 
+дозволить укласти інвентар спонукальних мовленнєвих актів та окреслити кому- 
+нікативні стратегії, які використовуються мовцями для досягнення комунікатив- 
+них інтенцій.
+    Об’єктом виступають спонукальні висловлювання англійської мови, діб- 
+рані методом суцільної вибірки із заголовків статей онлайн версії періодичного 
+видання The Guardian.
+    Предметом наукової розвідки виступають граматичні та прагмасемантичні 
+особливості спонукальних висловлювань в заголовках англійськомовного публі- 
+цистичного дискурсу.
+    Мета роботи полягає у визначенні специфіки граматичних та прагмасеман- 
+тичних особливостей спонукальних висловлювань та інвентаризації способів та 
+засобів їхнього вираження у мові заголовків в англійськомовному публіцистич- 
+ному дискурсі.
+Для досягнення мети, в роботі ставляться такі основні завдання:
+   	уточнити сутність поняття «спонукальність» у прагматичному та семан- 
+тичному аспекті;
+   	інвентаризувати засоби вираження спонукальності в заголовках у сучас- 
+ному англійськомовному публіцистичному дискурсі;
+   	окреслити граматичні та прагмасемантичні особливості спонукальних 
+висловлювань в рамках емпіричного корпусу дослідження.
+    Емпіричний корпус дослідження складається зі 150 одиниць, дібраних ме- 
+тодом суцільної вибірки з сучасних англійськомовних публіцистичних джерел; 
+одиницею дослідження виступає заголовок публіцистичної статті. Джерелом 
+емпіричного матеріалу стали статті англійськомовного періодичного видання 
+The Guardian, розміщені на його офіційній онлайн платформі (див. 
+https://www.theguardian.com/international).
+    Мета та завдання, окреслені в роботі, а також специфіка об’єкта дослі- 
+дження зумовили використання низки методів та прийомів лінгвістичного ана- 
+лізу, серед яких зокрема метод суцільної вибірки, компонентний аналіз, синтак- 
+сичний аналіз, морфологічний аналіз, дискурс-аналіз, описовий метод та елемен- 
+ти кількісних підрахунків.
+2.	Теоретичні засади дослідження
+    У зв’язку зі зміною наукової парадигми та втратою провідної ролі струк- 
+турної лінгвістики, в основі якої лежить розуміння мови як знакової системи з 
+чітко виділеними структурними елементами та прагнення до опису мови (Шили-
+
+
+хина), особлива увага прикута до питань, пов’язаних з комунікацією, прагматич- 
+ною ситуацією, фактором адресата тощо.
+    Теорія комунікації чітко диференціює терміни «комунікація» і «спілку- 
+вання»: комунікація розуміється як обмін думками та інформацією у формі мов- 
+них або письмових сигналів, в той час як спілкування – це двоспрямований про- 
+цес, який відбиває обмін думками, інформацією й емоційними переживаннями. 
+Спілкування є актуалізацією комунікативної функції мови у різних прагматич- 
+них ситуаціях. У той час як за спілкуванням закріплюються характеристики 
+міжособистісної взаємодії, за комунікацією закріплюється додаткове значення – 
+інформаційний обмін у суспільстві (Киселёва 11).
+    Категорія спонукальності є невід’ємним і суттєвим елементом комунікації. 
+Дослідження категорії спонукальної – одне із найбільш динамічних напрямків 
+сучасного мовознавства, про що свідчить низка наукових робіт за темою (Бе- 
+ляева; Большакова; Дрінко; Маркуляк; Неустроев; Han; Potsdam, Edmiston тощо). 
+Наразі, дослідженню підлягали як комунікативно-прагматичні властивості спо- 
+нукання (див. наприклад Сусов) так і структурні, семантичні та функційні особ- 
+ливості мовних засобів його вираження (див. наприклад Маслова).
+    Імператив, який розглядається як одна з найдавніших семантичних універ- 
+салій, представлений у всіх мовах, у всіх типах текстів і має глобальне значення 
+в комунікації та людської діяльності. Як зазначає О. В. Вєльський, «спілкування 
+немислимо без спонукання до дії. Люди безперервно звертаються один до одного 
+із різноманітними спонукальними фразами» (Вельский 83).
+    У сучасній лінгвістичній науці терміни «імперативність» і «спонукальність» 
+нерідко використовуються синонімічно, про  що  свідчить  зокрема  думка 
+В. С. Храковського та О. П. Володіна, які вважають, що імператив або спону- 
+кання – це повідомлення про бажання мовця, щоб адресат виконав певну дію, і 
+спроба каузувати його виконання адресатом (Храковский, Володин). Втім, слід 
+чітко розмежовувати категорії каузальності, каузації та спонукальності, які є пев- 
+ною мірою суміжними, але не тотожними (Залужна 13-14).
+    Спонукання, яке також у наукових джерелах за темою називають імперати- 
+вом та волютативом, – це універсальне явище, яке характерне для усіх мов світу, 
+якими користується людина; різниця виникає лише в інвентарі засобів його ви- 
+раження в різних мовах. У даній роботі, в рамках обраного підходу до вивчення 
+окресленого емпіричного матеріалу дослідження, за робоче обрано наступне 
+визначення: спонукання – це вербальне вираження інтенцій комуніканта, спря- 
+моване на пряме або опосередковане заохочення реципієнта до дії для досяг- 
+нення запланованої комунікантом перцептивної мети.
+    Категорія спонукальності розглядається сучасною лінгвістичною наукою 
+передусім як функційно-семантична категорія з польовим принципом побудови 
+різнорівневих мовних одиниць спонукальної семантики (Дрінко). У порівнянні 
+зі спонуканням, яке виражає бажання мовця впливати на слухача або третю 
+особу з метою зміни ситуації, термін «спонукальність», як правило, має ширше 
+значення: це властивість людей та інших явищ об’єктивної дійсності каузувати 
+зміни навколишньої дійсності (Беляева).
+
+
+    Сучасний стан лінгвістичної науки демонструє, що одним із найбільш про- 
+дуктивних підходів до вивчення спонукальності є її дослідження в рамках різних 
+типів дискурсу (див. наприклад, роботи Иванова, Рыболовлев або Pang, Wu). По- 
+чинаючи з перших досліджень у галузі дискурсології (Harris), такий підхід 
+виявився продуктивним не тільки для суто лінгвістичного вивчення мовних 
+явищ, але і для викладання іноземних мов і теорії та практики перекладу 
+(Rodríguez-Vergara).
+    Проте коло питань, пов’язаних із функціонуванням спонукання в сучасному 
+англійськомовному публіцистичному дискурсі та специфікою засобів його вира- 
+ження, на нашу думку, потребує більш детального вивчення. Зокрема, проблема 
+позамовної обумовленості спонукання (підстави, які спричиняють конкретну ін- 
+тенцію мовця та умови її застосування), причини виникнення додаткових праг- 
+матичних ознак, які нашаровуються на основний зміст спонукання, особливості 
+мовленнєвої тактики комунікантів у конкретних спонукальних ситуаціях все ще 
+не знайшли належної уваги лінгвістів.
+    Сучасні дискурсивні дослідження спонукальних конструкцій відзначають 
+їхню обов’язкову спрямованість на адресата, діалогічність і спрямованість на 
+програмування поведінки реципієнта (Киселёва). Із категорією спонукальності, 
+її імпліцитними та експліцитними способами вираження безсумнівно пов’язані 
+мовні особливості реалізації поняття спонукання (Басок). Вважаючи правомір- 
+ним віднесення категорії спонукальної до комунікативно-семантичних, О. І. Бє- 
+ляєва виходить із того, що реалізація категорії здійснюється за допомогою ієрар- 
+хічно організованих і взаємодіючих комунікативних, прагматичних і власне лінг- 
+вістичних складових (Беляева).
+    У контексті лінгвістики тексту спонукальність розглядається як категорія, 
+яка визначає типовий для директивного тексту набір мовних засобів (Неустроев 
+33). Різні морфологічні, лексико-граматичні, лексичні та синтаксичні засоби ак- 
+туалізують категорію спонукальності, корелюючи з певними типами та підти- 
+пами директивно-регулятивних текстів. Функційно-стилістична приналежність і 
+комунікативно-прагматична спрямованість тексту є детермінантними у механіз- 
+мі відбору мовних одиниць та їхнього функціонування в директивно-регулятив- 
+них текстах (Маслова 6).
+    Із прагмалінгвістичної точки зору спонукальність розглядається як комуні- 
+кативне значення або іллокутивна сила, конкретний зміст якої складається з ви- 
+хідної ситуації, мовного акту, аудитивного акту, практичного акту та результую- 
+чої ситуації (Маркуляк, 125–126). Дослідники відзначають, що теорія мовних ак- 
+тів надає адекватний апарат для опису вербальних способів вираження спону- 
+кальності (Martin, Rose). Мовні акти, спрямовані на зміну поведінки та стану 
+співрозмовника, є спонукальними, директивними або регулятивними актами. 
+Спонукальність у них являє собою частину прагматичного значення (Иванова, 
+Рыболовлев).
+    Специфіка спонукальності полягає в тому, що саме базове значення цієї ка- 
+тегорії піддається об’єктивній диференціації залежно від сили інтенції; означу- 
+вана сила варіюється та проявляється в категоричності, нейтральності або
+
+
+м’якості спонукання. Л. О. Кісєльова відзначає, що мовні засоби, закріплені за 
+якоюсь однією функцією, утворюють особливу ієрархічну систему, або мовне 
+поле. За її словами, «спонукальне поле поділяється на такі підсистеми, як поле 
+категоричного спонукання, поле пом’якшеного спонукання та поле нейтраль- 
+ного спонукання» (Киселёва, 57). На думку дослідниці, поле категоричного спо- 
+нукання складається з таких підсистем, як поле наказу, поле команди, поле ви- 
+моги, поле заборони; поле пом’якшеного спонукання складається з поля про- 
+хання та поля благання; поле нейтрального спонукання містить пропозиції та 
+поле побажання.
+    Категорія спонукання має трирівневу структуру, до якої входять план зміс- 
+ту, план вираження та план трансляції. Виокремлюють три основні прагматичні 
+типи директивних мовленнєвих актів: прескриптиви (пріоритетність мовця), 
+прескриптиви (пріоритетність адресата) та сугестиви (пріоритетність мовця і бе- 
+нефактивність дії для адресата) (Шевченко).
+    Лінгвістична складова категорії спонукальної представлена сукупністю 
+різнорівневих мовних засобів, які виражають спонукальні значення, і організо- 
+вані за принципом функційно-семантичного поля. Категоріальною підставою 
+спонукальності виступає категоріальний сенс спонукання – загально-категорійне 
+значення, яке складається з набору значень окремих комунікативно-семантичних 
+груп, кожна з яких має комунікативний зміст, обумовлений комунікативною спо- 
+нукальною метою. Категоріальний принцип системної організації є ієрархічним, 
+що репрезентує взаємодію комунікативних, прагматичних, семантичних і власне 
+мовних чинників (Беляева, 8-10).
+    Крім того, розрізняють позитивне та негативне спонукання: до позитивного 
+зараховують вимогу та / або наказ, а до негативного – заборону та / або попере- 
+дження.
+    Засоби вираження категорії спонукальності поділяють на експліцитні та ім- 
+пліцитні. До експліцитних відносять дієслівні імперативні речення з ввічливими 
+та різкими відтінками спонукання; кінцеві формативи, такі як will you, will not 
+you, shall we; вживанням початкового емфатичного дієслова do; бездієслівні спо- 
+нукальні речення. До кола імпліцитних засобів вираження категорії спонукаль- 
+ності зараховують питання з допоміжними дієсловами will, shall, should, would, 
+які виражають м’яке, ввічливе прохання; розділові питання; модальні дієслова 
+can, could, may, must; дієслова у майбутньому часі; розповідні речення, які вико- 
+ристовуються в імпліцитних формах спонукання до дії (Басок).
+    Отже, функційно-семантичне поле категорії спонукальності містить різні 
+семантичні відтінки, які, у свою чергу, виражаються за допомогою різноманітних 
+засобів мовлення.
+    3.	Мовні засоби вираження спонукальності в заголовках статей 
+англійськомовного публіцистичного дискурсу
+    Результати аналізу емпіричного корпусу дослідження демонструють, що не- 
+прямі спонукальні мовленнєві акти характеризуються найбільшою продуктив- 
+ністю і становлять 71,3% (107 од.) емпіричної бази дослідження (напр. Hello! 
+Would you like a free book? “Привіт! Ви хотіли б безкоштовну книгу?”). Прямі спо-
+
+
+нукальні висловлювання виявилися менш продуктивними і склали 28,7% емпі- 
+ричного корпусу (43 од.) (напр. I am an ER doctor. Please take coronavirus seriously 
+“Я доктор швидкої допомоги. Будь ласка, сприймайте коронавірус серйозно”).
+    3.1.	На окрему увагу заслуговує той факт, що непрямі спонукальні 
+мовленнєві акти домінують не тільки чисельно в емпіричному корпусі дослі- 
+дження, але і демонструють більшу варіативність інвентарю способів свого ви- 
+раження в мовленні:
+    -	питальні речення різних типів, напр. Can we please stop talking about Adel’s 
+body? “Чи не могли б ми, будь ласка, припинити обговорювати тіло Адель?”; Why 
+Don’t You Just Die! review – ingenious drama with hints of Tarantino “Чому б тобі 
+просто не померти?” огляд – майстерна драма з натяком на Тарантіно;
+    -	еліптичні (бездієслівні) реченнями, напр. No More Boys and Girls: Can Kids 
+Go Gender Free? review – reasons to start treating children equally “Більше ніяких 
+хлопців та дівчат: чи зможуть дітлахи жити вільними від статі? огляд – причини 
+почати поводитися з дітьми однаково”;
+    -	сталі вирази з інгерентною семантикою спонукальності, напр. Ben Kings- 
+ley: “Do you mind if I finish what I was saying?” “Бен Кнігслі: «Ви не заперечуєте, 
+якщо я закінчу те, про що я говорив?»”;
+    -	дієслово to suggest та конструкції з ним, напр. How do you acquire and keep 
+rich friends? I suggest dinner “Як завести та зберегти багатих друзів? Я пропоную 
+вечерю”;
+    -	конструкція Complex Object із дієсловом to want, напр. We don’t want bil- 
+lionaires’ charity. We want them to pay their taxes “Ми не хочемо благодійності від 
+мільярдерів. Ми хочемо, щоб вони платили свої податки”;
+    -	умовний спосіб в додатках після дієслова to wish, напр. I wish more people 
+would read. Damon Runyon’s short stories “Я б хотів, щоб більше людей читали. 
+Оповідання Деймона Руньйона”;
+    -	каузативні дієслова to make, to get, to help, to have тощо, напр. Strategy board 
+games to help you escape Covid “Стратегічні настільні ігри, які допоможуть втекти 
+від ковіду”;
+    -	пасивна конструкція з модальною семантикою to be allowed, напр. UK lock- 
+down rules: what you are allowed to do from Monday “Правила карантину в Вели- 
+кобританії: що дозволено робити з понеділка”.
+    3.2.	Найбільш продуктивними засобами вираження прямих спонукальних 
+мовленнєвих актів виявилися:
+    -	спонукальні конструкції з дієсловом у формі синтетичного імператива, 
+напр. Help us to stop the war “Допоможіть нам зупинити війну”;
+    -	спонукальні конструкції з дієсловом у формі аналітичного імператива, 
+напр. Let’s move to Rotterdam: Eurovision’s new home “Давайте поїдемо до Роттер- 
+даму: нового дому Євробачення”;
+    -	конструкції з модальними дієсловами зі спонукальною семантикою should, 
+need, must та їхніми еквівалентами to have to, to be necessary тощо, напр. We can’t 
+rely on the media to call the election fairly. Here’s what we need to do about it “Ми не 
+можемо розраховувати на ЗМІ, щоб вони називали вибори чесними. Ось що ми
+
+
+маємо зробити”; Children over 12 should wear face masks to combat Covid, says 
+WHO “Діти старші 12 років повинні носити маски, щоб побороти ковід, говорить 
+ВООЗ”.
+    4.	Прагматика спонукальних мовленнєвих актів в заголовках статей 
+англійськомовного публіцистичного дискурсу
+    Аналіз прагматичних особливостей емпіричної бази дослідження дозволив 
+виокремити наступні типи спонукальних мовленнєвих актів:
+    -	наказ, напр. Hobbies make us happier – so ignore the mockery, and enjoy “Хобі 
+роблять нас щасливішими – отже, ігноруйте насмішки і насолоджуйтесь”;
+    -	порада, напр. “Focus on the things you can control”: how to cope with radical 
+uncertainty “«Сфокусуйтеся на речах, які Ви можете контролювати»: як впора- 
+тися з радикальною невпевненістю”;
+    -	прохання, напр. Help us test water quality across the US: is your water safe 
+enough? “Допоможіть нам протестувати якість води в США: а Ваша вода достат- 
+ньо безпечна?”;
+    -	побажання, напр. “There should be fines”: east London shoppers on mask law 
+“«Повинні бути штрафи»: покупці у східному Лондоні з приводу закону про мас- 
+ки”;
+-	запрошення, напр. Can we have a conversation about Kamala Harris’s ideas?
+“Ми можемо поговорити про ідеї Камаля Гарріса?”;
+    -	заборона, напр. No more “nagging wives”: how Oxford Dictionaries is cleaning 
+up sexist language “Більше ніяких «діставучих дружин»: як Оксфордські словники 
+підчищають мову сексизму”;
+    -	дозвіл, напр. Don’t worry about “rewriting history”: it’s literally what we his- 
+torians do “Не хвилюйтеся про «переписану історію»: це по суті те, що роблять 
+історики”;
+    -	виправдання, напр. Don’t blame us for UK’s coronavirus spike, say young peo- 
+ple “Не звинувачуйте нас у новій хвилі коронавірусу, говорить молодь”;
+    -	інструкція, напр. Wanna get really high? Take a dab in the world of concen- 
+trates “Хочеш дійсно кайфонути? Занурюйся у світ концентратів”;
+    -	підбурювання, напр. Let’s seize this rare chance to abolish school exams and 
+league tables “Давайте схопимо цей рідкий шанс скасувати шкільні іспити та рей- 
+тинги”;
+    -	загроза, напр. Dr Crippen: Just don’t try giving me the swine flu vaccine “Док- 
+тор Кріппен: Навіть не намагайся дати мені вакцину від свинячого грипу”.
+5.	Висновки
+    5.1.	Спонукальні висловлювання посідають чільне місце серед дискурсив- 
+них лінгвістичних досліджень і відзначаються високою продуктивністю. У рам- 
+ках дослідження дискурсу категорії спонукальності та спонукання; каузальності, 
+каузації та спонукальності є певною мірою суміжними, але не тотожними.
+    5.2.	Спонукання – це вербальне вираження інтенцій комуніканта, спрямо- 
+ване на пряме або опосередковане заохочення реципієнта до дії для досягнення 
+запланованої комунікантом перцептивної мети.
+
+
+    5.3.	Спонукальні мовленнєві акти поділяються на прямі та непрямі, останні 
+в емпіричному корпусі дослідження переважають чисельно та демонструють 
+більшу варіативність інструментарію вираження.
+    5.4.	Прагматично-комунікативна складова спонукальних висловлювань де- 
+монструє значний інвентар спонукальних мовленнєвих актів, серед яких зокрема 
+наказ, порада, прохання, побажання, запрошення, заборона, дозвіл, виправдання, 
+інструкція, підбурювання, загроза.
+    5.5.	Перспектива подальшого дослідження вбачається в розширенні 
+емпіричної бази дослідження за рахунок залучення інших англійськомовних пе- 
+ріодичних публіцистичних видань; у проведенні зіставного аналізу викорис- 
+тання спонукальних конструкцій в заголовках статей у сучасному публіцистич- 
+ному дискурсі в різних лінгвокультурах; в укладанні типології спонукальних ви- 
+словлювань та типових смислів, які вони виражають в сучасному публіцистич- 
+ному дискурсі.
+Література
+1.	Басок В. А. Експліцитні та імпліцитні засоби відтворення комунікативної інтенції в україн- 
+ських перекладах англомовних маркетингових текстів. Науковий вісник Міжнародного гу- 
+манітарного університету. Сер. : Філологія. 2014. №9. С. 72-74.
+2.	Бацевич Ф. С. Основи комунікативної лінгвістики. К. : Академія, 2004. 344 с.
+3.	Беляева Е. И. Грамматика и прагматика побуждения: английский язык. Воронеж : Изд-во 
+ВГУ, 1992. 168 с.
+4.	Большакова Т. М. Состав и функционирование прескрипций и прохибитивов в немецко- 
+язычных текстах директивно-регулятивного типа (прагмалингвистический и 
+социокультурный аспекты): автореф. дис канд. филол. наук. СПб., 2005. 23 с.
+5.	Вельский А. В. Побудительная речь. Учен. зап. Моск. пед. ин-та иностр. яз. им. М. Тореза.
+М., 1953. Т. VI. C. 81-147.
+6.	Дрінко Г.Г. Спонукальні конструкції в англійській та українських мовах: автореф. дис. … 
+канд. філол. наук. Донецьк, 2005. 21 с.
+7.	Загнітко А. П. Комунікативно-прагматичні аспекти сучасного політичного газетного дис- 
+курсу. Культура народов Причерноморья. 2007. № 110, Т. 1. 190-193.
+8.	Залужна О. О. Лексико-стилістичні та структурно-синтаксичні особливості привативних 
+дієслів в англійській та українській мовах : монографія (Типологічні, зіставні, діахронічні 
+дослідження). Вінниця: ТОВ «Нілан- ЛТД», 2019. 314 с.
+9.	Иванова И. В., Рыболовлев Н. Р. Роль категории повелительности в организации дирек- 
+тивного текста (на материале польского, руccкого и немецкого языков). Функционально- 
+типологические аспекты анализа императива. М., 1990. Ч. 2. С. 31-35.
+10.	Киселёва Л. А. Язык как средство воздействия. Л. : Ленингр. гос. пед. ин-т им. А. И. Гер- 
+цена, 1971. 59 с.
+11.	Маркуляк Л. В. Оптативні відношення в системі спонукальних конструкцій. Актуальні 
+проблеми філології та перекладознавства. 2015. №. 9. С. 117-121.
+12.	Маслова А. Ю. Коммуникативно-семантическая категория побудительности и ее реали- 
+зация в славянских языках (на материале сербского и болгарского языков в сопоставлении 
+с русским) : автореф. дис. … д-ра филол. наук. М., 2009. 26 с.
+13.	Неустроев К. С. Способы выражения побуждения и воздействия (на материале совре- 
+менного английского языка) : автореф. дис канд. филол. наук. Ростов н/Д, 2008. 21 с.
+14.	Сусов И. П. Побудительность: деятельностьно-коммуникативное и функционально-семан- 
+тическое представление. Императив в разноструктурных языках. Л., 1988. С. 125-127.
+
+
+15.	Храковский В. С., Володин А. П. Семантика и типология императива: русский императив. 
+М.: УРСС, 2001. 272 с.
+16.	Шевченко І. С. Мовленнєвий акт і дискурс в когнітивно-прагматичному та історичному 
+ракурсі. Переклад у наукових дослідженнях представників Харківської школи : кол. моно- 
+графія. Вінниця : Нова книга, 2013. С. 117-134.
+17.	Шилихина К. М. Вербальные способы модификации поведения и эмоционально-психоло- 
+гического состояния собеседника в российской и американской коммуникативных культу- 
+рах : автореф. дис канд. филол. наук. Воронеж, 1999. 23 с.
+18.	Han Chung-hye The Structure and Interpretation of Imperatives: Mood and Force in Universal 
+Grammar. IRCS Technical Reports Series. 1998. 74. 237 p.
+19.	Harris Z. Discourse Analysis. Language. 1952. 28(1), Pp. 1-30.
+20.	Martin J. R., Rose D. Working with Discourse: Meaning Beyond the Clause (2nd ed.). London: 
+Continuum, 2007. 368 p.
+21.	Pang H., Wu S. Critical Instance Analysis of News English Discourse. English Language Teach- 
+ing. CCSE. 2009. Vol. 2, №2. Pp. 148-151.
+22.	Poole D. Discourse Analysis and Applied Linguistics. The Oxford Handbook of Applied Linguis- 
+tics (R. B. Kaplan (ed.)). Oxford: Oxford University Press, 2010. Pp. 73-84.
+23.	Potsdam E.,	Edmiston D.	Imperatives.	Oxford :	Oxford	University	Press,	2015.
+doi: 10.1093/OBO/9780199772810-0107
+24.	O’Keeffe A. Media and Discourse Analysis. The Routledge Handbook of Discourse Analysis. 
+Chapter: Institutional Applications. Oxon : N.Y. : Routledge, 2012. Pp. 104-119.
+25.	Rodríguez-Vergara D. The Importance of Discourse Studies in Linguistics, Language Teaching 
+and Translation. US-China Foreign Language. 2018, Vol. 16, No. 6. Pp. 297-310. 
+doi:10.17265/1539-8080/2018.06.001
+
+References
+1.	Basok, V. A. Eksplitsytni ta implitsytni zasoby vidtvorennya komunikatyvnoyi intentsiyi v 
+ukrayins’kykh perekladakh anhlomovnykh marketynhovykh tekstiv (Explicit and Implicit Means 
+of Creating Communicative Intentions in Ukrainian Translations of English Marketing Texts). 
+Naukovyy visnyk Mizhnarodnoho humanitarnoho universytetu. Ser. : Filolohiya. (Scientific Bul- 
+letin of International Humanities University. Series: Philology). №9 (2014): 72-74. Print.
+2.	Batsevych, F. S. Osnovy komunikatyvnoyi linhvistyky (Foundations of Communicative Linguis- 
+tics). Kyiv : Akademiya, 2004. Print.
+3.	Belyaeva, E. I. Grammatika i pragmatika pobuzhdeniya: angliyskiy yazyik (Grammar and Prag- 
+matics of Inducement: the English Language). Voronezh : Izd-vo VGU, 1992. Print.
+4.	Bolshakova, T. M. Sostav i funktsionirovanie preskriptsiy i prohibitivov v nemetskoyazyichnyih 
+tekstah direktivno-regulyativnogo tipa (pragmalingvisticheskiy i sotsiokulturnyiy aspektyi) 
+(Content and Functions of Prescriptives and Prohibitives in German Texts of Directive Regula- 
+tory Type (Pragmatic and Sociocultural Aspects)). Diss. Russian State Pedagogical U, 2005. Ab- 
+stract. Print.
+5.	Velskiy, A. V. Pobuditelnaya rech (Inducement Speech). Uchen. zap. Mosk. ped. in-ta inostr. yaz. 
+im. M. Toreza (Sceintific Notes of Moscow Pedagogical University of Foreign Languages by 
+M. Torez). 6 (1953): 81-147. Print.
+6.	Drinko, H. Sponukalni konstruktsii v anhliiskii ta ukrainskii movakh (Inducement Constructions 
+in the English and Ukrainian languages). Diss. Donetsk National U, 2005. Abstract. Print.
+7.	Zahnitko, A. P. Komunikatyvno-prahmatychni aspekty suchasnoho politychnoho hazetnoho 
+dyskursu (Communicative and Pragmatic Aspects of Modern Political Newspaper Discourse). 
+Kul’tura narodov Prychernomor’ya (Culture of Prychernomor’ya Peoples). № 110. Vol. 1 
+(2007): 190-193. Print.
+8.	Zaluzhna, O. O. Leksyko-stylistychni ta strukturno-syntaksychni osoblyvosti pryvatyvnykh 
+diyesliv v anhliys’kiy̆ ta ukrains’kiy movakh (Lexical, Stylistic, Structural, and Syntactic Pecu-
+
+
+liarities of Privative Verbs in English and Ukrainian). Vinnytsya: TOV «Nilan- LTD», 2019. 
+Print.
+9.	Ivanova, I. V., & Ryibolovlev, N. R. Rol kategorii povelitelnosti v organizatsii direktivnogo tek- 
+sta (na materiale polskogo, rucckogo i nemetskogo yazyikov) (The Role of the Category of Im- 
+perative Mood in Directive Text Organisation (on the Basis of the Polish, Russian, and German 
+Languages)). Funktsionalno-tipologicheskie aspektyi analiza imperativa (Functional and Typo- 
+logical Aspects of the Imperative Mood Analysis). Moscow, 1990. Part 2. 31-35. Print.
+10.	Kiselyova, L. A. Yazyik kak sredstvo vozdeystviya (Language as Means of Inducement). Lenin- 
+grad : Leningr. Gos. Ped. Institute im. A. I. Gertsena, 1971. Print.
+11.	Markulyak, L. V. Optatyvni vidnoshennya v systemi sponukal’nykh konstruktsiy (Optative Re- 
+lations in the System of Imperative Constructions). Aktual’ni problemy filolohiyi ta perekla- 
+doznavstva (Acute Issues of Philology and Translation) 9 (2015): 117-121. Print.
+12.	Maslova, A. Yu. Kommunikativno-semanticheskaya kategoriya pobuditelnosti i ee realizatsiya v 
+slavyanskih yazyikah (na materiale serbskogo i bolgarskogo yazyikov v sopostavlenii s russkim) 
+(Communicative and Semantic Category of Inducement and Its Realisation in Slavic Languages 
+(Based on Serbian and Bulgarian Languages in Comparison with Russian)). Diss. St. Peterburg 
+State U, 2009. Abstract. Print.
+13.	Neustroev, K. S. Sposobyi vyirazheniya pobuzhdeniya i vozdeystviya (na materiale sovremen- 
+nogo angliyskogo yazyika) (Ways of Expressing Inducement and Influence (Based on Modern 
+English Language)). Diss. Southern Federal U, 2008. Abstract. Print.
+14.	Susov, I. P. Pobuditelnost: deyatelnostno-kommunikativnoe i funktsionalno-semanticheskoe 
+predstavlenie (Inducement: Action, Communicative, Functional, and Semantic View). Imperativ 
+v raznostrukturnyih yazyikah (Imperatives in the Languages of Different Systems). Leningrad : 
+Nauka, 1988. 125-127. Print.
+15.	Hrakovskiy, V. S., & Volodin, A. P. Semantika i tipologiya imperativa: russkiy imperative (Se- 
+mantics and Typology of Imperatives: Russian Imperative). Moscow : URSS, 2001. 272. Print.
+16.	Shevchenko, I. S. Movlennyevyy akt i dyskurs v kohnityvno-prahmatychnomu ta istorychnomu 
+rakursi (Speech Act and Discourse in Cognitive, Pragmatic, and Historical Aspects). Pereklad u 
+naukovykh doslidzhennyakh predstavnykiv Kharkivs’koyi shkoly (Translation in Scholarly Re- 
+searches by Representatives of Kharkiv School). Vinnytsya : Nova knyha,   2013. 117-
+134. Print.
+17.	Shilihina, K. M. Verbalnyie sposobyi modifikatsii povedeniya i emotsionalno-psihologicheskogo 
+sostoyaniya sobesednika v rossiyskoy i amerikanskoy kommunikativnyih kulturah (Verbal Means 
+of Modifications in Behaviour, Emotional and Psychological State of the Interlocutor in Russian 
+and American Communicative Cultures). Diss. Voronezh State U, 1999. Abstract. Print.
+18.	Han Chung-hye The Structure and Interpretation of Imperatives: Mood and Force in Universal 
+Grammar. Diss. U of Pennsylvania, 1998. Print.
+19.	Harris Z. Discourse Analysis. Language. 28(1) (1952): 1-30. Print.
+20.	Martin J. R., & Rose D. Working with Discourse: Meaning Beyond the Clause (2nd ed.). London: 
+Continuum, 2007. Print.
+21.	Pang H., & Wu S. Critical Instance Analysis of News English Discourse. English Language 
+Teaching. CCSE. 2/2 (2009) : 148-151. Print.
+22.	Poole D. Discourse Analysis and Applied Linguistics. The Oxford Handbook of Applied Linguis- 
+tics (R. B. Kaplan (ed.)). Oxford: Oxford University Press, 2010. 73-84. Print.
+23.	Potsdam E.,   &   Edmiston D.   Imperatives.   Oxford :   Oxford   University   Press,   2015. 
+doi: 10.1093/OBO/9780199772810-0107
+24.	O’Keeffe A. Media and Discourse Analysis. The Routledge Handbook of Discourse Analysis. 
+Chapter: Institutional Applications. Oxon : N.Y. : Routledge, 2012. 104-119. Print.
+25.	Rodríguez-Vergara D. The Importance of Discourse Studies in Linguistics, Language Teaching 
+and Translation. US-China Foreign Language. 16/6 (2018): 297-310. doi:10.17265/1539- 
+8080/2018.06.001
+
+
+     GRAMMATIC AND PRAGMASEMANTIC FEATURES OF INDUCEMENT 
+UTTERANCES IN ENGLISH-SPEAKING MEDIA DISCOURSE (BASED ON HEADLINES 
+IN THE GUARDIAN ON-LINE VERSION)
+Olha Zaluzhna
+English Philology Department, Vasyl’ Stus Donetsk National University, Vinnytsia, Ukraine
+Oleksandra Kholodiuk
+English Philology Department, Vasyl’ Stus Donetsk National University, Vinnytsia, Ukraine
+Abstract
+     Background: The issue of the inducement utterances discourse analysis has remained topical 
+for modern linguistic research for many years, the evidence of which are numerous theoretical and 
+empiric studies. Yet, the scope of theoretical questions open for discussion and the variety of the 
+discourse realm involved leave fruitful ground for further research. The present article offers an out- 
+line of grammatic and pragmasemantic peculiarities of inducement utterances used in headlines of 
+the Guardian (its on-line based version).
+     Purpose: The purpose of the present research is to identify specific features of the inducement 
+utterances grammatic and pragmasemantic features within the media discourse, establish the inven- 
+tory of the language means used, and identify typical meanings expressed by the inducement speech 
+acts singled out in the process of the research.
+     Results: The empiric database analysis allows to arrive at conclusion that inducement speech 
+acts can be distributed into two groups: direct and indirect, the latter demonstrating quantitative domi- 
+nance and being represented by significantly bigger inventory of language means of its expression. 
+The insight into the pragmatic peculiarities of the language material studied makes it possible to sin- 
+gle out the following speech acts which include but are not limited to order, advise, request, wish, 
+invitation, prohibition, permission, excuse, instruction, incitement, threat.
+     Discussion: Inducement is the verbal expression of the communicant’s intension(s) directed 
+(directly or indirectly) at the recipient to encourage them to perform an action with the aim of 
+achieving the communicant’s perceptive goal. The strong preference for indirect inducement com- 
+municative acts can be predetermined by the fact that English-speaking language culture demon- 
+strates inclination to expressing inducement with the help of non-direct language means. The inven- 
+tory of speech acts, singled out during the research, indicates that the communicant’s intentions vary 
+greatly, and this variety in its turn allows to transmit the nuances of the communicative message so 
+as to achieve the goal of the communication.
+     Key words: media discourse, semantics, pragmatics, imperatives, inducement utterance, di- 
+rect / indirect inducement act.
+Vitae
+     Olha Zaluzhna is a PhD in Philology, Associate Professor at English Philology Department at 
+Vasyl’ Stus Donetsk National University, Vinnytsia, Ukraine. Her areas of research include contras- 
+tive semantics, lexical semantics, discourse analysis, sociolinguistics.
+Correspondence: o.zaluzhna@donnu.edu.ua
+     Oleksandra Kholodiuk is a student of English Philology Department at Vasyl’ Stus Donetsk 
+National University, Vinnytsia, Ukraine. Her areas of research include discourse analysis, semantic 
+syntax, linguistic pragmatics.
+Correspondence: kholodiuk.o@donnu.edu.ua
+
+  Надійшла до редакції 16 вересня 2020 року 
+Рекомендована до друку 15 жовтня 2020 року
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

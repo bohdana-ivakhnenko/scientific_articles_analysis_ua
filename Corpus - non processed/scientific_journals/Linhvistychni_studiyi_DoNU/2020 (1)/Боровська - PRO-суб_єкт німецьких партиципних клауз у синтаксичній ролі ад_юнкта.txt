@@ -1,0 +1,643 @@
+﻿Лінгвістичні студії. №40(1)/2020
+
+Олена Боровська
+ORCID: orcid.org/0000-0002-3688-3621
+
+DOI 10.31558/1815-3070.2020.40.1.4 
+УДК 811.112.2’367.625.4’367.3
+
+PRO-СУБ’ЄКТ НІМЕЦЬКИХ ПАРТИЦИПНИХ КЛАУЗ 
+У СИНТАКСИЧНІЙ РОЛІ АД’ЮНКТА
+     У статті досліджено референцію нульового PRO-суб’єкта в німецьких партиципних 
+клаузах. Проаналізовано ознаки наявності PRO-суб’єкта в партиципних клаузах у синтаксич- 
+ній ролі ад’юнкта; визначено умови вибору антецедента для PRO-суб’єкта; розглянуто ме- 
+ханізми контролю PRO (обов’язкового та необов’язкового контролю PRO). Наявність нульо- 
+вого PRO-суб’єкта в партиципних клаузах є необхідною вимогою Теорії зв’язування та тета- 
+критерію. Для визначення механізмів контролю PRO-суб’єкта залучено методику І. Ландау, 
+що передбачає перевірку на дотримання ознак обов’язкового та необов’язкового контролю.
+     Ключові слова: клауза, партиципна клауза, ад’юнкт, нульові одиниці, PRO-суб’єкт, 
+контроль PRO, обов’язковий контроль, необов’язковий контроль.
+
+    Постановка проблеми. Речення – це одне з центральних понять синтак- 
+сису, його основна одиниця, навколо якої згруповано інші види синтаксичних 
+категорій. Увага дослідників концентрується переважно на аналізі синтаксичних 
+одиниць, які мають матеріальне вираження. Проте виявляється, що у більшості 
+природних мов є інвентар елементів, які можуть бути фонологічно нульовими в 
+певному чи навіть у будь-якому синтаксичному оточенні. Незважаючи на відсут- 
+ність вербальної форми, такі нульові одиниці проявляють синтаксичну актив- 
+ність.
+    У генеративній лінгвістиці нефінітним формам дієслова надається клау- 
+зальний статус. Дієслівний характер нефінітних форм дієслова пояснюється 
+здатністю до формування власної клаузи за аналогією з фінітним дієсловом. Пре- 
+дикатним центром нефінітних клауз є нефінітна форма дієслова, а суб’єкт завжди 
+фонологічно невиражений. З огляду на це, особливого значення набуває ви- 
+вчення синтаксичних та функційних особливостей нульового PRO-суб’єкта не- 
+фінітних клауз, що визначає актуальність нашого дослідження.
+    Аналіз останніх досліджень і публікацій. Велику кількість сучасних 
+лінгвістичних досліджень присвячено вивченню нульових одиниць в синхроніч- 
+ному та діахронічному аспектах для визначення статусу нульових елементів в 
+теоретичному синтаксисі (Циммерлинг “Нулевые лексемы”; “Синтаксические 
+нули”), виявлення специфічних морфологічних та синтаксичних передумов їх 
+функціонування (Axel, and Weiß; Fuß; Wratil, Salzmann; Ortmann); визначення ме- 
+ханізмів контролю суб’єкта в інфінітивних клаузах (Brandt, Trawiński, Wöllstein), 
+що свідчить про інтерес мовознавців до дослідження цієї проблематики.
+
+© Боровська О., 2020
+
+
+    Постановка завдання. Об’єкт аналізу дослідження становлять німецькі ре- 
+чення з партиципною клаузою (далі – ПКл) у синтаксичній ролі ад’юнкта. Ме- 
+тою статті є встановлення особливостей функціонування PRO-суб’єкта таких 
+ПКл у сучасній німецькій мові. Реалізація поставленої мети передбачає вирі- 
+шення таких завдань: (1) опис ознак існування PRO-суб’єкта в ПКл; (2) визна- 
+чення умов вибору антецедента для PRO-суб’єкта ПКл; (3) визначення механіз- 
+мів контролю PRO у ПКл (обов’язкового та необов’язкового контролю PRO- 
+суб’єкта за визначенням І. Ландау). Мета й завдання роботи зумовили застосу- 
+вання комплексної методики дослідження. Принципи генеративного синтак- 
+сису лежать в основі структурно-функційного методу, який ґрунтується на виді- 
+ленні в цілісних системах їхньої структури – сукупності стійких відношень і взає- 
+мозв’язків між елементами та їхньої ролі відносно один одного. Для визначення 
+механізмів контролю PRO-суб’єкта ПКл залучено методику І. Ландау, яка перед- 
+бачає перевірку на дотримання ознак обов’язкового та необов’язкового конт- 
+ролю PRO (Landau “Control in Generative Grammar”).
+    Виклад матеріалу дослідження. У генеративному синтаксисі речення кла- 
+сифікують за структурною ознакою за допомогою поняття клаузи. Суб’єкт ре- 
+чення визначають як іменну групу, що виступає у називному відмінку та конт- 
+ролює узгодження дієслова-предиката (“Subjekt”). Спрямовуючи наукові ро- 
+звідки на пошук мовних універсалій, учені намагаються надати багатофакторне 
+визначення суб’єкта, яке можна було б застосувати до різних мов світу. Таким 
+чином, суб’єктом довільного базового речення певної мови є іменна група, для 
+якої справедливою є максимальна кількість пріоритетних ознак (Подобряев 
+234). До таких пріоритетних ознак відносять називний відмінок, контроль узгод- 
+ження з фінітним дієсловом-присудком, контроль сурядного скорочення ка- 
+нонічних підметів, можливість трансформації у нульовий підмет (PRO) при 
+інфінітиві та партиципах, контроль референції рефлексивів, контроль PRO 
+фінальних інфінітивних клауз, нездатність контролювати pro у фінальних 
+інфінітивних клаузах, контроль PRO у ПКл, можливість трансформації в при- 
+свійний або відносний прикметник при номіналізації; а також рольові ознаки, 
+тобто такі, що визначаються не синтаксичною, а семантичною роллю іменної 
+групи.
+У деяких синтаксичних конструкціях (головним чином, нефінітних) посту-
+люють наявність нульових (також імпліцитних, або латентних) суб’єктів, спіль- 
+ною властивістю яких є неможливість підстановки на їх місце “звичайного”, вер- 
+бально вираженого, суб’єкта. Нульовий суб’єкт, який виникає у позиції, що не 
+дозволяє появи фонологічно вираженого суб’єкта, проте знаходить відобра- 
+ження у синтаксичній структурі, у генеративній граматиці називають PRO (три 
+перші букви англійського слова pronoun, що вказує на віднесеність цієї величини 
+до класу займенників). Нульові займенники – це лексеми, що заповнюють пози- 
+ції цілих фразових категорій: PRO заміщує не іменник, а цілу іменну групу. Ну- 
+льовий елемент не може приєднувати жодних залежних означень, як і звичайний 
+займенник, який також ніколи не приєднує залежних елементів та за своїми дис- 
+трибутивними властивостями більш близький до іменних груп, ніж до іменників.
+
+
+Визначальною ознакою займенників є наявність у їхньому лексичному значенні 
+вказівки на тип відношень з референтом (ЛЭС 295). Референт має іменна група 
+в цілому, а не словарна одиниця, що її очолює. Займенники, включно з ну- 
+льовими, являють собою такі словарні одиниці, які за референційними властиво- 
+стями та за дистрибуцією набувають схожості з фразовою категорією – іменною 
+групою (Тестелец 287).
+    Правила, що встановлюють, яка з іменних груп у реченні повинна збігатися 
+за референтом з PRO, називають правилами контролю, а власне іменна група, 
+яка визначає референцію PRO, є його контролером (Тестелец 288).
+    Німецькі ПКл містять імпліцитний суб’єкт, зв'язок якого з контролером у 
+матричній клаузі можна описати за допомогою поняття контролю. Наявність 
+PRO-суб’єкта в нефінітних клаузах виводиться з вимог тета-критерію та тета- 
+зв’язку (Brodahl 103).
+    Тета-критерій є одним з центральних принципів генеративної лінгвістики, 
+згідно якого кожна тета-роль може приписуватися тільки одному аргументу, і 
+кожний аргумент може отримувати виключно одну тета-роль (Chomsky 36). Ін- 
+шими словами, вимоги тета-критерію виключають можливість тета-маркування 
+аргументів більше, ніж одним присудком. Німецькі ПКл містять партицип, який 
+слід трактувати як вербальне ядро з власною аргументною структурою. У при- 
+кладі (1) партицип І einleitend, утворений від тривалентного дієслова einleiten, 
+окрім внутрішньої тета-ролі акузатив-об’єкта та препозиційного об’єкта, також 
+повинен надавати зовнішню тета-роль:
+    (1)	Einleitend vergleicht Freyermuth die gegenwärtige Situation mit den Kommu- 
+nikationsmöglichkeiten früherer Zeiten (“Zeitschrift für Rezensionen“).
+    Згідно вимог тета-критерію, ця зовнішня тета-роль не може бути надана 
+суб’єкту матричного речення (далі – МР) Freyermuth, оскільки цей суб’єкт уже 
+отримав свою роль від фінітного дієслова МР vergleichen. Отже, для забезпе- 
+чення дотримання вимог тета-критерію, слід визнати, що у матричного суб’єкта 
+є “замісник” у залежній ПКл, який співвідноситься з матричним суб’єктом і може 
+приймати тета-роль партиципа. Традиційно такий суб’єкт представляють як PRO 
+(рис. 1):
+[PROi Einleitend] vergleicht Freyermuthi …
+θ	θ
+Рис. 1 PRO-суб’єкт ПКл
+    Визнання наявності PRO в ПКл є також необхідною умовою Теорії 
+зв’язування (Binding Theory), яка є модулем універсальної граматики та пояс- 
+нює кореферентні відношення між анафорами, прономіналами, іменами та їх ан- 
+тецедентами за допомогою структурного відношення с-команди (Philippi 129). 
+Наведемо три принципи, з яких складається Теорія зв’язування (Staudinger 21):
+(А) анафори можуть бути пов’язані у межах своєї керуючої категорії; 
+(В) прономінали є вільними у межах своєї керуючої категорії;
+    (С) референційні вираження (R-вираження) завжди є вільні, не пов’язані з 
+жодним антецедентом, незалежно від своєї позиції.
+
+
+    Відповідно Теорії зв’язування один елемент є кореферентний іншому тільки 
+за умови, якщо ці елементи знаходяться у відповідних структурних позиціях сто- 
+совно один одного і при цьому дотримано вимогу с-команди.
+    У ПКл з партиципом І зберігається вживання рефлексивних та реципрокних 
+займенників, які у генеративній літературі називають анафорами:
+    (2)	Herzenskraft ist die Kraft der Vermittlung, wodurch die Möglichkeit einer Be- 
+gegnung zwischen zwei [...] Menschen entsteht – einmal in einem Punkt sich treffend 
+und konzentrierend, das andere Mal einen Freiraum bildend für das “Dazwischen” 
+(Linguistik online).
+    У відповідності до принципу А Теорії зв’язування анафори пов’язуються 
+локально. Цей принцип також означає, що у ПКл повинен бути антецедент, який 
+може пов’язувати рефлексивний та реципрокний займенники. Такою зв’язуваль- 
+ною одиницею в німецькій мові є суб’єкт, що ще раз підтверджує наявність PRO- 
+суб’єктa у ПКл.
+    Отже, без визнання наявності синтаксичного суб’єктa PRO у ПКл немож- 
+ливо було б забезпечити дотримання вимог тета-критерію та принципу А Теорії 
+зв’язування.
+    Одна з центральних проблем генеративної граматики – пошук відповіді на 
+питання, чим зумовлено механізми контролю нульових синтаксичних одиниць. 
+Питання про те, чим визначається референція PRO-суб’єкта, досліджується у ге- 
+неративній лінгвістиці з 60-х років ХХ століття (Brodahl 105).
+    У ранніх підходах (Larson; Bailyn) йшлося про те, що вибір антецедента 
+визначається виключно синтаксичними та семантичними принципами. 
+Центральну роль відігравав принцип локальності (The Minimal Distance 
+Principle), згідно якого наступний с-командуючий потенційний антецедент пови- 
+нен контролювати PRO. На думку інших дослідників (Hornstein), антецедент 
+може визначати тільки особлива синтаксична функція або конкретна семантична 
+роль. Антецедент PRO – це завжди синтаксичний суб’єкт. Також у ролі антеце- 
+дентів можуть виступати АГЕНСИ-ад’юнкти у пасивних конструкціях, СТИ- 
+МУЛИ-аргументи та ЕКСПЕРІЕНСЕРИ, оскільки їм приписують роль підметів 
+певного рівня (Legendre). Таким чином, йдеться про семантичний критерій, який 
+ґрунтується на тематичних ролях.
+    І. Ландау у своїх дослідженнях (Landau “The implicit syntax of implicit 
+element”, “Control in generative grammar”) критикує вищезгадані принципи за 
+надмірну рестрикивність, через яку вони виявляються нездатними пояснити ос- 
+новні механізми явища контролю, адже дослідження цих механізмів демонструє, 
+що PRO не завжди контролюється наступним потенційним с-командуючим ан- 
+тецедентом, а це є порушенням принципу локальності. Так, в англійських речен- 
+нях з інфінітивною клаузою контроль PRO може здійснюватися суб’єктом МР, 
+при цьому суб’єкт відділений від PRO об’єктом МР (Landau “Elements of control” 
+198):
+Johni asked Maryj [PROi to be allowed to sing].
+    У досліджуваному корпусі нами не зафіксовано жодного речення з ПКл у 
+ролі ад’юнкта, в яких контроль PRO-суб’єкта здійснювався б суб’єктом МР,
+
+
+відділеним від PRO-суб’єкта ПКл об’єктом МР (подібно до речень з інфінітив- 
+ними клаузами).
+    Дослідження, присвячені залежним клаузам, демонструють, що контроль 
+можуть здійснювати не тільки суб’єкти МР, але й інші складові МР (Kortmann). 
+Так, у прикладі (3) PRO-суб’єкт ПКл контролюється PRO-суб’єктом інфінітивної 
+клаузи, який, у свою чергу, зазнає контролю з боку суб’єкта МР, що при транс- 
+формації виявляється ідентичним прямому додатку активної глибинної струк- 
+тури:
+    (3)	Damit wird der Interviewpartnerj aufgefordert, [PROj auf seinen persönlichen 
+Erfahrungen basierend], [PROj eine Erklärung zu geben] (“Linguistik online“). ← 
+Damit fordert mani den Interviewpartnerj auf, [PROj auf seinen persönlichen Erfah- 
+rungen basierend], [PROj eine Erklärung zu geben].
+    При виборі антецедента для PRO важливу роль відіграють певні механізми 
+контролю. У випадку обов’язкового контролю йдеться про синтаксичний ме- 
+ханізм узгодження, проте вибір антецедента може зазнавати і впливу прагматич- 
+них факторів. Кореферентні відношення в синтаксисі як різновид формально-се- 
+мантичних співвідношень розглядають як на синтагматичному, так і на парадиг- 
+матичному рівнях. Проте найдоцільніше розглядати їх з позицій комунікативно- 
+прагматичних інтенцій мовця – творця як окремих висловлювань, так і зв’язного 
+мовлення взагалі (Гуйванюк, 1999). Вибір антецедента не можна звести лише до 
+застосування простого синтаксичного або семантичного принципу (Landau 
+“Elements of control” 2000).
+    Хоча величина, до якої відноситься клауза, часто є найближчим потенцій- 
+ним антецедентом, семантичні ознаки антецедента повинні все ж таки корелю- 
+вати з валентними властивостями партиципа у клаузі (Kortmann 69). Таким чи- 
+ном, локальний чинник хоча й відіграє певну роль при виборі антецедента, проте 
+семантичні і/або прагматичні фактори переважають.
+Досліджуючи механізми контролю PRO, І. Ландау виділяє такі ознаки
+обов'язкового контролю (Landau “Control in generative grammar” 29):
+у конструкції [… Xi … [sPROi…]…], де Х контролює PRO-суб’єкт клаузи S: 
+а) контролер X має бути співзалежним з S;
+б) PRO або частина його повинні бути пов’язаними перемінними.
+    Для того, щоб перевірити, чи контроль PRO-суб’єкта у ПКл через суб’єкт, 
+об’єкт або імпліцитний агенс МР відповідає цьому визначенню обов’язкового 
+контролю, слід застосувати декілька тестів, запропонованих І. Ландау (Landau 
+“Control in Generative Grammar”) для визначення типів контролю PRO:
+    1)	Обов’язково контрольований PRO не допускає ані арбітрарного контро- 
+лю, ані нелокального антецеденту, який знаходився б поза межами МР або був 
+би вкладеним в DP. Ці критерії є актуальними також для суб’єктного та об’єкт- 
+ного контролю. Антецедентом при обов’язковому контролі PRO може висту- 
+пати, таким чином, тільки суб’єкт чи об’єкт МР.
+    2)	Визначити тип контролю PRO можна також за допомогою еліптичних VP 
+(Landau, 2013). В еліптичних реченнях обов’язково контрольований PRO має так 
+звану нестабільну (sloppy) інтерпретацію: PRO в усічених VP є нестабільним (не
+
+
+строгим), тобто, його контролер є локальним співзалежним усіченої клаузи і не 
+є контролером у клаузі антецеденту (Landau, 2013, с. 30). Це твердження є спра- 
+ведливим для суб’єктно (приклад (4)) та об’єктно (приклад (5)) контрольованих 
+ПКл:
+    (4)	Dieseri (Mikei) stimmte [PROi kopfnickend] zu (“Linguistik online“). (4ʹ) Die- 
+seri (Mikei) stimmte [PROi kopfnickend] zu und so tat auch Johnj (stimmte [PROj/*i 
+kopfnickend] zu).
+    (5)	Ich habe gehört, dass Jugendliche heutzutage Menscheni [PROi halb liegend 
+auf Motorrädern] Achterbahnen herunterschicken, nicht aber Tierej [PRO j/*i halb lie- 
+gend auf Motorrädern] Achterbahnen herunterschicken (Brodahl 110).
+    У вищенаведених реченнях контролером PRO в опущених VP може бути 
+лише найближчий потенційний антецедент. При строгій інтерпретації, яка спо- 
+стерігається при необов’язковому контролі, PRO у еліптичних VP може контро- 
+люватися антецедентом PRO у нееліптичних VP (Landau “Control in Generative 
+Grammar” 30).
+    Обов’язково контрольований PRO є зв’язаною перемінною (Brodahl 110). 
+Це твердження є справедливим для більшості ПКл, що можна продемонструвати 
+на прикладі речення (6):
+    (6)	[PROi Freundlich lächelnd] weist sich Abeli als Polizeibeamter aus und fragt 
+nach Susannen Billiger (Vertacnik 210).
+(6′) Abel fragt nach Susanne Billiger, [während er freundlich lächelt].
+    (6′′) Abel fragt nach Susanne Billiger, während er (Peter) freundlich lächelt, Ma- 
+ria fragt nach Susanne Billiger, während sie (Maria) freundlich lächelt und Adam fragt 
+nach Susanne Billiger, während er (Adam) freundlich lächelt.
+    (6′′′) Peter, Maria und Adam fragen nach Susannen Billiger, während Peter 
+freundlich lächelt.
+    Приклади виявляють відмінність між ПКл у ролі ад’юнкта та залежною 
+фінітною клаузою, яка полягає в тому, що обов’язково контрольований PRO 
+може бути інтерпретований як зв’язана перемінна (Landau “Control in Generative 
+Grammar“ 32):
+Peter = x [x fragt nach Susanne Billiger, während x freundlich lächelt]; 
+займенники ж повинні мати точну інтерпретацію:
+Peter = x [x fragt nach Susanne Billiger, während Peter freundlich lächelt].
+    Ці три тести демонструють, що суб’єктний та об’єктний контроль PRO- 
+суб’єкта малих клауз у відповідності до визначення І. Ландау є обов’язковим 
+контролем; обов’язковим є також контроль PRO через імпліцитний аргумент у 
+МР (Landau “Control in Generative Grammar“).
+    У досліджуваному матеріалі обов’язковий контроль PRO-суб’єкта ПКл 
+реалізується через суб’єкт МР; не зафіксовано жодної ПКл, контроль PRO якої 
+здійснювався б через об’єкт матричної предикації:
+    (7)	[PROi Ausgehend von diesen Vorbemerkungen] erläutern wiri in einem ersten 
+Schritt zentrale Elemente einer systemtheoretisch informierten Heuristik zur Untersu- 
+chung des sozialen Phänomens Unterricht (“Linguistik online“).
+
+
+    (8)	[PROi Im De Gruyter Verlag in der Reihe „Linguistik – Impulse und Tenden- 
+zen“ erschienen], richtet sich „Sprachhandlungskoordination in der Chat-Kommuni- 
+kation“i in erster Linie an ein wissenschaftliches Publikum (Zeitschrift für Rezensio- 
+nen“).
+У прикладі (9) ПКл genau registrierend є вкладеною в іншу нефінітну клаузу
+– інфінітивну клаузу dem Film zu folgen. PRO-суб’єкт ПКл контролюється, таким 
+чином, нульовим суб’єктом іншої нефінітної клаузи. Контроль PRO-суб’єкта 
+ПКл трактуємо у цьому реченні також як обов’язковий контроль через суб’єкт 
+МР, оскільки PRO-суб’єкт інфінітивної клаузи є кореферентним суб’єкту МР:
+    (9)	Bela ist das Beispiel für Unaufmerksamkeit und Denkfaulheit, eri hat nicht 
+versucht, was alle sollten, nämlich [PROi [PROi genau registrierend] dem Film zu 
+folgen] (“Linguistik online“).
+    Цікавими для аналізу явища контролю є речення з ПКл, МР яких є пасив- 
+ними: у такому разі PRO-суб’єкт у ПКл виявляється ідентичним прямому об’єкту 
+активної глибинної структури. Оскільки контроль PRO може здійснюватися та- 
+кож іншими конституентами матричної предикації (об’єктом) (Landau “Control 
+in Generative Grammar”), то механізми контролю PRO-суб’єкта ПКл у ролі 
+ад’юнктів пасивного МР також слід трактувати як обов’язковий контроль:
+    (10)	In den zu interpretierenden Unterrichtssequenzen werden die hörenden und 
+sehenden anwesenden Schüleri in diesem Sinne als ,Zeugen‘ adressiert und schließlich
+– [PROi schreibend] – zu Dokumentaren eines Geschehens, zu Subjekten gemacht, die 
+das als Voraussetzung nutzen können, um dabei oder zumindest anschließend das
+,Eigentliche‘ eines Geschehens erfassen zu können (“Linguistik online“).
+    PRO-суб’єкт у ПКл з партиципом ІІ від перехідних дієслів також може бути 
+ідентичним прямому об’єкту активної глибинної структури, проте він завжди є 
+співзалежним з суб’єктом МР, що дозволяє трактувати контроль PRO у таких 
+клаузах як обов’язковий:
+    (11)	[PROі In Braunschweig-Wolfenbüttel von der Kultur der nordwestdeutschen 
+Aufklärung beeinflusst], konnte siei von dort während ihrer sechzehnjährigen Regent- 
+schaft Rat und Hilfe beziehen ( “Linguistik online“). ← (11′) Da sieі in Braunschweig- 
+Wolfenbüttel von der Kultur der nordwestdeutschen Aufklärung beeinflusst worden 
+war, konnte sieі von dort während ihrer sechzehnjährigen Regentschaft Rat und Hilfe 
+beziehen. ← (11′′) Da sieі die Kultur der nordwestdeutschen Aufklärung in Braun- 
+schweig-Wolfenbüttel beeinflusst hatte, konnte sieі von dort während ihrer sechzehn- 
+jährigen Regentschaft Rat und Hilfe beziehen.
+    (12)	[PROi Von Kritikerni und Lexikonprofisi anfangs müde belächelt], ist der 
+Bestandj der deutschsprachigen Wikipedia in nur sieben Jahren auf rund 764.000 Ar- 
+tikel angewachsen (“Linguistik online“). ← (12′) Obwohl ihn Kritiker und Lexikon- 
+profis anfangs nur müde belächelt haben, ist der Bestand der deutschsprachigen Wi- 
+kipedia in nur sieben Jahren auf rund 764.000 Artikel angewachsen.
+
+
+    Обов’язковим контролем є також контроль PRO через імпліцитний аргу- 
+мент. У наступній ПКл PRO-суб’єкт не має відповідного антецедента у МР, тому 
+PRO тут виявляється невизначеним:
+    (13)	[PROunbest. Einschränkend] muss hier angemerkt werden, dass die Differen- 
+zierung der Sozial- , der Sach- und der Zeitdimension rein analytische Unterscheidun- 
+gen darstellen (“Linguistik online“).
+    При появі у МР об’єкта з семантичною роллю АГЕНС, референція PRO стає 
+визначеною, що свідчить про те, що імпліцитний АГЕНС також може контролю- 
+вати PRO:
+    (13ʹ) [PROi Einschränkend] muss hier vom Autori angemerkt werden, dass die 
+Differenzierung der Sozial-, der Sach- und der Zeitdimension rein analytische Unter- 
+scheidungen darstellen.
+    Необов’язковий контроль за визначенням І. Ландау є віддаленим контро- 
+лем, за якого антецедент PRO і PRO-суб’єкт знаходяться в різних реченнях, або 
+ж довільним (arbitrary) контролем, де нульовий суб’єкт позначає невизначений, 
+узагальнений референт.
+    Необов’язковий контроль характеризується такими ознаками (Landau “Con- 
+trol in generative grammar” 232):
+у контрольованій конструкції […[sPRO…]…]
+а) контролер не обов’язково є граматичним елементом або співзалежним S; 
+б) необов’язковою є інтерпретація PRO як зв’язаної перемінної (тобто, це
+може бути вільна перемінна);
+в) PRO має ознаку [+human] ([+menschlich]).
+    Отже, при обов’язковому контролі необхідна присутність антецедента ну- 
+льового суб’єкта залежної нефінітної клаузи у межах безпосередньо вищої 
+клаузи; у разі необов’язкового контролю таке обмеження  не накладається. 
+При необов’язковому контролі нульовий суб’єкт PRO ПКл повинен відсилати до 
+іменної групи, яка знаходиться на відстані декількох клауз від ПКл (віддалений 
+контроль), або повинен позначати невизначений, узагальнений референт 
+(довільний контроль).
+    Для ПКл у ролі ад’юнкта це означає, що антецедент PRO-суб’єкта таких 
+клауз може знаходитися а) поза МР, б) всередині самої ПКл, в) може бути інтер- 
+претований як генеричний родовий, або ж г) антецедент PRO може відповідати 
+решті речення. У досліджуваному корпусі зафіксовано речення, які відповідають 
+ознакам в) та г):
+    (14)	In den meisten Fällen führt AUFj – [PROgen/man/wir ganz allgemein gespro- 
+chen] – den Adressaten eines Prozesses ein oder das angepeilte oder erreichte Objekt 
+oder Resultat (“Linguistik online“). → (14′) In den meisten Fällen führt AUF – wenn 
+man/wir ganz allgemein spricht/sprechen – den Adressaten eines Prozesses ein oder 
+das angepeilte oder erreichte Objekt oder Resultat.
+    (15)	Deren Entwicklungi kennzeichnet, [PROgen/man Moore’s Law folgend], expo- 
+nentielle Leistungssteigerungen bei gleichzeitig steter Verbilligung, wie sie analog 
+nicht zu erzielen war (“Linguistik online“). → (15′) Deren Entwicklung kennzeichnet,
+
+
+wenn man Moore’s Law folgt, exponentielle Leistungssteigerungen bei gleichzeitig ste- 
+ter Verbilligung, wie sie analog nicht zu erzielen war.
+    (16)	[PROgen/man/wir Analysierend die Besonderheiten des Zustandes des Problems 
+der Prüfung und Einschätzung der Kenntnisse], muss darauf hingewiesen werden, dass 
+dieses Problem vielseitig ist und von den Forschern in den verschiedenen Aspekten 
+betrachtet wurde (“Linguistik online“).
+    (17)	[Oder war sie “lediglich” gut, weil sie, [PROi dem subjektiven Empfinden 
+entsprechend], relativ schnell vorüberging]i? (“Linguistik online“) → (17′) Oder war 
+sie “lediglich” gut, weil sie relativ schnell vorüberging, was dem subjektiven Empfinden 
+entsprach?
+    Для підтвердження того, що у вищенаведених прикладах дійсно йдеться про 
+необов’язковий контроль PRO, слід перевірити, чи відношення контролю у таких 
+реченнях відповідають ознакам необов’язкового контролю, оскільки І. Ландау 
+(Landau “Control in generative grammar“) застосовував ці критерії лише по відно- 
+шенню до суб’єктних інфінітивів і ніколи до інфінітивів у ролі ад'юнктів.
+    У прикладах (14), (15) та (16) контроль PRO у ПКл можна інтерпретувати як 
+віддалений, точніше кажучи, зумовлений контекстом контроль, оскільки тут ан- 
+тецедент PRO знаходиться поза МР. Очевидно, що PRO у всіх наведених прикла- 
+дах вимагає від антецедента наявності ознаки [+menschlich]. Таким чином, відно- 
+шення контролю тут відповідають критеріям першому і третьому за визначенням 
+І. Ландау, і можуть вважатися випадками віддаленого контролю.
+    ПКл з PRO-суб’єктом, який можна визначити як генеричний (родовий), ма- 
+ють найбільшу кількість вживань у досліджуваному корпусі. PRO-суб’єкт у та- 
+ких клаузах не має антецедента серед експліцитних чи імпліцитних аргументів 
+МР, а отже, тут йдеться про необов’язковий контроль. У вищенаведених речен- 
+нях цілком логічним здається розуміння генеричного PRO-суб’єкта як такого, що 
+наділений ознакою [+menschlich]. Проте деякі дослідники припускають, що у 
+певних ПКл теоретично існує ймовірність того, що дія партиципів виконується 
+не людиною, а, наприклад, твариною (Brodahl 115):
+    (18)	Wer sich [PROgen im Wasser schwimmend] fortbewegt, aktiviert den ganzen 
+Körper.
+    (19)	Treffpunkt ist der Parkplatz, der [PROgen von der Mosel kommend] am Orts- 
+eingang von Lütz liegt.
+    Таким чином, в таких ПКл не завжди можна однозначно констатувати до- 
+тримання третього критерію І. Ландау. Для вирішення цієї невідповідності до- 
+слідники малих клауз пропонують розширити визначення І. Ландау за рахунок 
+включення усіх живих істот до переліку можливих антецедентів PRO при 
+необов’язковому контролі (Brodahl 115).
+    Перевірка на дотримання критеріїв необов’язкового контролю виявляється 
+ще більш проблематичною для ПКл, антецедентом PRO-суб'єкта яких виступає 
+все МР, як у прикладі (17). Оскільки антецедентом PRO таких клауз є власне МР, 
+то можна вважати, що антецедент знаходиться в межах МР, що відповідає визна- 
+ченню обов’язкового контролю. Проте, на відміну від механізмів обов’язкового 
+контролю, антецедентом PRO у таких клаузах не є експліцитний чи імпліцитний
+
+
+аргумент у МР. ПКл відноситься до всього МР, про що свідчить можливість 
+трансформації у відносне речення та у самостійну клаузу із займенником das, а 
+такому антецеденту неможливо присвоїти ознаку [+menschlich]:
+    (17) [Oder war sie “lediglich” gut, weil sie, [PROi dem subjektiven Empfinden 
+entsprechend], relativ schnell vorüberging]i? ← (17′) Oder war sie “lediglich” gut, weil 
+sie relativ schnell vorüberging, was dem subjektiven Empfinden entsprach? ← (17′′) 
+[Sie war “lediglich” gut, weil sie relativ schnell vorüberging]i. Dasi entsprach dem sub- 
+jektiven Empfinden.
+    Висновки та перспективи дослідження. Німецькі ПКл – це особливий вид 
+малих клауз, предикатним центром яких є нефінітна форма дієслова у вигляді 
+партиципа. Суб’єкт ПКл завжди фонологічно невиражений, але синтаксично ак- 
+тивний. Він, як правило, кореферентний суб’єкту головної клаузи, проте умову 
+односуб’єктності з головною предикацією може бути порушено.
+    Обов’язковий контроль PRO-суб’єкта німецьких ПКл реалізується через 
+суб’єкт МР; у досліджуваному матеріалі не зафіксовано жодного речення з ПКл 
+у ролі ад’юнкта, в яких контроль PRO-суб’єкта здійснювався б суб’єктом МР, 
+відділеним від PRO-суб’єкта ПКл об’єктом МР (подібно до речень з інфінітив- 
+ними клаузами). Обов’язковим є також механізм контролю PRO суб’єкта у клау- 
+зах з пасивними МР; у ПКл з партиципом ІІ від перехідних дієслів та контроль 
+PRO через імпліцитний аргумент МР.
+    PRO-суб’єкт німецьких ПКл може відповідати таким ознакам не- 
+обов’язкового контролю за визначенням І. Ландау: антецедент можливо 
+інтерпретувати як генеричний родовий або ж антецедентом PRO-суб’єкта ПКл 
+виступає решта речення. У такому разі перевірка на дотримання всіх критеріїв 
+необов’язкового контролю виявляється проблематичною, оскільки антецеденту 
+PRO таких клауз не (завжди) можна присвоїти ознаку [+menschlich]. Можливим 
+внеском у вирішення цієї проблеми могло б стати розширення визначення І. Лан- 
+дау за рахунок включення усіх живих істот до переліку можливих антецедентів 
+при необов’язковому контролі PRO.
+    Перспективи досліджень вбачаємо у подальшому аналізі внутрішньої архі- 
+тектури німецьких ПКл у синтаксичній ролі ад’юнкта з визначенням статусу про- 
+екцій, які очолюють партиципи.
+    Результати проведеного дослідження відкривають також перспективи для 
+вивчення синтаксичної поведінки партиципів у текстах різних стилів, міжмовних 
+зіставлень.
+
+Література
+1.	Гуйванюк Н. В. Формально-семантичні співвідношення в системі синтаксичних одиниць 
+[монографія]. Чернівці : Рута, 1999. 336 с.
+2.	ЛЭС: Лингвистический энциклопедический словарь / Гл. ред. В. Н. Ярцева. Москва : Со- 
+ветская энциклопедия, 1990. 688 с.
+3.	Подобряев А. В. Подлежащее при номинализациях в русском языке. Исследования по гла- 
+гольной деривации: Сб. статей / Отв. ред. В. А. Плунгян, С. Г. Татевосов. Москва : Языки 
+славянских культур, 2008. С. 231 – 249.
+
+
+4.	Тестелец Я. Г. Введение в общий синтаксис. Москва : Издательство РГГУ, 2001. 798 с.
+5.	Циммерлинг А. В. Нулевые лексемы в синтаксисе: догматика и типология / Acta Linguistica 
+Petropolitana. Труды института лингвистических исследований. 2008. №2. С. 226 – 244.
+6.	Циммерлинг А. В. Синтаксические нули в грамматике. Компьютерная лингвистика и ин- 
+теллектуальные технологии: По материалам ежегодной Международной конференции
+«Диалог 2009». 2009. Вып. 8 (15). Москва : РГГУ. С. 519 – 529.
+7.	Axel K., Weiß H. Pro-drop in the history of German – From Old High German to the modern 
+dialects. Null Pronouns / Ed. by M. Wratil, P. Gallmann. Berlin, Boston: De Gruyter Mouton, 
+2011. P. 21 – 52.
+8.	Bailyn J. Configurational Case Assignement in Russian Syntax. The Linguistic Review. 1995. No 
+12. P. 315 – 316.
+9.	Brandt P., Trawiński B., Wöllstein A. (Anti-)Control in German: evidence from comparative, 
+corpus- and psycholinguistic studies. Co- and subordination in German and other languages. 
+2016. No. 21. P. 77 – 98.
+10.	Brodahl K. Zu deutschen Partizipialkonstruktionen mit dem Partizip 1 als Kern. Trondheim : 
+NTNU, 2016. 145 S.
+11.	Chomsky N. Lectures on Government and Binding. Berlin : Mouton de Gruyter, 1981. 384 p.
+12.	Fuß E. Historical pathways to null subjects: Implications to the theory of pro-drop. Null Pronouns/ 
+Ed. by M. Wratil, P. Gallmann. Berlin, Boston : De Gruyter Mouton, 2011. P. 52 – 98.
+13.	Hornstein N. Movement and Control. Linguistic Inquiry. 1999. No 30. P. 69 – 96.
+14.	Kortmann B. Free Adjuncts und Absolutes in English: Problems of Control and Interpretattion. 
+London/New York: Routledge, 1991. 253 P.
+15.	Landau I. Elements of Control. Dordrecht: Springer. 2000. 215 P.
+16.	Landau I. The Explicit Syntax of Implicit Arguments. Linguistic Inquiry. 2010. No 41/3. P. 357
+– 388.
+17.	Landau I. Control in Generative Grammar: A Research Companion. Cambridge : Cambridge 
+University Press, 2013. 298 p.
+18.	Larson R. Promise and the Theory of Control/ Linguistic Inquiry. 1991. No 22. PP. 103-139.
+19.	Legendre G. French Impersonal Constructions. Natural Language and Linguistic Theory. 1990. 
+No 8. P. 81 – 128.
+20.	Ortmann A. Anti-agreement with subjects and possessors from a typological perspective: A case 
+for null pronouns or for economy? Null Pronouns/ Ed. by M. Wratil, P. Gallmann. Berlin, 
+Boston : De Gruyter Mouton, 2011. P. 223 – 264.
+21.	Philippi J. Einführung in die generative Grammatik. Göttingen : Vandenhoeck & Ruprecht, 2008. 
+361 S.
+22.	Salzmann M. Silent resumptives in Zurich German possessor relativization. Null Pronouns/ Ed. 
+by M. Wratil, P. Gallmann. Berlin, Boston : De Gruyter Mouton, 2011. P. 141 – 222.
+23.	Staudinger B. Sätzchen: Small Clauses im Deutschen. Thübingen: Niemeyer, 1997. 251 S.
+24.	Subjekt. Grammatisches Informationssystem “grammis” : Webseite. Mannheim : Institut für 
+Deutsche Sprache. Available at: https://grammis.ids-mannheim.de/terminologie/251 (accessed 
+25.05.2020).
+25.	Wratil M. Uncovered pro – On the development and identificaton of null subjects. Null Pronouns/ 
+Ed. by M. Wratil, P. Gallmann. Berlin, Boston : De Gruyter Mouton, 2011. P. 99 – 140.
+
+Список джерел ілюстративного матеріалу
+1.	Linguistik online: Eine Open-Access-Zeitschrift für Linguistik. Ergriffen aus https://www.lingu- 
+istik-online.net (Zugangsdatum 15.03.2020).
+2.	Vertacnik H.-P. Abfangjäger: Ein Fall für Peter Zoff. München: Dotbooks, 2013. 319 S.
+3.	Zeitschrift für Rezensionen: Zeitschrift für Rezensionen zur germanistischen Sprachwissenschaft. 
+Ergriffen aus https://www.degruyter.com/view/journals/zrs/zrs-overview.xml (Zugangsdatum 
+12.04.2020).
+
+
+References
+1.	Huyvanyuk, Nina. Formal'no-semantychni spivvidnoshennya v systemi syntaksychnykh odynyts' 
+(Formal-Semantic Relations in the System of Syntactic Units). Chernivtsi: Ruta, 1999. Print.
+2.	Yartseva, Viktoriya, ed. Lingvisticheskiy entsiklopedicheskiy slovar' (Linguistic Encyclopedic 
+Dictionary). Moskva: Sovetskaya entsyklopediya, 1990. Print.
+3.	Podobryaev, Aleksandr. “Podlezhaschee pri nominalizatsiyah v russkom yazyike (Subject at 
+Nominalizations in the Russian Language)”. Issledovaniya po glagol'noy derivatsii (Research on 
+Verbal Derivation) (2008): 231 – 249. Print.
+4.	Testelets Yakov. Vvedenie v obschiy sintaksis (Introduction to General Syntax). Moskva: 
+Izdatelstvo RGGU, 2001. Print.
+5.	Tsimmerling, Anton. “Nulevyie leksemyi v sintaksise: dogmatika i tipologiya (Null Lexemes in 
+Syntax: Dogmatics and Typology)”/ Acta Linguistica Petropolitana. Trudy instituta 
+lingvisticheskih issledovaniy 2 (2008): 226 – 244. Print.
+6.	Tsymmerling, Anton. “Sintaksicheskie nuli v grammatike (Syntactic Nulls in Grammar)”. 
+Ezhegodnaya Mezhdunarodnaya konferentsiya “Dialog 2009” (Annual International Conference 
+“Dialogue 2009”). Moskva: Izdatelstvo RGGU, 2009. 519 – 529. Print.
+7.	Axel, Katrin and Helmut Weiss. “Pro-drop in the history of German – From Old High German to 
+the modern dialects.” Null Pronouns. Ed. by M. Wratil, P. Gallmann. Berlin, Boston: De Gruyter 
+Mouton, 2011. 21 – 52. Print.
+8.	Bailyn, John. “Configurational Case Assignement in Russian Syntax”. The Linguistic Review 12 
+(1995): 315 – 316. Print.
+9.	Brandt, Patrick, Beata Trawiński, and Angelika Wöllstein. “(Anti-)Control in German: Evidence 
+from Comparative, Corpus- and Psycholinguistic Studies”. Co- and Cubordination in German 
+and Other Languages 21 (2016): 77 – 98. Print.
+10.	Brodahl, Kristin Klubbo. Zu deutschen Partizipialkonstruktionen mit dem Partizip 1 als Kern. 
+Trondheim: NTNU, 2016. Print.
+11.	Chomsky, Noam. Lectures on Government and Binding. Berlin: Mouton de Gruyter, 1981. Print.
+12.	Fuß, Eric. “Historical pathways to null subjects: Implications for the theory of pro-drop”. Null 
+Pronouns. Berlin, Boston: De Gruyter Mouton, 2011. 52 – 98. Print.
+13.	Hornstein, Norbert. “Movement and Control.” Linguistic Inquiry 30 (1999): 69 – 96. Print.
+14.	Kortmann, Berndt. Free Adjuncts und Absolutes in English: Problems of Control and 
+Interpretattion. London/New York: Routledge, 1991. Print.
+15.	Landau, Idan. Elements of Control. Dordrecht: Springer. 2000. Print.
+16.	Landau, Idan. “The Explicit Syntax of Implicit Arguments”. Linguistic Inquiry 41/3 (2010): 357
+– 388. Print.
+17.	Landau, Idan. Control in Generative Grammar: A Research Companion. Cambridge: Cambridge 
+University Press, 2013. Print.
+18.	Larson, Richard K. “Promise and the Theory of Control”. Linguistic Inquiry 22 (1991): 103 –
+139. Print.
+19.	Legendre, Géraldine. “French Impersonal Constructions”. Natural Language and Linguistic 
+Theory 8 (1990): 81 – 128. Print.
+20.	Ortmann, Albert. Anti-agreement with subjects and possessors from a typological perspective: A 
+case for null pronouns or for economy? Null Pronouns. Ed. by M. Wratil, P. Gallmann. Berlin, 
+Boston: De Gruyter Mouton, 2011. 223 – 264. Print.
+21.	Philippi, Jule. Einführung in die generative Grammatik. Göttingen: Vandenhoeck & Ruprecht, 
+2008. Print.
+22.	Salzmann, Martin. “Silent Resumptives in Zurich German Possessor Relativization”. Null 
+Pronouns. Ed. by M. Wratil, P. Gallmann. Berlin, Boston: De Gruyter Mouton, 2011. 141 – 222. 
+Print.
+23.	Staudinger, Bernhard. Sätzchen: Small Clauses im Deutschen. Thübingen: Niemeyer, 1997. Print.
+
+
+24.	Subjekt. Mannheim: Institut für Deutsche Sprache. Wissenschaftliche Terminologie. Grammati- 
+sches Informationssystem “grammis” Web. 25. May. 2020.
+25.	Wratil, Melani. Uncovered Pro – On the Development and Identificaton of Null Subjects. Null 
+Pronouns. Ed. by M. Wratil, P. Gallmann. Berlin, Boston: De Gruyter Mouton, 2011. 99 – 140. 
+Print.
+
+List of Sources
+1.	Linguistik online: Eine Open-Access-Zeitschrift für Linguistik. Web. 15. März 2020.
+2.	Vertacnik, Hans-Peter. Abfangjäger: Ein Fall für Peter Zoff. München: Dotbooks, 2013. Print.
+3.	Zeitschrift für Rezensionen: Zeitschrift für Rezensionen zur germanistischen Sprachwissenschaft. 
+Web. 12.Apr. 2020.
+
+     PRO-SUBJECT OF THE GERMAN PARTICIPLE CLAUSES IN THE SYNTACTIC 
+ROLE OF ADJUNCT
+Olena Borovska
+     Department of German Philology, Mykhailo Kotsiubynskyi Vinnytsia State Pedagogical Uni- 
+versity, Vinnytsia, Ukraine
+Abstract
+     Background: The sentence belongs to the central concepts of syntax and is its basic unit, 
+around which other types of syntactic categories are grouped. Researcher focus their attention mainly 
+on syntactic categories that have a material expression. However, most natural languages turn out to 
+have a number of elements that are phonologically empty (latent, eliminated, or overt) in certain 
+syntactic environment.
+     In generative linguistics, non-finite verb forms are considered to have a clause status. The verbal 
+character of these forms is explained by their ability to form their own clause similar to the finite 
+verb. The predicate center of such clauses is a non-finite form of the verb; the subject is always empty, 
+that is, phonologically unexpressed. In this respect, the study of syntactic and functional features of 
+the overt PRO-subject of а nonfinite clause is an especially significant issue within the generative 
+grammar.
+     Purpose: The purpose of the research is to outline the functional nature of the PRO-subject in 
+German participle clauses.
+     Results: In the analyzed material the obligatory control of the PRO-subject in participle clauses 
+is performed by the subject of the matrix sentence. PRO-subjects in clauses with passive matrix 
+sentences, with participles II of transitive verbs and with an implicit argument in the matrix sentence 
+as an antecedent for PRO are as well obligatory controlled.
+     Some participle clauses show evidence of non-obligatory controlled PRO-subjects: the 
+antecedent for PRO can be interpreted as generic or the antecedent for PRO can correspond to the 
+whole matrix sentence. Verification of all non-obligatory control criteria is problematic for such 
+participle clauses, as it is not always possible to assign the property [+human] to the antecedent for 
+PRO. This issue needs further study.
+     Discussion: A phonologically unexpressed PRO-subject is a quite strict limitation for participle 
+clauses in the role of adjunct. The author explains the presence of an overt subject in participle clauses 
+in the terms of the Theory of Binding and Theta Criterion. The PRO-subject in participle clauses has 
+no phonological form, but is syntactically active. The prospects of the research are in the further study 
+of the inner structure of German participle clauses.
+     Keywords: clause, participle clause, adjunct, null categories, PRO-subject, PRO control, 
+obligatory control, non-obligatory control.
+Vitae
+     Olena Borovska is Assistant of Department of German Philology at Mykhailo Kotsiubynskyi 
+Vinnytsia State Pedagogical University, PhD Student of Kyiv National Linguistic University,
+
+
+10.02.04 – Germanic Languages. Her areas of research interests include generative linguistics, func- 
+tional linguistics and text linguistics.
+Correspondence: olenabor2016@gmail.com
+  Надійшла до редакції 28 вересня 2020 року 
+Рекомендована до друку 15 жовтня 2020 року
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

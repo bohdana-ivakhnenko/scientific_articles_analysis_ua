@@ -1,0 +1,171 @@
+«Молодий вчений» • № 12 (88) • грудень, 2020 р.
+DOI: https://doi.org/10.32839/2304-5809/2020-12-88-64 УДК 81'38:821.111
+
+
+
+Романишин Н.І., Олекша К.В.
+Національний університет «Львівська політехніка»
+
+ЛІНГВАЛЬНІ ТА КОГНІТИВНІ ОСОБЛИВОСТІ МЕТАФОРИ У ПОЕЗІЇ СЕМЮЕЛА ТЕЙЛОРА КОЛРІДЖА
+Анотація. Пропонована стаття присвячена дослідженню лінгвальних та когнітивних особливостей ху- дожньої метафори у поезії Семюела Тейлора Колріджа. Актуальність та новизна обраного предмету ана- лізу полягає у тому, що метафорика англійського поета Семюела Тейлора Колріджа не була об’єктом особливого наукового інтересу, тим паче її аналіз з перспективи застосування корпусних технологій та спеціальних програм семантичного аналізу тексту. Відповідно метою цієї статті є продемонструвати по- тенціал та продуктивність застосування програми Tropes для виявлення метафоричної структури та зміс- тового наповнення поетичної концептуальної системи Семюела Тейлора Колріджа. Виявлено концеп- туальні системи, представлені вербальними елементами відповідних денотативних полів та здійснено аналіз основних метафоричних моделей концептуалізації визначених концептуальних сфер.
+Ключові слова: Семюел Тейлор Колрідж, художня метафора, метафорична модель, корпусний підхід, програма семантичного аналізу тексту Tropes.
+
+
+
+   Постановка проблеми. Постать англій- ського поета-романтика Семюела Тейло-
+ра Колріджа майже одностайно вважається од- нією з найунікальніших і найсуперечливіших. Сучасна критична рецепція поетичних надбань Колріджа наголошує на вагомому впливові твор- чості поета на розвиток англомовної літератури [7; 11]. Дослідження творів Колріджа є інтер- дисциплінарними, оскільки основна увага в них присвячена різноманітним аспектам тематики поезії автора, її філософським засадам, що охо- плюють проблематику людської екзистенції, культури, релігії, сутність понять свободи і за- лежності тощо [6; 9; 10].
+   У працях дослідників творчості Колріджа лейтмотивом звучить теза про неординарну креативну силу фантазії поета, багатозначність і складність його образів [3; 5, с. 255–267]. Однак
+© Романишин Н.І., Олекша К.В., 2020
+
+ідіостилістична специфіка творів поета охоплена недостатньо, особливо стосовно розкриття лінгво- когнітивних параметрів художньої концептуалі- зації та метафоризації як способу реконструкції індивідуальної метафоричної картини світу [4], що відбиває регулярність і продуктивність пев- них метафоричних моделей, закладених у по- няттєвій системі людського розуму, які експлі- куються в мовно-естетичних формах художнього/ поетичного тексту.
+   Аналіз останніх досліджень та публікацій. У сучасній стилістиці та когнітивній поетиці теза про те, що метафори у художніх текстах письмен- ника або поета проявляють специфіку концептос- фери та творчого методу автора вже стали аксіо- матичними [1; 2]. У літературно-художньому творі присутні як універсальні метафори, що відобра- жають загальнолюдські знання про навколишній
+
+світ, так і уявлення, які властиві лише певному ав- тору. Ступінь взаємозалежності універсальних і ін- дивідуально-авторських знань, представлених ме- тафорично, в художній картині світу тексту може бути різна, що відображено у відборі лексичних засобів, їх вмотивованості з комунікативної точки зору. Авторська метафорична система є синтезом компонентів загальнонаціонального  образу  світу і індивідуальних, часом парадоксальних, уявлень автора, специфіки його художньої концептуаліза- ції, що містить безліч особистісних смислів, які до- зволяють йому вийти за межі наочного і чуттєвого досвіду. Реконструкція художньо-поетичної кар- тини можлива на основі авторської метафоричної системи, описавши яку, робимо висновок про від- битий у  свідомості  фрагмент  буття,  осмислений в естетичних категоріях, заданих відповідним жанром словесного мистецтва.
+   У прагненні максимально охопити метафо- ричні контексти та досягти об’єктивності аналізу науковці розробляють дієвий інструментарій се- мантичного аналізу авторських текстів. Активне та продуктивне залучення корпусних технологій до аналізу авторської метафоричної сфери є яскра- вим свідченням процесу інтеграції семантико- когнітивних та кількісних методів опрацювання різножанрових текстів [8], зокрема художніх.
+   Метафорика англійського поета Семюела Тейлора Колріджа не була об’єктом особливого наукового інтересу, тим паче її аналіз з перспек- тиви застосування корпусних технологій та спе- ціальних програм семантичного аналізу тексту.
+   Відповідно, метою цієї статті є продемонстру- вати потенціал та продуктивність застосування програми Tropes для виявлення метафоричної структури та змістового наповнення поетичної кон- цептуальної системи Семюела Тейлора Колріджа.
+
+А також розкрити лінгвальні та когнітивні механіз- ми метафоризації у поетичному дискурсі автора.
+   Виклад основного матеріалу досліджен- ня. Застосувавши вище вказану програму для встановлення авторських метафоричних моде- лей і їхнього змістового наповнення в ракурсі когнітивно-семантичного аналізу, ми здійснили наступні етапи: 1) на певному корпусі текстів шляхом суцільної вибірки виявили метафоричні контексти та з’ясували, реалізацією яких концеп- тів вони є; 2) визначили метафоричні реалізації даного концепту; 3) на основі аналізу виявлених метафоричних концептів установили їхні лекси- ко-граматичні та стилістичні особливості в меж- ах досліджуваного корпусу текстів; 4) здійснили опис домінантних метафоричних моделей.
+   У процесі семантико-когнітивного аналізу художньої метафорики поезії Семюела Тейло- ра Колріджа із застосуванням програми Tropes було виявлено концептуальні системи, представ- лені вербальними елементами відповідних дено- тативних полів (референтних полів), серед яких найчастотнішими виявились сфера людської психо-емоційної діяльності, людська тілесність та навколишнє середовище/природа. Дані, отри- мані в результаті застосування програми, дозво- ляють виявити лексичну наповненість кожного з визначених референтних полів, встановити частотність та дистрибуцію лексичних елемен- тів, які вербалізують відповідну референтну об- ласть, проаналізувати контекстне оточення виді- лених вербальних елементів.
+   Аналіз   дистрибуції   вербальних   елементів у межах мікроконтекстів дозволяє встановити основні способи концептуалізації поетичної дій- сності, характерні для автора: кохання – тіло – душа – жінка; музика – тіло – розум – природа –
+
+
+
+Рис. 1. Частотність та дистрибуція мовних засобів метафоризації поетичних концептів (денотативне поле емоції»). Джерело: розроблено авторами
+
+
+
+Рис. 2. Частотність та дистрибуція мовних засобів метафоризації поетичних концептів (денотативна сфера «природа»). Джерело: розроблено авторами
+
+Рис. 3. Частотність та дистрибуція мовних засобів метафоризації поетичних концептів (денотативна сфера «тіло»). Джерело: розроблено авторами
+
+
+сенсорні відчуття; життя – розум – природа тощо. В результаті аналізу було також встановлено від- повідні підкатегорії у системі виділених референт- них полів, наприклад «Людина: жінка: дитина»,
+«Сім’я: чоловік: жінка: діти» та проаналізовано характер  дистрибуції вербалізаторів відповідних
+
+референтно-концептуальних полів у тексті. За ре- зультатами такого алгоритму аналізу було вста- новлено, що найбільш рівномірно представле- ними в корпусі поетичних текстів С.Т. Колріджа є мовні елементи референтних  полів  «людина»,
+«почуття», «природа, середовище», що засвідчує
+
+
+
+Рис. 4. Характер розподілу та співвідношення вербалізаторів референтно-концептуальних полів (Людина). Джерело: розроблено авторами
+
+Рис. 5. Характер розподілу та співвідношення вербалізаторів референтно-концептуальних полів (Сім’я). Джерело: розроблено авторами
+
+
+високу щільність репрезентації відповідних кон- цептів у поетичній картині світу автора.
+   Однак, дослідження вказує,  що  застосуван-  ня програми є обмеженим і часто не висвітлює об’єктивних процесів та механізмів аналогово-асо- ціативних кореляцій метафоричних концептів.
+
+Тому аналіз за допомогою програмних засобів був доповнений методом семантичного групування вербалізаторів відповідних референтних полів. Ви- значені референтні поля були згруповані у наступ- ні концептуальні сфери, структуру яких можна схематично представити наступним чином (рис. 7).
+
+
+
+
+
+Рис. 6. Характер, частота, розподіл та співвідношення вербалізаторів референтно-концептуальних полів (Людина, почуття, природа). Джерело: розроблено авторами
+
+Рис. 7. Художньо-поетичні концептосфери поетичного дискурсу Семюела Тейлора Колріджа: структура. Джерело: розроблено авторами
+
+   Наступним кроком аналізу було встановлення специфіки метафоризації визначених концептів у межах загальних концептуальних полів. Емпі- ричний матеріал в подальшому був розподілений на підкорпуси, у яких узагальнено контексти ме- тафоризації виділених концептуальних мікропо- лів у межах загальних концептуальних областей. Вибірку метафор було проаналізовано за семан- тичними та граматичними параметрами.
+   Частотний аналіз лексико-граматичних пара- метрів ідіостилю Семюела Тейлора Колріджа до-
+
+зволив встановити відносний розподіл основних частин мови, що беруть участь у процесах худож- ньо-поетичної метафоризації. Найчастотнішими лексико-семантичними класами слів виявилися дієслова та прикметники, відносно рівномірно розподілені у корпусі текстів (рис. 8–9).
+   Дієсловами, що зазнають метафоризації, є лек- семи, які належать до лексико-семантичних груп сенсорних відчуттів, когнітивної діяльності, психо- емоційної діяльності, стану.  Виявлено  контексти з дієслівною метафорою-персоніфікаією на основі
+
+
+
+Рис. 8. Частотність дієслівних метафор у поезії Семюела Тейлора Колріджа. Джерело: розроблено авторами
+
+Рис. 9. Частотність прикметників у метафорах поетичного дискурсу Семюела Тейлора Колріджа. Джерело: розроблено авторами
+
+лексем: see, hear, tell, speak, talk, feel, think, love, behold, weep, depart, sing, listen, weave, lift, rest.
+   Найчастотнішими прикметниками, залучени- ми до процесу метафоризації, виявлено лексеми, що належать до лексико-семантичних груп сен- сорного сприйняття, аксіологічного відображення предмету поетизації, психоемоційного стану: sweet, soft, bright, gentle, dark, gentle, dim, blue, light, deep, happy, silver, pure, pensive, clear, warm, dark, golden, fresh, wild, crystal, tender, sad, sensitive, rich, eternal, deep, mighty, glorious, dewy, silent, fragrant, delitious, silken, sleepless, fair, feeble, starry, smooth, wavy, ethereal, dead, etc. Особливо високою є частот- ність прикметників-кольороназв або їх асоціатів, які мають переважно позитивну оцінно-експресив- ну конотованість: golden, silver, sunny, green, etc.
+   Висока частотність словосполук Adj. + Noun у структурі метафоричних контекстів засвідчує про- дуктивність метафоричного епітету у поетичному дискурсі Колріджа. З 337 проаналізованих мета- форичних контекстів практично усі містять мета- форичний епітет у своїй структурі. Метафорично означуватись можуть як абстрактні, так і конкрет- ні поняття, що також засвідчує високу частотність семантико-когнітивної операції мапування тих ознак концептів царини джерела на концепти ца- рини мети (за Лакофом та Тернером), які відобра- жають антропоцентричний характер сприйняття довкілля та художньо-поетичної його репрезента- ції, результатом якого є одухотворення предмету зображення (переважно елементів природи, когні- ції, уяви, фантазії, емоцій). Для поетики Колріджа характерним є явище синестезії як єдності візуаль- ного, акустичного, сенсорного, чуттєвого та раціо- нального сприйняття довкілля; використання фра- зеологічних/лексикалізованих метафор (переваж- но на основі прикметників sweet, soft, deep, green), що фіксовані у народнопоетичній картині світу як сталі репрезентанти явищ довкілля, людського бут-
+
+тя та діяльності, що наповнюються новим змістом: sweet abode, sweet flower, sweet dream, soft voice, soft glow, soft soul – Sweet songsters wable in a shade their wild-long melody; Ye pine-grows, with your soft and soul-like sounds. Прикметниками, які виконують у тексті функцію і означення, і епітету, найчастіше виступають якісні прикметники, що позначають світло, колір, температуру, спосіб та стан, сенсорні відчуття: clear, dark golden, warm, cold.
+   За допомогою програми Tropes також було встановлено номенклатуру, частотність та дис- трибуцію іменників, залучених до творення ху- дожньо-поетичної метафори (рис. 10–12).
+   Відповідно до частотності іменників, залучених до творення метафори, було виділено концепту- альні сфери «Людина» та «Світ, природа» як такі, що представлені найбільшою кількістю метафор. Метафори, у яких ключовим елементом є іменник, було проаналізовано на предмет їх функціональ- них особливостей у структурі поетичних мікрокон- текстів та лексико-семантичного наповнення. Так, іменникова метафора, залучена до художньо-по- етичної концептуалізації сфери Людина – концеп- тів людина (загалом), психоемоційна та когнітив- на діяльність – найчастіше містить ключові слова: love, heart, soul, spirit, joy, dream, voice, eye, breath, mind. Іменникова метафора, залучена до худож- ньо-поетичної концептуалізації концептуальної сфери Світ – концепту природа, природні стихії – найчастіше містить ключові слова earth, sun, rock, stream, air, breeze, tree, sea, star, grove, sky. Найчас- тотнішим лексико-семантичним типом поетичного образу, створеного на основі цих двох груп вказа- них ключових слів, є  метафора-персоніфікація (як одухотворення об’єктів природи та абстрак- тних понять, так і одухотворення абстрактних понять, які означають оцінку, емоцію, стан, фе- номен, дію, поведінку). Тим  самим  здійснюєть-  ся художньо-поетичне відтворення основного
+
+
+Рис. 10. Частотність лексеми love. Джерело: розроблено авторами.
+
+
+
+Рис. 11. Частотність лексеми eye. Джерело: розроблено авторами.
+
+
+
+Рис. 12. Частотність лексеми harmony. Джерело: розроблено авторами.
+
+
+
+художньо-естетичного принципу романтизму – антропоцентричного сприйняття довкілля.
+   Наступним етапом дослідження був аналіз основних метафоричних моделей концептуаліза- ції визначених концептуальних сфер з метою ви- значення характеру та особливостей поетичної картини світу Семюела Тейлора Колріджа.
+   Концептуальна сфера ЛЮДИНА / HUMAN. У межах цієї концептуальної сфери було вибрано 99 мікроконтекстів, що містять метафору. Найчас-
+
+тотнішими художньо-поетичними концептами, які метафоризовані, є концепт «Людина (загалом)», актуалізований метафоричними моделями:
+   Людина – рослина / дерево як часткова ре- алізація метафоричної моделі «життя є розлоге дерево»: like a tree with leaves of feeble stem;
+   Людина – дух / легка (нестабільна) суб- станція / відлуння, тінь як часткова реаліза- ція концептуальної метафори «життя є вмістили- ще (субстанції / енергії)» та «життя є мелодія»;
+
+
+
+   Людина – мандрівник як індивідуально- авторська реалізація концептуальної метафори та символічної асоціації «життя є шлях»: Gentle lunatic! // Worships the spirit of  unconscious  life. In tree or wild-flower. – Man  whose  heart  was pierced / With the remembrance of a grievous wrong, / Or slow distemper, or neglected love / (And so, poor wretch! filled all things  with himself, / And made all gentle sounds tell back the tale / Of his own sorrow).
+   Особлива увага у поетиці Колріджа приділе- на психоемоційним, когнітивним, етичним ас- пектам метафоризації концептосфери Людина. Так, людські емоції метафоризовано у моделях:
+   Позитивна емоція – світло, сонце, про- мінь, вогонь: What time the morning sun of hope arose, / And all was joy; save when another's woes / A transient gloom upon my soul imprest, soar aloft to be the spangled skies / And gaze upon her with a thousand eyes! / As when the savage, who his drowsy frame / Had basked beneath the sun's unclouded flame. His eyes dance rapture, and his bosom glows. ALL thoughts, all passions, all delights, / Whatever stirs this mortal frame, / All are but ministers of Love, / And feed his sacred flame.
+   Негативні емоції – хмара, тінь, речовина: soft neighbourhood of filmy clouds, / The stains and shadings of forgotten tears… save when another's woes / A transient gloom upon my soul imprest.
+   Метафоризація концептів «душа» та «серце» відбувається за метафоричною моделлю «вміс- тилище», «дія», «рух» (переважно вертикальний, вгору), «звучання», «рідина / рідка субстанція». Найчастотнішим структурно-семантичним типом метафор у таких випадках є метафтонімії та мета- фори-персоніфкації: Shall thrill th' attuned heart- string with delight. …my soul / Averted shudders at the poisoned bowl. ….groans my sickening heart. … feeble heart / Shall flow away like a dissolving thing. we may lift the Soul, and contemplate / With lively joy the joys we cannot share.
+   Чуттєвість, кохання, краса – тепло, фі- зична субстанція з різноманітними пара- метрами (сили дії, впливу, звуку) світло / промінь: your heavenly beauty gives / This heart with passion soft to glow: / Within your soul a voice there lives! / It bids you hear the tale of woe… In beauty's light you glide along: / Your eye is like the star of eve, / And sweet your voice, as seraph's song. У поетиці Колріджа емоція чи стан ліричного героя переданий образними засобами максималь- ного абстрагуювання та персоніфікації, виступа- ючи дієвою силою, наділеною енергією та здатніс- тю діяти не залежно від волі суб’єкта: Visions of Childhood! oft have ye beguiled / Lone Manhood's cares… Ill-fated youth! / Go, day by day, and waste thy manly prime / In mad love-yearning by the vacant brook, / Till sickly thoughts bewitch thine eyes, and thou / Behold'st her shadow still abiding
+there. Age / Had dimmed mine eyes to blindness!
+   Концептуальна сфера СВІТ / WORLD. У межах цієї концептуальної сфери було вибрано
+135 мікроконтексти, що містять метафору. Ху- дожньо-поетична репрезентація світу загалом як середовища перебування і життєдіяльності людини отримує позитивну конотацію у найчас- тотнішій метафоричній моделі «світ – земний рай», «світ – вмістилище божественного /
+
+любові і краси», «природа – лікар / учи- тель»: All adoration of the God in nature, / All lovely and all honourable things, / Whatever makes this mortal spirit feel / The joy and greatness of its future being? Nature … may well employ / Each faculty of sense, and keep the heart / Awake to Love and Beauty. All golden with the never-bloomless furze, / Which now blooms most profusely; but the dell, / Bathed by the mist, is fresh and delicate / As vernal cornfield, or the unripe flax, / When, through its half-transparent stalks, at eve, / The level sunshine glimmers with green light. / Oh! 'tis a quiet spirit-healing nook!
+   Також, найчастотнішими художньо-поетич- ними концептами, які метафоризовані, є кон- цепти, що відображають природні феномени, елементи природи та природні стихії, вербалі- зовані низкою різноструктурних метафор, серед яких чільне місце займає метафора-персоніфіка- ція: What time the pale moon sheds a softer day, / Mellowing the woods beneath its pensive beam / For 'mid the quiv'ring light 'tis ours to play, / Aye dancing to the cadence of the stream. Or where, his silver waters smoothed to rest,The tall tree's shadow sleeps upon his breast. Where o'er the jutting rocks soft mosses creep // Or coloured lichens with slow oozing weep; / Where cypress and the darker yew start wild; / And 'mid the summer torrent's gentle dash / Dance brightened the red clusters of the ash. Основним семантико-когнітивним форман- том метафор «елемент природи – жива істо- та / людина» є ознаки руху, переміщення, ког- нітивних та комунікативних параметрів, фізіо- логічних ознак, здатності до творчої діяльності: The frost performs its secret ministry, / Unhelped by any wind; the summer clothe the general earth / With greenness while the nigh thatch / Smokes in the sun-thaw; whether the eave-drops fall, / Heard only in the trances of the blast, / Or if the secret ministry of frost / Shall hang them up in silent icicles, / Quietly shining to the quiet Moon. Ак- тивно до творення метафор-персоніфікацій за- лучено соматичний та акустичний коди (голос – пісня, мелодія; тіло, природний об’єкт, явище – музичний інструмент): … the breezes of the simple air / Possess the power and spirit of melody… These wilds, these caverns roaming o'er / Round which the screaming sea-gulls soar, / With wild unequal steps he passed along, / Oft pouring on the winds a broken song… (Breeze) Ne'er played the wanton–never half disclosed / The maiden's snowy bosom, scattering thence / Eye-poisons for some love-distempered youth, / Who ne'er henceforth may see an aspen-grove / Shiver in sunshine…. these wakeful birds / Have all burst forth in choral minstrelsy, / As if some sudden gale had swept at
+once / A hundred airy harps!
+   Складність когнітивних процесів, що лежать в основі метафоричного змішання концептуальних доменів, відображена у високій частотності ком- позиційної метафори, яка охоплює багатогранні аспекти зображуваного явища, коли метафора утворена на основі переплетення та взаємодії різ- номанітних семантико-когнітивних формантів – звукові, акустичні параметри концептів царини джерела, колористичні, акціональні. Природні стихії, феномени, елементи не просто персоніфі- куються, одухотворяються, а, максимально аб-
+
+страгуючись, виступають дієвим суб’єктом, одно- часно поєднують такі ознаки як рух, емоційність, інтелект, комунікативна здатність, зміни стану, емоційності, що створює високу продуктивність антропоморфної та зооморфної метафори.
+   Подібну антропоморфізацію об’єктів поетич- ного зображення спостерігаємо у метафоризації концептів, що належать концептуальним сферам
+«життя», «смерть», «абстрактні поняття» «суспіль- ство» та «бог». У метафоризації концептів «життя»,
+«доля», «смерть» основним типом метафоричного переносу є життя – вода, життя – хмара; доля – тягар, доля – чаша, доля – шторм, гроза (So tost by storms  along  life's  wild'ring way / Mine eye reverted views that cloudless day, / When by my native brook I wont to rove. Such were the struggles of that gloomy hour, / When care, of withered brow, / Prepared the poison's power: / Already to thy lips was raised the bowl, / When near thee stood affection meek. Roll the black tide of death
+
+thro' every freezing vein) та традиційні архетипо- ві акціональні метафоричні моделі «випиван- ня рідини як прийняття невідворотності долі / смерті»: Roll the black tide of death thro' every freezing vein… / …. the poisoned bowl.
+   Висновки. У результаті проведеного аналізу приходимо до висновку про визначальну роль ме- тафори у поетичній картині світу Семюела Тейлора Колріджа. Продуктивність базових метафоричних моделей, що відображають індивідуально-авторське переосмислення традиційної, архетипної образнос- ті, домінування антропоцентричного метафорично- го світосприйняття, у переважанні метафори-персо- ніфікації, ускладненості структури метафори.
+   Кількісні дані, отримані в ході застосування відповідних інструментів комп’ютерного аналізу укладеного авторського поетичного корпусу, до- зволяють охопити максимальний об’єм контек- стів метафоризації та сприяють досягненню мак- симальної об’єктивності дослідження.
+
+Список літератури:
+1. Бєлєхова Л.І. Словесний поетичний образ в історико-типологічній перспективі: лінгвокогнітивний аспект (на матеріалі американської поезії). Херсон : Айлант, 2002. 367 с.
+2. Бутакова Л.О. Авторское сознание в поэзии и прозе: когнитивное моделирование. Барнаул, 2001. 283 с.
+3. Дьяконова Н.Я., Яковлева Г.В. Философско-эстетические воззрения С.Т. Колріджа. Колрідж С.Т. Избранные труды. Москва, 1987. С. 8–37.
+4. Кравцова Ю.В. Метафорическое моделирование мира. Поэзия и проза. Киев : Изд-во НПУ им. М.П. Драго- манова, 2011. 360 с.
+5. Наливайко Д.С., Шахова К.О. Зарубіжна література ХІХ сторіччя. Доба романтизму : підручник. Тернопіль : Навч. книга – Богдан, 2001. 416 c.
+6. Abbasi Pyeaam. The Rime of the Ancient Mariner: An Ecocritical Approach. The Criterion. An International Journal in English. 2014. April. Vol. 5. Іssue II.
+7. Clayton J.W. Coleridge and the Logos: The Trinitarian Unity of Consciousness and Culture. Journal of Religion. 1990. Vol. 70.2. P. 213–40.
+8. Corpus-based approaches to metaphor and metonymy [Edited by  A.  Stefanowitsch,  St.Th.  Gries].  Berlin, New York : Mouton de Gruyter, 2006. 319 p.
+9. Esterhammer A. The Romanic Performative: Language and Action in British and German Romanticism. Stanford Univ. Press, 2001. 377 р.
+10. Johnston K.R. A Modern Coleridge. Self-consciousness, social guilt, and romantic poetry: Coleridge's Ancient Mariner and Wordsworth's Old Pedlar. Beyond Representation: Philosophy and Poetic Imagination / Richard Thomas Eldridge (ed.). Cambridge Univ. Press, 1996. Р. 216–248.
+11. Milburn M. Coleridge’s Definition of Magic and Tolkien’s Definition(s) of Faery. Tolkien Studies. 2010. Vol. 7.
+P. 55–66. Available at: http://www.researchgate.net/publication/236744864_Coleridge's_Definition_of_Imagination_ and_Tolkien's_Definition(s)_of_Faery (accessed 27.11.2020).
+References:
+1. Bieliekhova L.I. (2002) Slovesnyi poetychnyi obraz v istoryko-typolohichnii perspektyvi linhvokohnityvnyi aspekt (na materiali amerykanskoi poezii) [Verbal poetic image in the historical typological oerspective (based on the modern Americal poetry]. Kherson: Ailant. (in Ukrainian)
+2. Butakova L.O. (2001) Avtorskoe soznanie v poezii i proze: kognitivnoe modelirovanie [Author’s consciousness in the poetry and proze]. Barnaul. (in Russian)
+3. D'yakonova N.Ya., Yakovleva G.V. (1987) Filosofsko-esteticheskie vozzreniya S.T. Kolridzha [Phylosophical and aesthetic conceptions of Coleridge]. Kolridzh S.T. Izbrannye trudy [Selected works]. Moscow, pp. 8–37.
+4. Kravcova Yu.V. (2011) Metaforicheskoe modelirovanie mira. Poeziya i proza [Metaphoric modeling of the worls. Poetry and Proze]. Kiev: Izd-vo NPU im. M.P. Dragomanova. (in Russian)
+5. Nalyvaiko D.S., Shakhova K.O. (2001) Zarubizhna Literatura XIX Storichchia. Doba Romantyzmu [Foreign Literature. The time of Romanticism]. Ternopil: Navch. knyha – Bohdan. (in Ukrainian)
+6. Abbasi Pyeaam (2014) The Rime of the Ancient Mariner: An Ecocritical Approach. The Criterion. An International Journal in English. April, vol. 5, issue II.
+7. Clayton J.W. (1990) Coleridge and the Logos: The Trinitarian Unity of Consciousness and Culture. Journal of Religion, vol. 70.2, pp. 213–240.
+8. А. Stefanowitsch, St.Th. Gries (ed.) (2006) Corpus-based approaches  to  metaphor  and  metonymy.  Berlin, New York: Mouton de Gruyter.
+9. Esterhammer A. (2001) The Romanic Performative: Language and Action in British and German Romanticism. Stanford Univ. Press.
+10. Johnston K.R. (1996) A Modern Coleridge. Self-consciousness, social guilt, and romantic poetry: Coleridge's Ancient Mariner and Wordsworth's Old Pedlar. Beyond Representation: Philosophy and Poetic Imagination / Richard Thomas Eldridge (ed.). Cambridge Univ. Press, рр. 216–248.
+11. Milburn M. (2010) Coleridge’s Definition of Magic and Tolkien’s Definition(s) of Faery. Tolkien Studies, vol. 7, pp. 55–66. Available at: http://www.researchgate.net/publication/236744864_Coleridge's_Definition_of_Imagination_ and_Tolkien's_Definition(s)_of_Faery (accessed 27.11.2020).
+
+
+
+
+
+Romanyshyn Nataliia, Oleksha Kateryna
+Lviv Polytechnic National University
+LINGUAL AND COGNITIVE FEATURES OF METAPHOR IN THE POETRY OF SAMUEL TAYLOR COLLAGE
+Summary. The proposed article is devoted to the study of linguistic and cognitive features of artistic metaphor in the poetry of Samuel Taylor Coleridge. The relevance and novelty of the chosen subject of analysis is that the metaphor of the English poet Samuel Taylor Coleridge was not the object of special scientific interest, es- pecially its analysis from the perspective of corpus technology and special programs of text semantics analysis. Accordingly, the aim of this article is to demonstrate the potential and productivity of using the Tropes program to identify the metaphorical structure and content of the poetic conceptual system of Samuel Taylor Coleridge. Using the Tropes program, conceptual systems represented by verbal elements of the corresponding denota- tive fields were identified; an analysis of the distribution of verbal elements within the selected metaphorical micro contexts was carried out, which allowed to establish the main ways of conceptualizing the poetic reality, characteristic of the author; the dominant conceptual spheres of the author's poetic discourse were determined; the frequency of key lexical units involved in the creation of metaphors was studied; the analysis of the basic metaphorical models of conceptualization of the certain conceptual spheres was performed. Quantitative data obtained during the application of appropriate tools of computer analysis of the compiled author's poetic cor- pus, allowed to cover the maximum volume of contexts of metaphorization and contribute to the achievement of maximum objectivity of research. As a result of the analysis we come to the conclusion about the decisive role of metaphor in the poetic picture of the world of Samuel Taylor Coleridge. Productivity of basic metaphor- ical models that reflect the individual-author's rethinking of traditional, archetypal imagery, the dominance of anthropocentric metaphorical worldview, the predominance of metaphor-personification, the complexity of the structure of metaphor. Quantitative data obtained during the application of appropriate tools of computer analysis of the concluded author's poetic corpus, allowed us to cover the maximum volume of contexts of meta- phorization and contributed to the achievement of maximum objectivity of research.
+Keywords: Samuel Taylor Coleridge, artistic metaphor, metaphorical model, corpus approach, text semantics analysis program Tropes.

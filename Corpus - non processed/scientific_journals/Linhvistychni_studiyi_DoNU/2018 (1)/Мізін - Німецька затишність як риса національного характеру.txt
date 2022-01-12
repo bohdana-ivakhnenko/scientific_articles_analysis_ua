@@ -1,0 +1,180 @@
+﻿Лінгвістичні студії.
+2018
+
+Костянтин Мізін
+DOI 10.31558/1815-3070.2018.36.9
+УДК 811.112’373.3:392.71
+
+“НІМЕЦЬКА ЗАТИШНІСТЬ” ЯК РИСА НАЦІОНАЛЬНОГО ХАРАКТЕРУ: ЗІСТАВНО-ЛІНГВОКУЛЬТУРОЛОГІЧНИЙ АНАЛІЗ
+
+      Статтю присвячено встановленню лінгвоспецифіки імені німецького лінгвокультурного концепту GEMÜTLICHKEIT, який ще досі залишається поза увагою лінгвокультурологів. Аналіз об’єктивації цього концепту на основі зразків газетного дискурсу підтверджує певну специфічність, навіть етноунікальність, цього концепту, оскільки останній являє собою цілий фрагмент емоційного світу представників німецького лінгвосоціуму, частину їхньої концептосфери. Цей концепт виявляє численні смислові відтінки, які утворюють неповторну тільки для німецької лінгвокультури конфігурацію, що є причиною неперекладності його імені.
+      Ключові слова: зіставна лінгвокультурологія, лінгвокультурний концепт, лінгвоспецифічність, мовний корпус, затишність.
+
+      Постановка проблеми. У попередньому номері “Лінгвістичних студій” було запропоновано апробацію методики для визначення лінгвоспецифіки імен лінгвокультурних концептів, яка ґрунтується на перекладацьких процедурах (Mizin, “Nimets’kyy etnounikal’nyy kontsept KUMMERSPECK ta yoho smyslovi korelyaty”). Ця методика є однією з низки методик, які покликані слугувати для підсилення методологічного інструментарію зіставної лінгвокультурології, особливо концептного аналізу, який піддається гострій критиці з боку позитивістів (див., детальніше: Mizin, “Lіngvokul’turnij Koncept ″Kapcі″”). Останні стверджують, що на основі мови не можна відтворити всю «мозаїку» національного характеру певного народу (див., напр.: Pavlova). Я ж переконаний, що саме мова може надати вичерпну інформацію щодо культурної своєрідності мовного етносу та особливостей формування його концептосфери. І зосередитися тут потрібно передусім на етноунікальних vs. культуроспецифічних концептах, об’єктивація яких є не лише невичерпним джерелом інформації про етно- та соціокультурну організацію етносу, але й про зміни у його ціннісних настановах і пріоритетах, які відбуваються нині внаслідок потужних глобалізаційних процесів у світі та Європі зокрема.
+      При цьому етноунікальність vs. культурна специфічність концептів може бути авто- або гетеростереотипно викривленою, що спричинює пошук науковцями специфіки там, де її немає. Відповідно, етноунікальність vs. культурна специфічність будь-якого концепту має бути доведена. Наголошу, що поняття “унікальність” та “специфічність”, як і “універсальність”, є дещо умовними, оскільки визначити ці параметри повною мірою можна лише в тому випадку, коли існувала б можливість для аналізу об’єктивації того чи іншого концепту в усіх без винятку лінгвокультурах світу. А це, як відомо, практично неможливо. Тому науково виправдано визначати параметри “унікальність” vs. “специфічність” лише для певного культурного ареалу, наприклад, для європейського лінгвокультурного простору.
+      Мета статті. З огляду на викладене вище метою пропонованої статті є встановлення лінгвоспецифіки імені німецького лінгвокультурного концепту GEMÜTLICHKEIT, який ще досі залишається поза увагою лінгвокультурологів. Для аналізу об’єктивації цього концепту залучається “живий” дискурс – газетний підкорпус мовного корпусу DWDS (вибірка найактуальніша – лише за останні два роки). Визначення етно- й лінгвокультурних смислів аналізованого концепту здійснюється на тлі кроскультурних критеріїв, які слугують для верифікації та уточнення результатів дослідження.
+      Виклад основного матеріалу. На специфічність концепту GEMÜTLICHKEIT звернули увагу свого часу самі ж німецькі дослідники. Так, культуролог Б. Шмідт-Лаубер присвятила німецькому феномену “deutsche Gemütlichkeit” окрему розвідку, де виявила розмитість семантики іменника Gemütlichkeit через нашарування багатьох значеннєвих відтінків, що ускладнює однозначне визначення поняття “Gemütlichkeit” та розмежування останнього із суміжними поняттями (Schmidt-Lauber 11, 56). А відомий німецький фразеолог і фразеограф К. Крюгер-Лоренцен стверджує, що в жодній іноземній мові немає слова, яке адекватно передало б смислові відтінки лексеми gemütlich. Аналоги в англійській (comfortable, snug, cosy) або французькій (comfortable, agréable, il fait bon ici, oú l’on se sent á l’aise) мовах не передають повною мірою його семантики (Krüger- Lorenzen 685). З огляду на це дослідник так коментує паремію Es geht nichts über die Gemütlichkeit!: Wenn ein Ausländer diese Redensart hört, ist es ihm fast unmöglich, sich das vorzustellen, was wir Deutschen darunter verstehen (досл.: Коли іноземець чує цей вираз, йому майже неможливо уявити, що під цим розуміють німці).
+      Як бачимо, остання думка стосується лише англійської та французької мов, тому дуже претензійним є твердження, що такого слова та поняття, яке за ним криється, немає в жодній мові. Тим більше, що англійська мова виділяється серед германських мов найбільшим впливом на неї саме французької мови (прикметно, що поняття “Gemüt” (“вдача, характер, душа”) та похідне від нього “Gemütlichkeit” з кінця XVIII ст. набуло статусу риси німецького національного характеру, використовуючись для протиставлення німців з їхніми “споконвічними ворогами” – французами, які сприймалися як фривольні та поверхові (Schmidt-Lauber 144)).
+© Мізін К.І., 2018
+
+Але чи буде це твердження істинним і для інших германських мов або для таких віддаленоспоріднених, як українська?
+      Передусім визначимо значення іменника Gemütlichkeit. Останній, попри свою частотність у мовних корпусах, зафіксований не в усіх відомих німецьких тлумачних словниках. У такому випадку слід звернутися до прикметника gemütlich: “1) behaglich, anheimelnd; 2) zwanglos, heiter, familiär; 3) umgänglich, leutselig, ungezwungen, freundschaftlich, herzlich und ein wenig bieder” (DKW 391) (досл.: “1) затишний, комфортний, рідний (vs. близький); 2) невимушений, радісний, інтимний; 3) товариський (vs. незамкнений), приязний, дружній, сердечний і трішки простодушний”). Потрібно також розкрити етимологічні мотиви, на яких ґрунтуються первинні смисли концепту GEMÜTLICHKEIT: gemütlich утворене від пізнього середньоверхньонімецького gemüetlich, у якому злилися два значення – середньоверхньонімецьке gemüete у значенні “те, що займає (порушує) серце, душу” та похідне слово від давньоверхньонімецького gimuati “спільного способу осмислення світу, приємний, милий” (DH 265).
+      Як бачимо, прикметник gemütlich, відповідно й іменник Gemütlichkeit, охоплює широкий діапазон емоцій, емоційних станів і рис характеру людини. Кожне з цих значень можна без особливих зусиль перекласти українською мовою, проте якоїсь однієї лексеми, яка охоплювала б подібний широкий спектр емоційного світу людини, в українців немає, оскільки український іменник затишність передає лише невелику частину цих значень: “1) захищеність від вітру, течії і т. ін.; 2) спокій, неінтенсивність вияву чого-н.; безтурботність;
+3) зручність, упорядкованість, приємність перебування в чому-н.; обстановка зручності, приємності; 4) рідко. Малопомітний, прихований” (SUM 3: 350). Подібні значення має і український іменник затишок: “1) тихе місце, захищене від вітру, течії і т. ін.; 2) малопомітне, приховане місце; схованка; 3) відсутність звуків, шумів, руху, метушні; тиша; 4) наявні де-н. спокій, порядок, зручність; 5) перен. Про стан душевного спокою, тихої втіхи; 6) рідко. Те саме, що затишшя” (SUM 3: 351). Прикметно, що в іменнику затишок окремо зафіксовано семантичний відтінок, який передає стан душевного спокою або тихої втіхи (родинний (сімейний) затишок, душевний затишок і под.). Утім, навіть наявність цього відтінку не дає підстав стверджувати, що Gemütlichkeit і затишок є еквівалентами. Тому далі слушно передавати лексему Gemütlichkeit українською мовою словосполученням “німецька затишність” (саме в лапках, що підкреслює оригінальність цього поняття).
+      Об’єктивація концепту GEMÜTLICHKEIT дала змогу виявити ще більше специфічних смислів, які взагалі унеможливлюють встановлення хоч якогось смислового корелята в українській лінгвокультурі. Зрозуміло, що йдеться про українські концепти-кореляти, представлені однослівним іменем.
+Отже, концепт GEMÜTLICHKEIT містить смисли:
+1) комфорту, напр.:
+Das ist ein heller, schmaler Raum, der mit Sofas und Lounge-Liegen urbane Gemütlichkeit ausstrahlt;
+2) душевного комфорту, напр.:
+Als ich das gläserne Dampfbad im Wellness-Bereich dann doch finde, bin ich erleichtert über die Gemütlichkeit; Wir brauchen jetzt ein wenig Frühstück-typische Gemütlichkeit;
+3) соціального комфорту, напр.:
+Gemütlichkeit bedeutet für mich, niemanden sehen zu müssen;
+4) товариськості (vs. привітності), напр.:
+      Hauptgrund seien soziale Aspekte wie Geselligkeit und Gemütlichkeit – sowohl in Familien als auch beim Spieleabend mit Freunden;
+      Wenn es je eine deutsche Leitkultur zwischen Burschenschaft und Gemütlichkeit gab, dann wurde sie im Ritter Butzke liebevoll parodiert;
+Für Schöneck ist die Zeit im Junggesellenverein Gemütlichkeit bald vorbei;
+5) відпочинку, напр.:
+Gemütlichkeit: Endlich wieder Sofa-Zeit!;
+6) затишку, напр.:
+Da sitzt er also, inmitten seiner Oggersheimer Gemütlichkeit;
+      Die Gemütlichkeit ihrer Wohnung, in der er vorher so gerne übernachtete, die Spießigkeit ihrer Cordkissen und ihre «feminine Materialität» kommen Nate auf einmal erstickend vor;
+7) родинного затишку, напр.:
+      Sie zeichnete ein paar Entwürfe, in denen sie Heimatgefühl und Gemütlichkeit mit Modernität und Schlichtheit kombinierte;
+8) спокою vs. душевного спокою (у комфортній атмосфері), напр.:
+      Als ich mich auf diese Geschichte vorbereitete, lag ich an einem See in Brandenburg und wollte in aller Gemütlichkeit die Einführung in die Gender Studies von Franziska Schößler lesen;
+9) душевної розмови (vs. душевного відпочинку), напр.:
+      Der Fokus auf Gemütlichkeit und Unterhaltung, auf vergangene Weinseligkeit und die durch den Krieg nunmehr fehlenden Genüsse war nicht als direkter Aufruf zum aktiven Widerstand gedacht;
+10) певного споглядально-філософського настрою, напр.:
+Und das hat erst einmal nicht so viel zu tun mit Besinnlichkeit und Gemütlichkeit.
+      Як бачимо, на відміну від українців (як і росіян), для яких “затишність” vs. “затишок” – це передусім душевний комфорт, пов’язаний з рідною домівкою, німці розуміють “Gemütlichkeit” як стійкий приємний стан
+
+душі (див. також: Popova, Sternyn, Karasyk, Kretov, Boryskyna, Pymenov, Pymenova 85). Представники німецької лінгвокультури позначають словами Gemütlichkeit vs. gemütlich вечір або кімнату, приємну прогулянку, характеризують похмуру погоду як ungemütlich (“незатишна”). Вони влаштовуються комфортніше, щоб відпочити від переповненого стресами робочого дня, чи почувають себе затишно, спілкуючись у тісному колі друзів (Chesnokova 1123). У цьому сенсі концепт GEMÜTLICHKEIT тісно перетинається зі ще одним етноунікальним німецьким концептом – FEIERABEND (“вільний від роботи вечір”).
+      Прикметно, що цей стан душі в уявленні представників німецької лінгвокультури є то емоцією, то емоційним станом, то почуттям, то навіть соціальним (vs. етнокультурним) явищем. В останній іпостасі “німецька затишність” виступає як риса національного характеру німців, напр.:
+      Sein pastoraler Gestus sollte nicht darüber hinwegtäuschen, dass er Religion nicht als Ruhekissen für bürgerliche Gemütlichkeit verstand;
+Kurz entschlossen stürzte ich mich in das, was rund um den Erdball als “deutsche Gemütlichkeit” gerühmt wird;
+      Wer in der urwüchsigen Gemütlichkeit den Kern des deutschen Wesens erblickte, für den bedrohte die grassierende Neurasthenie die deutsche Identität.
+      Про етнокультурну маркованість “німецької затишності” свідчить і той факт, що відповідна лексема, як правило, взагалі не перекладається, бо неможливо знайти еквіваленти в багатьох мовах, напр.:
+      Eine Reihe hinter mir erzählt ein Deutsch-Afghane einem Amerikaner vom Oktoberfest. “Do you know Gemütlichkeit?”, fragt er und wartet nicht auf die Antwort.
+      Виняток становлять, очевидно, скандинавські мови, зокрема данська, де існує дуже близька лексема hygge, яка позначає почуття затишку та комфортного спілкування з відчуттям благополуччя і задоволення, напр.:
+      Es sind noch knapp zweihundert Kilometer bis zur Grenze, hinter der hygge wieder “Gemütlichkeit” heißt und man dabei an Eichenschrankwände denkt, an Kupferteller, den röhrenden Hirsch an der Wand und den Tatort mit Jan Josef Liefers.
+      У зв’язку з цим слід зауважити, що “Gemütlichkeit” характеризують інколи як “феномен північних країн”, де панують довгі зими з лютими морозами. Тут кліматичні умови змушують людей тривалий час знаходитися в закритих приміщеннях, спонукаючи їх до створення якомога приємнішої атмосфери. Тому не дивно, що і для “німецької затишності” типовим часом уважається не лише вечір, але й пізня осінь і зима, коли зовні холодно й дискомфортно, а всередині (будинку, кімнати і под.) можна сидіти, загорнувшись у м’який плед, з чашкою гарячого чаю або кави (Chesnokova 1123).
+      Німці також уважають, що цей емоційний стан не є виключно німецьким, бо він властивий і іншим народам, напр.:
+“Ich mag die Gemütlichkeit und die Offenheit Dänemarks”, sagte eine 45-jährige Büroangestellte;
+      Hier muss die schweizerische Gemütlichkeit mit asiatischer Eleganz zusammenfinden, dem Markenzeichen des Hotelbetreibers GHM aus Singapur.
+Та й навіть у межах німецької лінгвокультури існують свої різновиди “Gemütlichkeit”, напр.:
+      Da schwätzten angesehene Leute wie Baring und Co. plötzlich von “Bonner Biedermeier”, von der “Idylle am Rhein”, von der westdeutschen “Gemütlichkeit”, ja, sie behaupteten, in Berlin vollziehe sich nicht weniger als die deutsche “Rückkehr in die Geschichte”.
+      Як соціальне явище “Gemütlichkeit” виявляє не лише позитивні, але й негативні відтінки, оскільки така затишність може провокувати байдужість до соціальних проблем (обивательська затишність), напр.:
+Ich mag Rumsitzen nicht und habe kein Bedürfnis nach Gemütlichkeit;
+      Der Westen habe geglitzert, aber auch etwas Unnahbares und Kaltes gehabt, der Osten Gemütlichkeit, aber auch Kleinkariertheit ausgestrahlt;
+      Die Romanheldin selbst bewegt sich zuverlässig auf dem Niveau kleinbürgerlicher Gemütlichkeit und hält denselben Abstand zu den unglücklichen Armen wie zu den unglücklichen Reichen.
+У цьому сенсі вона може бути гнітючою та оманливою, напр.:
+      Sie ironisieren die kleinbürgerlichen Geschmacksideale und die beklemmende und trügerische Gemütlichkeit der 1960er Jahre.
+      Інколи “німецька затишність” є неприродною, надуманою, фальшивою, стимульованою певною прагматичною метою, напр.:
+      Doch obwohl es jeden Grund gab, vor dieser turbopragmatischen Gemütlichkeit mit ihrem Nützlichkeitswahn davonzulaufen, obwohl wirklich alles dafürsprach, dieser beklemmenden deutschen Fußgängerzonenhaftigkeit sofort den Rücken zu kehren, blieb ich und kam immer wieder.
+      Попри те, що “Gemütlichkeit” може викликати негативні характеристики (обмежена, міщанська, дурнувата затишність тощо), вона водночас є об’єктом ностальгії (за нею сумують), напр.:
+Ich habe mich nach dieser dämlichen bayerischen Gemütlichkeit gesehnt.
+      Те, що “німецька затишність” є своєрідною емоцією (vs. емоційним станом (почуттям)) не викликає сумніву, оскільки вона здатна заповнювати людину зсередини, а це вважається загальною властивістю емоцій (Arutyunova 389–392), напр.:
+Ich habe Gemütlichkeit getankt, bevor ich nach Reykjavík aufbreche.
+
+      Аналіз фактичного матеріалу виявив, що актуальною в німецькому лінгвосоціумі є когнітивна метафора ЗАТИШНІСТЬ – це РІДИНА, напр.:
+      Der Ort verströmt eine Ruhe und Gemütlichkeit, die in den überfüllten Skigebieten der Alpen längst verloren gegangen ist;
+Die “Prosits der Gemütlichkeit” quollen aus allen Ritzen der Fachwerkhäuser.
+      Негативом “німецька затишність” може бути наділена лише з боку представників соціуму, тобто це є її соціокультурна оцінка. Проте сама ця складна емоція є радісною, являючи собою симбіоз позитивного емоційного світу німців, напр.:
+Und ein anderer Fan meinte: “Wenn alle den Menschen so viel Freude und Gemütlichkeit bereiten würden wie
+Karel Gott, dann wäre die Welt wirklich ein schöner Ort”.
+З огляду на це не дивно, що вона, як і радість, може випромінюватися, напр.:
+Das runde Gesicht des werdenden Familienvaters strahlt Gemütlichkeit aus.
+Утім, щастя “німецька затишність” не заміняє, напр.:
+Was ist Gemütlichkeit schon gegen Glück?
+      Почуття можуть виступати як деяка самостійна сила, що вступає в контакт з людиною та часто протистоїть їй (почуття нападають, приходять до людини, оселяються в її душі чи серці тощо) (Brahyna 295), що засвідчує й мовна характеристика “німецької затишності”, напр.:
+Das Aan de Amstel ist ein Lokal, in dem die hochwertige Gemütlichkeit aus allen Fugen kriecht; Die dänische Gemütlichkeit zeigt schnell ihre chauvinistische Seite, wenn sie sich bedroht fühlt.
+      Як почуття, “Gemütlichkeit” тісно пов’язана з “німецьким духом”, із традиційністю в побуті, з усталеною атмосферою, де кожен предмет нагадує про рідну домівку та традиційний колорит (святкування Різдва, різноманітні карнавали, пивні фестивалі і под.). Усе це можна визначити одним поняттям “typisch deutsch” (досл.: типово німецький) (див. детальніше: Schroll-Machl 18), яке постало на стереотипах про німецьку культуру та німецький національний характер, напр.:
+      Obwohl er Tarnkleidung trägt, strahlt er Gemütlichkeit aus, kugelrunder Bauch, Schnurrbart, Halbglatze und im Gesicht eine milde Verwunderung, was wir in dieser Gottverlassenheit zu suchen haben;
+Drinnen verbreiten warme Farben mit viel Holz eine konservative Gemütlichkeit;
+      Wer plant, Sekt zu verteuern, der fällt der Tradition in den Rücken und verübt einen heimtückischen Anschlag auf die Gemütlichkeit;
+      Hier dagegen genießt man die Ruhe anthrazitfarbener, mit Steinchen verputzter Wände und die Gemütlichkeit großer Holztische, die bei gutem Wetter auch draußen stehen;
+      Es half nichts, dass sie auf Guido Westerwelle schimpften und seine Politik für Besserverdiener, wenn sie sich bei «Tante Jenny» am Hafen trafen, wo Schiffsmodelle und Seefahrerlampen Gemütlichkeit erzeugen.
+      Навіть достатньо горіння каміну холодним вечором, щоб пробудити в німців емоцію “Gemütlichkeit” (відкритий вогонь утворює центр життєвого простору, біля якого вечорами, особливо зимою, збирається вся сім’я, бо червонувато-жовте світло вогню, хрустіння дров, аромати дерева, що горить, надають приміщенню особливу “затишну” атмосферу (Chesnokova 1124)), напр.:
+      Seit diesem Monat ist es an Tagen, an denen Feinstaub-Alarm herrscht, dort verboten, nur für die Gemütlichkeit den Kamin anzufeuern.
+Відсутність усіх цих речей не може створити атмосферу, де виникає “німецька затишність”, напр.:
+Spartanische Bänke und Hocker strahlen Konzentration aus, keine Gemütlichkeit;
+      Dass bei Metall keine Gemütlichkeit aufkommt, hat auch mit seiner Symbolik zu tun: Wer es trägt, tut dies meist in feindlicher oder zumindest herausfordernder Umgebung.
+      Не кожна людина може мати відповідний настрій через душевний неспокій або невміння розслабитися, що також унеможливлює занурення цієї людини в атмосферу “Gemütlichkeit”, напр.:
+Ich besitze nämlich kein Talent zur Gemütlichkeit.
+      У цьому зв’язку науковці зазначають, що важливою передумовою для “німецької затишності” є відчуття нічим незатьмареного душевного спокою, оскільки вона не може виникнути у ситуаціях стресу, поспіху та примусу. Тому негативний зовнішній вплив, події, що викликають зовнішню напругу, руйнують “Gemütlichkeit”. Для цього стану необхідне відчуття комфорту, відсутність фізичного й психічного страждання, голоду чи спраги, смутку або страху. Саме через це “німецька затишність” уважається контрастом до важких і неприємних речей. Люди, які працюють, наприклад, сприймають її як протилежність до своєї трудової діяльності, приписуючи їй відновлювальну функцію (Schmidt-Lauber 58).
+      Результати і висновки. Аналіз об’єктивації німецького лінгвокультурного концепту GEMÜTLICHKEIT на основі зразків газетного дискурсу підтверджує певну специфічність, навіть етноунікальність, цього концепту, оскільки останній являє собою цілий фрагмент емоційного світу представників німецького лінгвосоціуму, частину їхньої концептосфери. Цей концепт виявляє численні смислові відтінки, які утворюють неповторну тільки для німецької лінгвокультури конфігурацію, що є причиною неперекладності його імені. Специфічним для концепту GEMÜTLICHKEIT є наявність особливого емоційного навантаження, бо він належить до внутрішнього життя людини, актуалізуючи смисли внутрішнього стану та емоційного настрою людини.
+
+      Релевантність цього концепту для німецької лінгвокультури є безсумнівною, оскільки він є одним із тих концептів, які формують організований внутрішній світ німців, протиставляючись “екзистенційному страху” – концепту ANGST. Це страх перед невідомим, чужим, хаотичним, одним словом тим, що порушує усталений, спокійний, розмірений спосіб життя німців. Проте можна припустити, що цей страх властивий не лише німцям, але й іншим германським, зокрема скандинавським, народам (тому саме в цих народів існує поняття, яке є не ідентичним, але дуже близьким до “Gemütlichkeit” (див. вище про поняття “hygge”); виняток, зрозуміло, становить “острівна” британська лінгвокультура), напр.:
+      Die nordischen Länder werden weniger gleichberechtigt, und die Gemütlichkeit des guten alten skandinavischen Lebens ist durch die Angst vorm Fremden gestört worden.
+      Це підтверджує думку німецьких науковців (див., напр.: Nuss 195), що “Gemütlichkeit” слід потрактовувати як стан, який є протилежним до “Angst”, тобто до стану “екзистенційної незахищеності” (А. Вежбицька). Саме таке відчуття перманентної незахищеності викликає непереборне тяжіння німців до створення атмосфери упевненості, що ґрунтується на знанні того, що може відбутися (трапитися), а також на потребі в певних чітких обрисах близького майбутнього. Це актуалізувало в кінці ХХ століття такі опозиційні до ANGST концепти, як ORDNUNG (порядок) та ZUVERLÄSSIGKEIT (надійність) (Bausinger 30). Не менш важливими в цьому сенсі є для німецькомовного етносу і концепти SICHERHEIT (безпека, упевненість) та GEBORGENHEIT (захищеність), з якими концепт GEMÜTLICHKEIT має тісний і глибинний зв’язок. З огляду на це логічною є значущість концепту GEMÜTLICHKEIT для німецького лінгвосоціуму, оскільки його наповнюють смисли усталеності, традиційності, “німецького духу”, напр.:
+      Sein unerschütterlicher katholischer Glaube, seine Biederkeit und die Gemütlichkeit seines Privatlebens vermittelten den Menschen ein Gefühl von Beständigkeit in einer unsicher gewordenen Welt.
+      Розкрити приховані смисли концепту GEMÜTLICHKEIT, краще зрозуміти той фрагмент концептосфери німців, який він представляє, можуть допомогти апробовані соціологами й культурологами критерії щодо кроскультурного дослідження різних європейських народів. Так, у результаті вивчення відмінностей у ціннісних орієнтаціях і настановах представників деяких національно-культурних спільнот Г. Гофстеде виявив, що в Німеччині особливу роль відіграє один із запропонованих ним критеріїв зіставлення культур – Unsicherheitsvermeidung (Hofstede 228–289) (пор. вище з “екзистенційною незахищеністю” – концептом ANGST). Точного перекладу цього терміна українською не існує, тому приблизними перекладами можуть бути: “уникання невизначеності”, “страх перед невизначеністю”, “прагнення уникнути невизначеності”. Культурологи відносять Німеччину до країн з високим рівнем уникання невизначеності. Для представників таких культур характерним є прагнення до дотримання правил, норм поведінки й законів, негативне ставлення до двозначності, чітке й довгострокове планування майбутнього, потреба у зрозумілих і детально розроблених письмових інструкціях, відвертість у вираженні критики, відсутність схильності до ризику.
+      Як бачимо, душевний спокій і комфорт, які значною мірою визначають зміст концепту GEMÜTLICHKEIT, і є елементами “Unsicherheitsvermeidung”. Це є ще одним доказом того, що аналізований концепт має неабияку значущість для німецького національного характеру.
+      Підтверджує це і концепція “культурних стандартів” А. Томаса, який розуміє останні як способи vs. манери сприйняття дійсності, мислення, формування і висловлення оцінки та вчинення тих чи інших дій, які більшістю представників певної культури сприймаються й розглядаються в аспекті не лише власної поведінки, але й у відношенні до інших як нормальні, типові та навіть обов’язкові (див., напр.: Fink, Gruttauer, Thomas 12– 13). На думку вченого, культурні стандарти засвоюються vs. опановуються представниками певної культурної спільноти несвідомо в процесі дорослішання і розвитку, а також несвідомо vs. рефлекторно виявляються в їхніх діях у відповідних ситуаціях соціального середовища.
+      Для наочності культурні стандарти позначаються як “набір інструментів”, які в історичному розвитку нації зарекомендували себе як прийнятні, зручні засоби для вирішення певних проблем. Важливо підкреслити еволюційне трактування культурних стандартів. Історичні зміни спричинюють їхню трансформацію – старі норми нерідко зникають і замість них виникають нові правила суспільного співжиття. Автор цієї концепції наголошує на недопустимості прирівнювати культурні стандарти до традиційних забобонних уявлень про певні нації і народи, які несуть у собі зазвичай негативну конотацію. Культурні стандарти – це емпірично зібрані факти, “вплетені” в історію культури певної країни vs. нації. З огляду на це виокремлюють такі культурні стандарти німців (Schroll-Machl 45–129):
+1) цінність існуючих правил і структур;
+      2) орієнтований на існуючі правила внутрішній контроль при виконанні будь-якої діяльності, наслідком чого є надійність усіх учасників діяльності;
+3) потреба в організації, а також у детальному й довгостроковому плануванні будь-якої діяльності;
+4) значна роль документації та фіксації усіх фактів у деталях у письмовій формі.
+      Як бачимо, і теорія “культурних стандартів” підтверджує схильність німців до стабільності, упорядкованості та організованості. Це означає, що в зіставно-лінгвокультурологічних дослідженнях, присвячених вивченню німецького лінгвосоціуму, слід завжди враховувати поляризацію “німецького духу” на осі ORDNUNG – CHAOS, де останній концепт активує перманентний ANGST німців. Як CHAOS, так і ANGST наповнюють смисли хаосу та болю на тлі невідповідності між гармонією внутрішнього світу пересічного німця і дисгармонією зовнішнього світу, де різні історичні та соціокультурні чинники породжують той
+
+страх перед майбутнім, який гнітить “німецький дух”. І щоб позбутися цього гніту, потрібно лише зануритися в атмосферу “Gemütlichkeit”.
+      Можна припустити, ураховуючи викладений вище аналіз, що “німецька затишність” є особливою емоцією (vs. емоційним станом (почуттям)) уже з огляду тільки на те, що вона обов’язково вимагає створення відповідної зовнішньої атмосфери. Ця атмосфера є своєрідним “коконом”, у якому людина почувається не лише комфортно, але й має душевний спокій і піднесений настрій (радість) від тепла, яке випромінюють знайомі речі, а також рідні люди, з якими можна приємно поспілкуватися. Хоча можна і не спілкуватися, а просто у приємному, душевному комфорті споглядати за навколишнім світом, бо “німецька затишність” – це водночас є і щось інтимне, неповторне для кожної людини. Саме це відрізняє німецький концепт GEMÜTLICHKEIT від данського HYGGE чи норвезького KOSELIG, які містять дуже близькі смисли затишності (див. про останній: Lomas 2016).
+      Перспективу цієї статті вбачаю у глибшому вивченні об’єктивації концепту GEMÜTLICHKEIT як на рівні мови, так і на рівні мовлення з метою визначення його етноунікальних vs. лінгвоспецифічних смислів.
+
+References
+Arutyunova, Nyna. “Metafora i dyskurs (Metaphor and Discourse)”. Teoryya metafory (Theory of Metaphor).
+Moskva: Prohress, 1990. 5–32. Print.
+Bausinger, Hermann. Typisch deutsch. Wie deutsch sind die Deutschen? München: C.H. Beck Verlag, 2005.
+Print.
+Brahyna, Natal’ya. Pamyat’ v yazyke i kul’ture (Memory in Language and Culture). Moskva: Yazyky
+slavyanskykh kul’tur, 2007. Print.
+      Chesnokova, Lesya. “Gemütlichkeit (uyut) kak odin iz klyuchevykh kontseptov nemetskoy kul’tury (Gemütlichkeit as One of Key Concepts of the German Culture)”. Filosofiya i kul’tura (Philosophy and Culture) 8 (2013): 1121–1130. Print. DOI: 10.7256/1999-2793.2013.8.6957.
+      Fink, Luzia, and Gruttauer, Stefanie, and Thomas, Alexander. Beruflich in der Ukraine. Trainingsprogramm für Manager, Fach- und Führungskräfte. Göttingen: Vandenhoeck & Ruprecht, 2009. Print.
+Hofstede, Geert. Lokales Denken, globales Handeln. Interkulturelle Zusammenarbeit und globales Management.
+München: C.H. Beck Verlag, 2006. Print.
+Krüger-Lorenzen, Kurt. Deutsche Redensarten – und was dahinter steckt. Wiesbaden: VMA-Verlag, 1972. Print. Lomas, Tim. “Towards a Positive Cross-cultural Lexicography: Enriching Our Emotional Landscape through
+216 «Untranslatable» Words Pertaining to Well-being”. The Journal of Positive Psychology 11/5 (2016): 546–558. Print.
+      Mizin, Kostiantyn. “Lіngvokul’turnij Koncept «Kapcі», abo shhe Raz pro Metodologichnі Slabkі Mіscja Lіngvokul’turologiji (The Linguocultural Concept «Slippers» or Once Again about Methodological Flaws in Linguoculturology)”. Movoznavstvo (Linguistics) 6 (2017): 16–29. Print.
+      Mizin, Kostiantyn. “Nimets’kyy etnounikal’nyy kontsept KUMMERSPECK ta yoho smyslovi korelyaty (German Ethno-uniqueness of the Concept KUMMERSPECK and Its Sense Correlates)”. Linhvistychni studiyi (Linguistic Studies) 35 (2018): 210–215. Print.
+      Pavlova, Anna. “Mozhno li Sudit’ o Kul’ture Naroda po Dannym ego Yazyka? (Is it Possible to Judge a Culture of Nation by the Data of its Language?)”. Antropologicheskiy Forum (Anthropological Forum) 16 (2012): 3–60. Print.
+      Popova, Zynayda, and Sternyn, Yosyf, and Karasyk, Vladymyr, and Kretov, Aleksey, and Boryskyna, Ol’ha, and Pymenov, Evhenyy, and Pymenova, Maryna. Vvedenye v kohnytyvnuyu lynhvystyku (Introduction to Cognitive Linguistics). Kemerovo: KGU, 2009. Print.
+      Schmidt-Lauber, Brigitta. Gemütlichkeit: eine kulturwissenschaftliche Annäherung. Frankfurt am Main: Campus Verlag, 2003. Print.
+Schroll-Machl, Sylvia. Die Deutschen – Wir Deutsche. Fremdwahrnehmung und Selbstsicht im Berufsleben.
+Göttingen: Vandenhoeck & Ruprecht, 2003. Print.
+List of Abbreviation
+DH Duden Herkunftsworterbuch: Etymologie der deutschen Sprache: Der Duden in zwolf  Banden. Bd. 7.
+Mannheim: Bibliographisches Institut, 2001. Print.
+      DKW Der kleine Wahrig. Wörterbuch der deutschen Sprache. Gütersloh: Berstelsmann Lexikon Verlag GmbH, 1997. Print.
+DWDS – Digitales Wörterbuch der deutschen Sprache. www.dwds.de. Web. 3 Dec. 2018.
+      SUM Slovnyk ukrayins’koyi movy (Dictionary of the Ukrainian Language). Tom 3. Kyyiv: Naukova dumka, 1972. Print.
+
+Надійшла до редакції 25 листопада 2018 року.
+
+“GERMAN COSINESS” AS A FEATURE OF NATIONAL CHARACTER: CONTRASTIVE AND LINGUO-CULTUROLOGICAL ANALYSIS
+
+
+
+Kostiantyn Mizin
+
+Head of Department of Foreign Philology, Translation and Teaching Methodology,
+SHEI “Pereiaslav-Khmelnytskyi Hryhorii Skovoroda State Pedagogical University”,
+Pereiaslav-Khmelnytskyi, Ukraine
+Abstract
+      Background: A linguo-culturological approach to the study of language units clearly shows the mentality features of specific linguo-culture representatives, the way they perceive and understand the world. This topic is of primary importance for intercultural communication in the time of total globalization. And the most dramatic example here is a linguistic lacunarity, when a denotation of the concept is missing in one of the compared languages, and in case it is extrapolated to conceptual sphere – name of the concept, although representatives of the linguo-community may have a general idea of the concept.
+      Purpose: The purpose of this article is to study language peculiarities of the German concept GEMÜTLICHKEIT which linguo-culturologists have not paid enough attention to. To analyze how this concept is objectified we involved “live” discourse – newspaper subcorpus of DWDS language corpora (most up-to-date sample – only the last two years). Ethno- and linguo-cultural meanings of the analyzed concept are defined through cross-cultural criteria that are used for verification and refinement of research results.
+      Results: Analysis of German linguo-cultural concept GEMÜTLICHKEIT objectification based on newspaper discourse proves it to be specific, even ethno-unique as the latter is a fragment of the emotional world of the German linguo-community, a part of their conceptual sphere. This concept reveals numerous connotations that form unique, only German linguo-cultural configuration. This makes it impossible to translate its name. The specific feature of the concept GEMÜTLICHKEIT is a special emotional state it expresses because the concept belongs to the man’s inner life analyzing meanings of the internal state and emotional mood.
+      Discussion: “German cosiness” is a special emotion (vs. emotional state (feeling)) because of the fact that it necessarily requires a specific outer atmosphere. This atmosphere is a kind of “cocoon” where people feel not only comfortable, but also they have a peaceful state of mind and elated mood (joy) caused by familiar things, and native people who you can talk to. However, instead of communicating you can silently enjoy the world around you because “German cosiness” is both something intimate and unique for every person. This is what distinguishes the German concept GEMÜTLICHKEIT from the Danish HYGGE or Norwegian KOSELIG which contain very similar meanings of cosiness.
+Keywords: linguo-culturology, linguo-culturological concept, linguo-specifics, language corpora, cosiness.
+
+Vitae
+      Kostiantyn Mizin is Doctor of Philology, Professor, Head of Department of Foreign Philology, Translation and Teaching Methodology, SHEI “Pereiaslav-Khmelnytskyi Hryhorii Skovoroda State Pedagogical University”. His areas of research interests include contrastive linguoculturology, phraseology, contrastive conceptology, cognitive linguistics, contrastive linguistics.
+Correspondence: kmizin@i.ua
+
+
+
+
+
+
+
+

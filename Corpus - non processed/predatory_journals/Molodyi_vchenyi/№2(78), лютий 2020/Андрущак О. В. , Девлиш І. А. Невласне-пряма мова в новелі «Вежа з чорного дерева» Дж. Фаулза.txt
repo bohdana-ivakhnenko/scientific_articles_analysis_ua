@@ -1,0 +1,310 @@
+﻿«Молодий вчений» • № 2.1 (78.1) • Лютий, 2020
+DOI: https://doi.org/10.32839/2304-5809/2020-78.1-1 
+УДК 811.111
+Андрущак О.В., Девлиш І.А.
+Львівський національний університет імені Івана Франка
+НЕВЛАСНЕ-ПРЯМА МОВА В НОВЕЛІ «ВЕЖА З ЧОРНОГО ДЕРЕВА» ДЖ. ФАУЛЗА: 
+ПРАГМАТИЧНИЙ АСПЕКТ
+
+Анотація. Стаття присвячена дослідженню невласне-пряме мовлення у художньому тексті з точки зору 
+дискурсивно-когнітивного підходу, тобто як реальну комунікацію з урахуванням екстралінгвістичних 
+факторів, які впливають на її функціонування. Когнітивно-дискурсний підхід до вивчення невласне-пря- 
+мої мови у художньому творі розширює можливості аналізу прагматичної спрямованості цього прийому. 
+Такий підхід допомагає проаналізувати особливості функціонування невласне-прямої мови на матеріалі 
+твору Дж. Фаулза «Вежа з чорного дерева». Спроба проаналізувати використання невласне-прямої мови 
+у творі як реальну комунікацію, тобто з урахуванням екстралінгвістичних чинників, які впливають на ви- 
+бір мовних засобів при формуванні висловлювання визначає новизну й актуальність цього дослідження.
+Ключові слова: невласне-пряме мовлення, автор, внутрішній світ персонажа, дискурсивна і когнітивна 
+лінгвістика, прагматика.
+
+
+
+
+       Постановка проблеми. Вивчення форм 
+невласне-прямої мови набуває особливого 
+значення у дискурсній та когнітивній лінгвісти- 
+ці, оскільки у цій парадигмі форми мовлення на- 
+бувають статусу дискурсу (трактуються не лише 
+на рівні семантики та синтактики, але й дослід- 
+жуються екстралінгвістичні чинники, ситуація
+спілкування, прагматична установка).
+   Аналіз останніх досліджень і публікацій. 
+У живому інтенсивному процесі мови сучасної лі- 
+тератури відображається структурно-семантична 
+еволюція способів передачі авторського мовлення 
+та мовлення персонажів: підвищена структурно- 
+семантична багатоплановість прямого мовлення, 
+порушення традиційних схем і поява емоційних 
+елементів у непрямому мовленні, подальша ево- 
+люція, а, інколи, і повна трансформація форм не- 
+власне-прямого мовлення [4, с. 3]. Невласне-пря- 
+ме мовлення з’являється у тексті тоді, коли автор 
+літературного твору виходить за межі загально- 
+прийнятих лінгвістичних форм непрямого мов- 
+лення. Це спосіб передачі мовлення, який є най- 
+багатшим за функціональними та змістовими 
+потенціями у художньому тексті [1, с. 185].
+   Виділення не вирішених раніше частин за- 
+гальної проблеми. Когнітивно-дискурсний підхід
+
+
+
+до вивчення невласне-прямої мови у 
+художньому творі, з одного боку, пропонує нові 
+та ширші мож- ливості для аналізу 
+прагматики та функціональ- ності цього 
+прийому. З іншого ж боку, новий підхід вимагає 
+переосмислення як суті нового явища, так і 
+окремих його аспектів. Новизна та 
+актуальність цього дослідження полягає у 
+спробі проаналізувати використання прийому 
+невласне-прямої мови у тво- рі як реальній 
+комунікації, тобто з урахуванням 
+екстралінгвістичних чинників, що вплинули на 
+ви- бір мовних засобів при формуванні 
+висловлювання. Серед них особливо 
+важливими є філософські по- гляди автора, 
+його літературні уподобання, а також ті 
+завдання, які поставив перед собою автор.
+   Дж. Фаулз – відомий представник 
+постмодер- нізму, причому традиційно його 
+твори відносять до психологічної прози з 
+філософським нахилом [2–3; 7] або до 
+інтелектуального роману за термі- нологією 
+С. Павличко [6].
+   Мета статті. Отож, головна мета цієї 
+статті – розглянути прагматику та 
+функціональність не- власне-прямої мови у 
+літературному творі кінця ХХ століття. Для 
+аналізу обрана новела Дж. Фа- улза «Вежа з 
+чорного дерева».
+   Виклад основного матеріалу. 
+Основним джерелом постмодернізму в 
+аспекті пізнання ви-
+
+
+явилася «деструкція», визнання прогресу лише 
+у вигляді неспростованої ілюзії, загострене, пе- 
+рейняте «еклезіастівським» пафосом відчуття 
+вичерпності історії, естетики, мистецтва. Реаль- 
+ним вважалося варіювання та співіснування 
+усіх – і найдавніших, і новітніх – форм буття. 
+Відтак, принципи повторюваності та сумісності 
+перетворилися на стиль художнього мислення 
+з притаманними йому рисами еклектики, тяжін- 
+ням до стилізації, цитування, переінакшення, 
+ремінісценції, алюзії. Тут митець має справу не 
+з «чистим» матеріалом, а з культурно засвоєним, 
+оскільки існування мистецтва у попередніх кла- 
+сичних формах неможливе в постіндустріально- 
+му суспільстві з його необмеженим потенціалом 
+серійного відтворення та тиражування.
+   Власне, проти серійності, подібності висту- 
+пають постмодерністи, акцентуючи увагу на 
+неповторності особистості. Тому у творах по- 
+стмодерністів увага акцентується на складно- 
+му, суперечливому, напруженому внутрішньому 
+світі героя. Основним стилістичним прийомом, 
+яким користуються митці є невласне-пряма 
+мова. За нашими спостереженнями, невласне- 
+пряма мова – засіб мовної організації художньої 
+прози, один із способів репродукції персонажного 
+мовлення поряд із прямою та непрямою мовою.
+   Якщо в ХІХ столітті невласне-пряма мова 
+вживалася (і розглядалась) лише як спосіб пе- 
+редачі чужого   висловлювання,   рівнозначний 
+з іншими способами репродукції, то у творчості 
+постмодерністів форми і функції цього стиліс- 
+тичного прийому виявились значно ширшими. 
+Вона служить мовним засобом передачі не лише 
+мовлення як вербально оформленого висловлю- 
+вання, але й «внутрішнього мовлення», тобто 
+мовлення не висловленого і не призначеного для 
+висловлення, мовлення для себе – думок, безпо- 
+середніх асоціацій, емоцій – усього потоку свідо- 
+мості. Увага до читача, задіяння його у хід подій, 
+описаних у творі, а основне – заохочення його до 
+висновків – це характерна риса письменників- 
+постмодерністів.
+   Ця позиція якнайкраще співпадає із філософ- 
+ською позицією Дж. Фаулза. Письменник був 
+прихильником екзистенціалізму, послідовником 
+Ж.-П. Сартра, А. Камю, чиї погляди про свобідну 
+волю людини та ситуацію вибору, в яку щохви- 
+лини ставить людину життя, він сповідував. Від- 
+так, твори Фаулза – це «гадамерівський» діалог 
+з читачем, де автор розповідає, але не повчає, че- 
+кає відповіді від читача, а щоб відповісти, читач 
+має сам зробити висновки. Тобто, і герої, і читач 
+поставлені у ситуацію екзистенціального вибору. 
+Автор описує нам події з точки зору головного 
+героя, тобто так, як все бачить саме він. Основна 
+увага приділяється опису внутрішніх пережи- 
+вань героя – його думок, емоцій, відчуттів. Про- 
+те, мета автора – не запропонувати готові висно- 
+вки, – він спонукає до цього читача. Головний 
+герой приймає свої рішення (за філософською 
+термінологією екзистенціалізму – робить свій ви- 
+бір), а читач повинен прийняти свої, визначити
+своє ставлення до героя та до його позиції.
+   Головний герой новели «Вежа з чорного дере- 
+ва» – Девід Вільямс – досить успішний художник- 
+абстракціоніст, котрий переживши творчу кризу, 
+намагається вирішити для себе проблеми зв’язку
+
+
+мистецтва з життям та соціальної ролі мистец- 
+тва. Для прикладу: Slowly and inexorably it came 
+to David that his failure previous night was merely 
+the symbol, not the crux of the matter <…> He had 
+had doubts about his work before; but not about his 
+fundamental nature, or at any rate that there was 
+not in it the potential wherewithal to lay the ghost 
+that profoundly haunts every artist: his lastingness
+<…> Art had always gone in waves. Who knew if the 
+late twentieth century might not be one of its most 
+cavernous troughs? <…> You did not want how 
+you lived to be reflected in your painting <…> you 
+could only try to camouflage its hollow reality under 
+craftmanship and good taste. Geometry. Safety hid 
+nothingness [8, c. 125–126].
+   Невласне пряма мова вживається для пере- 
+дачі бачення світу митцем (митцем-постмодер- 
+ністом): That had allowed an enjoyable meander 
+over the remaining distance; a distant view of the 
+spectacular spired dream of Mont-Saint-Michel, 
+strolls around Siant Malo and Dinan, then south 
+in the splendid September weather and through the 
+new countryside [83, с. 33]. Гору Mont-Saint-Michel 
+художник Девід бачить як шпилясту мрію. Фра- 
+за in the splendid September weather and through 
+the new countryside відображає ще одну характер- 
+ну рису постмодерного мистецтва – синкретичне 
+бачення світу.
+   Наступний уривок є яскравим прикладом пе- 
+редачі образності мислення художника: He saw 
+almost literally above the dreary sea of roofs, wet 
+now in a drizzle the collapsed parallel of what he 
+was beside the soaring line of what he may have 
+been [8, c. 129]. Аналізуючи своє життя, Девід ви- 
+користовує паралелі з абстрактного мистецтва, 
+представником якого він був.
+   Головний герой бачить світ як кольори, форми, 
+відтінки. Він прагне досягти гармонії, і , звісно, 
+оцінить її, якщо десь побачить: Ancient partitions 
+must have been knocked down, but some of the 
+major black uprights had been retained and stood 
+out against the white walls with a skeletal bravura. 
+The effect was faintly Tudor, much more English 
+than the exterior. A very hansome piece of dense but 
+airy space, antique carved-wood furniture, bowls of 
+flowers, a group of armchairs and two sofas farther 
+down; old pink and red carpets; and inevitably, the 
+art <…> no surprise – except that one could walk in 
+on it like this <…> [8, c. 35].
+   Також, як митець, Девід помічає картини на 
+стінах будинку Бреслі, що теж передається не- 
+власне-прямою мовою: 1) In the corridor above 
+he stopped to look at two paintings he had noticed 
+when she first showed him up and failed to put a 
+name to <…> but now, of course, Maximilien Luce. 
+Lucky old man, to have bought before art became 
+a branch of greed, of shrewd investment [8, c. 38];
+2) David knew there was a distinguished little 
+collection besides the old man’s own work. Famous 
+names were already announced. Ensor, Marquet, 
+that landscape at the end must be a “cool» Derain
+<…> [8, c. 35].
+   Це риси, які характерні саме для цієї новели. 
+Окрім того, традиційно для постмодерністської 
+прози, невласне-пряма мова вживається для 
+передачі емоцій, переживань: But she did not 
+stop; and he felt frozen, fatally unable to move. 
+He watched her… and he was left with all the
+
+agonized and agonazing deflation of a man 
+who has come to a momentous decision, only to 
+have it cursorily dismissed… He turned into his 
+room.. made out his faint shape there in the old gilt- 
+framed mirror. A ghost, a no-man. The horror 
+was that he was still being plunged forward, 
+still melting, still realizing;… He wanted with 
+all his being – now it was too late; was seared 
+unendurably by something that did not exist, racked 
+by an emotion as extinct as the dodo [8, с. 119].
+   Внутрішнє життя людини – складне перепле- 
+тення сприйнятого, асоційованого, відчутого, об- 
+думаного – це те, що намагається передати Дж. 
+Фаулз. У наведеному вище прикладі письменник 
+описує стан Девіда після того, як від нього пішла 
+Діана (вирази, що передають почуття чи відчуття 
+виділені простим курсивом, думки – жирним).
+   
+
+Висновки і пропозиції. Отже, 
+використан- ня невласне-прямої мови у творі 
+Дж. Фаулза зумовлене кількома чинниками 
+– як письмен- ник-постмодерніст, автор 
+ставить перед собою мету відобразити 
+внутрішній світ персонажа, його думки, 
+емоції, переживання. Власне ця форма 
+оповіді передає роздуми персонажа про 
+проблеми, на які автор хоче звернути увагу 
+чи- тачів – про зв’язок мистецтва з життям та 
+соці- альну роль мистецтва. Як прихильник 
+екзистен- ціальної філософської теорії, автор 
+проводить свого персонажа через ситуацію 
+складного жит- тєвого вибору, зображаючи 
+як персонаж іде до прийняття рішення. 
+Головний персонаж тво- ру – художник, 
+митець, і для передачі бачення світу його 
+очима, також використовується не- власне-
+пряма мова.
+
+
+Список літератури:
+1.	Бехта І. Текст у парадигматичній системі наукових лінгвістичних концепцій кінця ХХ – початку ХХІ століття: 
+актуальні та віртуальні стратегії розвитку. Дискурс іноземномовної комунікації (колективна монографія). 
+Львів : Видавництво Львівського національного університету імені Івана Франка, 2001.
+2.	Гениева Е.Ю. Творчество Джона Фаулза. Иностранная литература. 1979. № 3.
+3.	Жлуктенко Н. Післямова. Фаулз Джон. Вежа з чорного дерева. Київ : Дніпро, 1986.
+4.	Кусько Е.Я. Проблемы языка современной художественной литературы. Львов, 1980.
+5.	Гром’як Р.Т., Ковалів Ю.І. та ін. Літературознавчий словник-довідник. Київ : ВЦ Академія, 1997.
+6.	Павличко С.Д. Лабіринти мислення. Інтелектуальний роман сучасної Великобританії. Київ : Наукова думка, 1993.
+7.	Пальцев Н. Предисловие / Фаулз Дж. Башня из черного дерева. Москва : Прогресс, 1980.
+8.	Фаулз Дж. Башня из черного дерева. Москва : Прогресс, 1980.
+References:
+1.	Bekhta І. (2001). Tekst u paradyhmatychnii systemi lingvistychnykh kontseptsii kintsia XX – pochatku 
+XXI stolittia: aktualni i virtualni strategii rozvytku [Text in the paradigmatic system of linguistic concepts in 
+the end of the XX – the beginning of the XXI century: actual and virtual strategies of development]. Dyskurs 
+inozemnomovnoyi komunikatsii (kolektyvna monografiia). Lviv.
+2.	Geniyeva E.Y. (1979). Tvorchestvo Dzhona Faulza [John Fowles creativity]. Inostrannaya literatura, № 3.
+3.	Zhluktenko N. (1986). Pisliamova [Epilogue]. John Fowles. The Ebony Tower. Kyiv: Dnipro.
+4.	Kusko Y.Y. (1980). Problemy yazyka khudozhestvennoi literatury [Topical issues of the language of modern 
+fiction]. Lviv.
+5.	Hromiak R.T., Kovaliv Yu.I. ta in. (1997). Literaturoznavchyi slovnyk-dovidnyk. Kyiv: VTs Akademiia.
+6.	Pavlychko S.D. (1993). Labirinty myslennia. Intelektualnyi roman Velykobrytanii [Labyrinths of thinking. 
+Intellectual novel of Great Britain]. Kyiv: Naukova dumka.
+7.	Paltsev N. (1980). Prologue / John Fowles. The Ebony Tower. Moscow: Progress.
+8.	Fowles J. (1980). The Ebony Tower. Moscow: Progress.
+
+
+Andruschak Oksana, Devlysh Ihor
+Ivan Franko National University of Lviv
+FREE INDIRECT SPEECH IN THE NOVELLA “THE EBONY TOWER» BY JOHN FOWLES: 
+PRAGMATIC ASPECT
+Summary. The article studies free indirect speech in the literary text in terms of discourse and cognitive ap- 
+proach that is as a real communication, taking into consideration the extra-linguistic factors influencing its 
+functioning. The philosophical and literary views of the author as well as the choice of language means and 
+forms of narration when forming expressions are investigated. The functions of free indirect speech are analyz- 
+ed. The research of the free indirect speech in the literary text within the cognitive-and-discursive paradigm 
+gives the opportunity to analyze the cognitive and pragmatic characteristics of this stylistic means. The article 
+is based on the analysis of the text of the novella “The Ebony Tower» by John Fowles. Among the extra-linguis- 
+tic factors that have influenced the use of the free indirect speech in the literary text special attention is given 
+to the post-modernist trend in literature, in general, and the language personality of the author, in particular. 
+In post-modernist fiction great attention is paid to the complicated and contradictory inner world of the personag- 
+es. And the free indirect speech is the main stylistic means that is broadly used to reproduce this inner world of 
+the personages. The authors think that the free indirect speech is a means of organizing the structure of the liter- 
+ary work, as well as a means of reproducing the personages’ speech alongside with the direct and indirect speech.
+Keywords: free indirect speech, author, inner world of the personage, discourse and cognitive linguistics, 
+pragmatics.

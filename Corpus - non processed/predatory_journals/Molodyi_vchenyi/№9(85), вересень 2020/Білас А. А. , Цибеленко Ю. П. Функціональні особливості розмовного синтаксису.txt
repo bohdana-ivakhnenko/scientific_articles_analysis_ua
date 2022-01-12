@@ -1,0 +1,762 @@
+«Молодий вчений» • № 9 (85) • вересень, 2020 р.
+DOI: https://doi.org/10.32839/2304-5809/2020-9-85-39 
+УДК 811.111’367’27:821-31Дж.Р.Р.Толкін
+Білас А.А., Цибеленко Ю.П.
+ДВНЗ «Прикарпатський національний університет імені Василя Стефаника»
+ФУНКЦІОНАЛЬНІ ОСОБЛИВОСТІ РОЗМОВНОГО СИНТАКСИСУ 
+У РОМАНІ ДЖ. Р. Р. ТОЛКІНА «THE LORD OF THE RINGS»
+Анотація. У статті розглядаються способи вираження функціональної природи одиниць англійського 
+розмовного синтаксису. Досліджено проблематику функціонування синтаксичних розмовних елементів 
+персонажного мовлення. З’ясовано особливості функціонального навантаження розмовних синтаксичних 
+одиниць у романі Дж. Р. Р. Толкіна «The Lord of the Rings». Функціональні ознаки розмовних речень 
+проявляються у плані перепитування, підхоплення, експресивної реакції, іронії, обурення, глузування. 
+Проаналізовано особливості функцій повторень у діалогічному мовленні: підвищення емоційності ви- 
+словлення, хвилювання, спонукання, впевненість, невпевненість, боязнь, спонтанне прийняття рішення.
+Ключові слова: англійське розмовне мовлення, художній текст, функціонування, розмовні синтаксичні 
+одиниці, функція повторень, функція підхоплення, функція підвищення емоційності висловлення.
+
+Постановка наукової проблеми та її 
+значення. Сьогодні функціональна екс-
+пресія синтаксичних розмовних одиниць є одні- 
+єю з активно досліджуваних лінгвістичних явищ. 
+Експресивність розмовного синтаксису худож- 
+нього тексту розкриває мовну стратегію автора 
+і є одним із засобів мовного впливу на читача. 
+Така авторська експресія знаходить своє ви- 
+раження у відборі мовних засобів. Синтаксичні 
+стилістичні засоби та прийоми розмовного ха- 
+рактеру створюють особливу організацію ви- 
+словлювання, що відрізняється від висловлення 
+в нейтральній формі викладу [8, с. 95].
+   Аналіз останніх досліджень цієї про- 
+блеми. Питання стилістичних засобів загалом 
+і синтаксичних зокрема висвітлювалися такими
+
+
+
+мовознавцями як О.В. Александрова [1], І.В. Ар- 
+нольд [2], А.А. Білас [10], І.Р. Гальперін, А.В. Го- 
+ловня [3], С.В. Іонова [4], Дж. Ліч і Ж. Свартік 
+[11], В.А. Кухаренко, О.М. Мороховський [6], 
+М. Мюррей, Є.В. Стрельницкая [7], О.М. Торосян 
+[8], В.І. Шаховський [9] та ін.
+   Виразні засоби розмовного характеру на синтак- 
+сичному рівні визначаються як синтаксичні моделі 
+речень, що несуть додаткову логічну чи експресив- 
+ну інформацію, яка сприяє підвищенню прагматич- 
+ної ефективності висловлювання [6, с. 138].
+   Вираження емоційного стану персонажів є од- 
+нією з головних рис, що відрізняють художню лі- 
+тературу від інших літературних напрямів. Як 
+зазначає О.В. Александрова, хоча письменник 
+при створенні свого твору, мабуть, найменше ду-
+
+
+має про вживання тих чи інших конкретних син- 
+таксичних конструкцій, розгляд цих конструк- 
+цій шляхом аналізу тексту дозволяє встановити 
+лінгвістичні основи його виразності [1, с. 97–98]. 
+Застосування принципу розмежування елемен- 
+тів в структурі англійського розмовного речення 
+дозволяє систематизувати, уточнити і пояснити ба- 
+гато мовних явищ. Зокрема, це допомагає виявити 
+і систематизувати змістовно-рольові моделі речен- 
+ня, зіставити їх із структурно-синтаксичними мо-
+делями та їх лінійними варіантами [5, с. 80].
+   Виділення невирішених раніше частин 
+загальної проблеми. Зважаючи на значну 
+кількість праць, присвячених дослідженню різ- 
+них синтаксичних явищ, розмовний синтаксис 
+залишається малодослідженою галуззю мовоз- 
+навства, що пояснюється складністю зазначеної 
+проблематики.
+   При аналізі емотивно заряджених текстів по- 
+мічено, що певні емоції тяжіють до певних ко- 
+мунікативних типів висловлювання [7, c. 161].
+«Активні», чи, за визначенням І. Канта, стенічні, 
+емоції, такі як гнів, радість, здивування та ін., 
+мають тенденцію виражатися в окличних і за- 
+питально-окличних реченнях, а «пасивні», чи ас- 
+тенічні, емоції, такі як смуток, занепокоєння чи 
+нудьга, – в розповідних [9, c. 149; 11, c. 108–133]. 
+Дослідження емотивних текстів показало, що 
+в англійській мові є певні клішовані структури, 
+які тяжіють до емотивних текстів, лексикалізо- 
+вані фрази: how + nice, how / where / who / what / 
+why on earth, if only N + V [9, c. 149-150].
+   Також важливою складовою емотивного по- 
+тенціалу тексту на синтаксич-ному рівні є пре- 
+позитивне положення емотивних складових по 
+відношенню до неемотивних елементів. Серед 
+ознак емотивного синтаксису С.В. Іонова особли- 
+во виділяє конструкції, наближені за своєю будо- 
+вою до зворотів розмовної мови: еліптичні речен- 
+ня, приєднувальні і парцельовані конструкції, 
+різні типи повторів [4, с. 72–73].
+   Метою цієї роботи є з’ясування функціональ- 
+них особливостей розмовного синтаксису у ро- 
+мані Дж. Р. Р. Толкіна «The Lord of the Rings». 
+Об’єктом дослідження є англійські розмовні 
+синтаксичні одиниці. Предметом досліджен- 
+ня є виявлення та розгляд особливостей функ- 
+ціонування розмовного синтаксису у романі 
+Дж. Р. Р. Толкіна «The Lord of the Rings».
+   Виклад основного матеріалу. Деякі важ- 
+ливі особливості розмовної мови породжені її пе- 
+реважно діалогічним характером. Синтаксична 
+специфіка розмовної мови полягає в тому, що 
+одиницею більшою, ніж речення, в діалогічному 
+мовленні є поєднання низки реплік, пов’язаних 
+структурно-семантичної взаємозумовленістю, що 
+називається діалогічною єдністю. У більшості ви- 
+падків це єдності двочленні – питально-відповідні, 
+з підхопленням, з повтором або синтаксично пара- 
+лельні. Цей зв’язок реплік є причиною поширення 
+односкладних речень [2, с. 353]. У нашій роботі ак- 
+центуємо увагу на дослідженні окремих функцій 
+розмовних синтаксичних одиниць у тексті роману 
+Дж. Р. Р. Толкіна «The Lord of the Rings».
+   Аналіз розмовних синтаксичних елементів до- 
+зволив з’ясувати, що роман Дж. Р. Р. Толкіна рясніє:
+   1) питально-відповідними єдностями з повто- 
+рами чи без них: “Then trust mine,” said Gandalf.
+
+
+“It is quite made up. Go away and leave it 
+behind. Stop possessing it. Give it to Frodo, and 
+I will look after him.” “All right,” he said with 
+an effort. “I will” [12, с. 34];
+   2) єдностями, утвореними з функцією під- 
+хоплення: “I don’t,” said Gandalf grimly. “It is 
+some time since I last heard the sound of your 
+shears. How long have you been 
+eavesdropping?” “Eavesdropping, sir? I don’t 
+follow you, begging your pardon. There ain’t no 
+eaves at Bag End, and that’s a fact.” [12, с. 63];
+   3) єдностями, утвореними з повтором: “O 
+Wise People!” interrupted Pippin eagerly. “Tell 
+us about the Black Riders!”“Black Riders?” 
+“Why do you ask about Black Riders?” [12, с. 
+81];
+   4) єдностями синтаксично паралельних 
+реплік: “Wait a minute!” cried Sam, struck by an 
+idea suggested by fire – wood. “We might do 
+something with fire!” “We might,” said Frodo 
+doubtfully. “We might succeed in roasting Pippin 
+alive inside” [12, с. 118].
+   Вважається, що як підхоплення, так і повтор 
+ви- ражають експресивну реакцію на слова 
+співрозмов- ника, але між ними є і певна 
+семантична і струк- турна різниця. 
+Підхоплення з повтором розвиває діалог, 
+містить нове повідомлення, інколи іроніч- но 
+спростовує перше, а повтор підсилює 
+експресію мовленнєвої репліки: “Whatever it 
+may do, it will be slow, slow to evil, if you keep 
+it with that purpose,” said Gandalf. “I hope so,” 
+said Frodo. “But I hope that you may find some 
+other better keeper soon. But in the meanwhile it 
+seems that I am a danger, a danger to all that 
+live near me. I cannot keep the Ring and stay 
+here. I ought to leave Bag End, leave the Shire, 
+leave everything and go away” [12, с. 62].
+   Підхоплення іноді перериває 
+співрозмовника і змінює напрямок діалогу:
+   “Well!” said Gandalf at last. “What are you 
+thinking about? Have you decided what to do?” 
+“No!” answered Frodo, “Or perhaps, yes. As 
+far as I understand what you have said, I 
+suppose I must keep the Ring and guard it...” 
+[12, с. 62].
+   Часто повтори обмежуються лише 
+оцінкою почутого і не передають нової 
+інформації: “Is everything ready?” asked Bilbo. 
+“Everything packed and labelled?” “Everything,” 
+they answered [12, с. 35]. Повтори-вигуки 
+виражають обурення, глузу- вання, іронію і 
+рідше позитивну реакцію: “Hoo, come now!” 
+said Treebeard. “Hoom, hm, ah well.” He 
+paused, looking long at the hobbits. “Hoom, ah,
+well I do not know what to say” [12, с.466].
+   Можливий повтор-перезапит наповнює 
+емоцій- ністю репліку персонажа: “I am leaving 
+everything to him, of course, except a few 
+oddments. I hope he will be happy. It’s time he 
+was his own master now.” “Everything?” said 
+Gandalf [12, с. 33].
+   А.В. Головня висуває логічну тезу про те, 
+що повторення головно використовуються у 
+діа- логічному мовленні для підвищення 
+емоцій- но-смислового тону висловлення, 
+хвилювання, спонукання, впевненості, 
+невпевненості, боязні, спонтанного 
+прийняття рішення [3, с. 129].
+   Наведемо виявлені ілюстрації емоційного 
+на- повнення повторень у розмовному 
+мовленні пер- сонажів роману «Володар 
+перснів»:
+   1. “I am not certain, so I will say no more. I 
+may be able to tell you something when I 
+come back. I am going off at once: so this is 
+good-bye for the present.”
+
+
+
+
+
+   “At once!” cried Frodo. “Why, I thought you were 
+staying on for at least a week. I was looking forward 
+to your help” [12, с. 40]. (хвилювання)
+   2. “So do I,” said Gandalf. “And I wonder many 
+other things. Goodbye now! Take care of yourself! 
+Look out for me, especially at unlikely times! Good- 
+bye!» [12, с. 31]. (спонукання)
+   3. «Put it out! Put it out!” cried Merry. “He’ll 
+squeeze me in two, if you don’t. He says so!” “Put it 
+out! Put it out!” begged Merry [12, с. 118]. (впев- 
+неність)
+   4. “Got you, Gorbag!” he cried. “Not quite dead, 
+eh? Well, I’ll finish my job now” [12, с. 906]. (не- 
+впевненість)
+   Трапляється перепитування зі скороченням 
+речення у розмовному мовленні персонажів 
+роману Дж. Р. Р. Толкіна: “How long have you 
+known all this?” asked Frodo again. “Known?” 
+said Gandalf. “I have known much that only the 
+Wise know, Frodo. But if you mean «known about 
+this ring», well…” [12, с. 47]. Подібно до того, як 
+речення, що не містять запитання, можуть бути 
+використані для отримання інформації, так само 
+можна використовувати питальні речення для 
+інших цілей, крім постановки питань [10, с. 2].
+   Очевидний стилістичний ефект досягається 
+при поєднанні повторення та емфатичних кон- 
+струкцій, наприклад, it is/was he/that, who: “And 
+they who dwell beyond the Sea would not receive 
+it: for good or ill it belongs to Middle-earth; it is for 
+us who still dwell here to deal with it” [12, с. 2].
+   Така комбінація стилістичних засобів спри- 
+яє акцентуації явища або процесу: It was Gil- 
+galad, Elven-king and Elendil of Westernesse 
+who overthrew Sauron, though they themselves 
+perished in the deed; and Isildur Elendil’s son cut 
+the Ring from Sauron’s hand and took it for his 
+own [12, с. 52].
+   Очевидний емотивний ефект досягається у ви- 
+користанні повторення синтаксичних одиниць. 
+Повторення може слугувати засобом створення 
+ефекту безкінечності, для створення емфатично- 
+го ефекту, для підтвердження впевненості у сво- 
+їх судженнях [3, с. 129] тощо.
+
+   
+
+Ефект безкінечності притаманний, зокрема, 
+репліці Сема з повторами sailing, sailing, sailing: 
+“They are sailing, sailing, sailing over the Sea, they 
+are going into the West and leaving us” [12, с. 45].
+   Емфатичного ефекту набуває висловлення Тома 
+завдяки повторенню merry dol зі зміною: “Hey! Come 
+merry dol! derry dol! My hearties!” [12, с. 128].
+   Підтвердження впевненості у своїх суджен- 
+нях спостерігається у такій репліці з повтором: 
+Ring a ding dillo! Wake now, my merry friends! 
+Forget the nightly noises! Ring a ding dillo del! 
+derry del, my hearties! [12, c. 128].
+   Поєднання різноманітних типів синтаксич- 
+них зв’язків передбачає створення відношень 
+в площині їхньої взаємодії: Then Bilbo would read 
+passages from his book (which still seemed very 
+incomplete), or scraps of his verses, or would take 
+notes of Frodo’s adventures [12, c. 277].
+   Висновки і пропозиції.   Аналіз   оди- 
+ниць розмовного синтаксису одиниць романі 
+Дж. Р. Р. Толкіна «The Lord of the Rings» набуває 
+особливого значення через його малодослідже- 
+ність. Розмовний компонент досліджуваного ро- 
+ману максимально наближений до реального мов- 
+лення завдяки використанню цілого комплексу 
+синтаксичних конструкцій розмовного характеру. 
+Дж. Р. Р. Толкін насичує свій твір різноманітними 
+розмовними синтаксичними елементами: оклич- 
+ними і питальними еліптичними реченнями, опу- 
+щенням структурних одиниць речення (підмета, 
+присудка, частини речення), повтореннями та ін.
+   Майстерне поєднання різних розмовних син- 
+таксичних структур дозволило письменнику ство- 
+рити інтенсивний емотивний ефект на читача 
+роману з допомогою застосування прийомів пере- 
+питувань, уточнення. Функціональні особливості 
+розмовних синтаксичних одиниць, зумовлених 
+конкретною ситуацією, уможливили відтворен- 
+ня різномаїття емоцій персонажів: хвилювання, 
+впевненість, невпевненість, спонукання.
+   Перспективним видається дослідження роз- 
+мовних синтаксичних засобів англомовних тво- 
+рів у площині з’ясування можливих способів і за- 
+собів їх відтворення в українському перекладі.
+
+
+Список літератури:
+1. Александрова О.В. Проблемы экспрессивного синтаксиса: на материале английского языка. Москва : 
+Книжный дом «ЛИБРОКОМ», 2008. 216 с.
+2. Арнольд И.В. Стилистика. Современный английский язык. 10-е изд., стер. Москва : Флинта, 2010. 384 с.
+3. Головня А.В. Особливості синтаксичної організації художньої прози Редьярда Кіплінга. Культура народов 
+Причерноморья. 2007. № 110. Т. 1. С. 128–130.
+4. Ионова С.В. Эмотивность текста как лингвистическая проблема : дис. канд. филол. наук. Волгоград, 1998. 
+197 с.
+5. Образцова Е.М. Линейная организация высказывания как межъязыковая универсалия (на материале ан- 
+глийского, русского и украинского языков) : монография. Одесса : Феникс, 2010. 400 с.
+6. Стилистика английского языка / А.Н. Мороховский, О.И. Воробьева, Н.И. Лихошерст, З.В. Тимошенко. 
+Киев : Высшая школа, 1991. 272 с.
+7. Стрельницкая Е.В. Синтаксические средства выражения эмоционального состояния персонажа и особен- 
+ности их использования при переводе художественных текстов с английского языка на русский. Известия 
+Санкт-Петербургского государственного экономического университета. 2010. № 3. С. 161–163.
+8. Торосян О. М. Прагматичний потенціал експресивного синтаксису. Science Review. 2018. № 2(9). Vol. 6. 
+Р. 94–99.
+9. Шаховский В.И. Категоризация эмоций в лексико-семантической системе языка. Воронеж : Изд-во Воронеж- 
+ского ун-та, 1987. 192 с.
+10.   Bilas Andriy (2019). Rendering Function Features of the French Colloquial Interrogative Constructions in 
+Ukrainian Fiction Translation. Advanced Education, Issue 12, pp. 188–195.
+11.   Leech G., Svartvik J. A. (1983). Communicative Grammar of English. Moscow : Prosvesheniye.
+12.   Tolkien J.R.R. (2005). The Lord of the Rings. Parts 1–3. N. Y. : Harper Collins Publishers.
+
+
+References:
+1. Alexandrova, O.V. (2008) Problemy ekspressivnogo sintaksisa: na materiale angliyskogo yazyka [Expressive 
+syntax problems: on the material of the English language]. Moscow: Book house “LIBROKOM”.
+2. Arnold, I.V. (2010). Stilistika. Sovremennyy angliyskiy yazyk [Stylistics. Modern English]. 10-e izd., ster. Moscow: Flinta.
+3. Golovnya, A.V. (2007). Osoblyvosti syntaksychnoyi organizaciyi xudozhnoyi prozy Redyarda Kiplinga [Features 
+of the syntactic organization of Rudyard Kipling's fiction]. Culture of the peoples of the Black Sea region, № 110, 
+vol. 1, pp. 128–130.
+4. Ionova, S.V. (1998). Emotivnost teksta kak lingvisticheskaya problema [Text emotiveness as a linguistic problem: dis]. 
+(PhD Thesis), Volgograd.
+5. Obraztsova, E.M. (2010). Lineynaya organizatsiya vyskazyvaniya kak mezhyazykovaya universaliya (na materiale 
+angliyskogo, russkogo i ukrainskogo yazykov) [Linear organization of utterance as an interlingual universal (based 
+on the material of English, Russian and Ukrainian languages)]. Odessa: Fenix.
+6. Stilistika angliyskogo yazyka [Stylistics of English] (1991). Morokhovsky A.N., Vorobyova O.I., Likhosherst N.I., 
+Tymoshenko Z.V. Kyiv: Vysshaya shkola.
+7. Strelnitskaya, E.V. (2010). Sintaksicheskie sredstva vyrazheniya emotsionalnogo sostoyaniya personazha i 
+osobennosti ikh ispolzovaniya pri perevode khudozhestvennykh tekstov s angliyskogo yazyka na russkiy [Syntactic 
+means of expressing the emotional state of a character and the peculiarities of their use in translating literary 
+texts from English into Russian]. Bulletin of the St. Petersburg State University of Economics, vol. 3, pp. 161–163.
+8. Torosyan, O.M. (2018). Pragmatychnyj potencial ekspresyvnogo syntaksysu. [Pragmatic potential of expressive 
+syntax]. Science Review, № 2(9), vol. 6, pp. 94–99.
+9. Shakhovsky, V.I. (1987). Kategorizatsiya emotsiy v leksiko-semanticheskoy sisteme yazyka. [Categorization of 
+emotions in the lexical-semantic system of the language]. Voronezh: Voronezh University Publishing House.
+10.   Bilas Andriy (2019). Rendering Function Features of the French Colloquial Interrogative Constructions in 
+Ukrainian Fiction Translation. Advanced Education, іssue 12, pp. 188–195.
+11.   Leech G., Svartvik J. A. (1983). Communicative Grammar of English. Moscow: Prosvesheniye.
+12.   Tolkien J.R.R. (2005). The Lord of the Rings. Parts 1–3. N. Y.: Harper Collins Publishers.
+
+
+«Молодий вчений» • № 9 (85) • вересень, 2020 р.
+DOI: https://doi.org/10.32839/2304-5809/2020-9-85-39 
+УДК 811.111’367’27:821-31Дж.Р.Р.Толкін
+Білас А.А., Цибеленко Ю.П.
+ДВНЗ «Прикарпатський національний університет імені Василя Стефаника»
+ФУНКЦІОНАЛЬНІ ОСОБЛИВОСТІ РОЗМОВНОГО СИНТАКСИСУ 
+У РОМАНІ ДЖ. Р. Р. ТОЛКІНА «THE LORD OF THE RINGS»
+Анотація. У статті розглядаються способи вираження функціональної природи одиниць англійського 
+розмовного синтаксису. Досліджено проблематику функціонування синтаксичних розмовних елементів 
+персонажного мовлення. З’ясовано особливості функціонального навантаження розмовних синтаксичних 
+одиниць у романі Дж. Р. Р. Толкіна «The Lord of the Rings». Функціональні ознаки розмовних речень 
+проявляються у плані перепитування, підхоплення, експресивної реакції, іронії, обурення, глузування. 
+Проаналізовано особливості функцій повторень у діалогічному мовленні: підвищення емоційності ви- 
+словлення, хвилювання, спонукання, впевненість, невпевненість, боязнь, спонтанне прийняття рішення.
+Ключові слова: англійське розмовне мовлення, художній текст, функціонування, розмовні синтаксичні 
+одиниці, функція повторень, функція підхоплення, функція підвищення емоційності висловлення.
+Bilas Andriy, Tsybelenko Yulia
+Vasyl Stefanyk Precarpatian National University
+THE FUNCTIONAL FEATURES OF COLLOQUIAL SYNTAX 
+IN J.R.R. TOLKIEN’S NOVEL “THE LORD OF THE RINGS”
+Summary. The article considers ways to express the functional nature of the English colloquial syntax units. 
+The examination of specific colloquial syntactic constructions by text analysis allows to establish the linguistic 
+basis of its expressiveness. The expressive means of conversational nature at the syntactic level are defined as 
+syntactic models of sentences that carry additional logical or expressive information that helps to increase the 
+pragmatic efficiency of expression. The problems of the syntactic colloquial elements functioning in character’s 
+speech are investigated. The syntactic specificity of colloquial language is that a unit larger than a sentence 
+in dialogic speech is a combination of a series of cues related to structural-semantic interdependence, called 
+dialogic unity. The syntactic stylistic means and techniques of conversational nature create a special organi- 
+zation of expression, which differs from the expression in a neutral form of presentation. The peculiarities of 
+the functional load of colloquial syntactic units in J.R.R. Tolkien’s novel “The Lord of the Rings” are clarified. 
+The conversational component of the studied novel is as close as possible to real speech due to the use of a 
+whole set of syntactic constructions of conversational nature. J.R.R. Tolkien saturates his work with various 
+colloquial syntactic elements: exclamatory and interrogative elliptical sentences, omission of structural units of 
+the sentence (subject, predicate, part of the sentence), etc. The functioning of colloquial sentences is manifest- 
+ed in requestioning, picking up, expressive reaction, irony, indignation, ridicule. The masterful combination 
+of different conversational syntactic structures allowed the writer to create an intense emotional effect on the 
+reader of the novel through the use of repetition techniques: increase of emotional expression, fear, spontane- 
+ous decision-making. The functional features of colloquial syntactic units, due to a specific situation, made it 
+possible to reproduce the variety of emotions of the characters: excitation, certainty, uncertainty, encouraging. 
+An important component of the emotional potential of the text at the syntactic level is the prepositional posi- 
+tion of the emotional components in relation to non-emotional elements.
+Keywords: English colloquial speech, fiction text, functioning, colloquial syntactic units, repetition function, 
+pickup function, function of increasing expression emotionality.
+
+
+
+Постановка наукової проблеми та її 
+значення. Сьогодні функціональна екс-
+пресія синтаксичних розмовних одиниць є одні- 
+єю з активно досліджуваних лінгвістичних явищ. 
+Експресивність розмовного синтаксису худож- 
+нього тексту розкриває мовну стратегію автора 
+і є одним із засобів мовного впливу на читача. 
+Така авторська експресія знаходить своє ви- 
+раження у відборі мовних засобів. Синтаксичні 
+стилістичні засоби та прийоми розмовного ха- 
+рактеру створюють особливу організацію ви- 
+словлювання, що відрізняється від висловлення 
+в нейтральній формі викладу [8, с. 95].
+   Аналіз останніх досліджень цієї про- 
+блеми. Питання стилістичних засобів загалом 
+і синтаксичних зокрема висвітлювалися такими
+
+
+
+мовознавцями як О.В. Александрова [1], І.В. Ар- 
+нольд [2], А.А. Білас [10], І.Р. Гальперін, А.В. Го- 
+ловня [3], С.В. Іонова [4], Дж. Ліч і Ж. Свартік 
+[11], В.А. Кухаренко, О.М. Мороховський [6], 
+М. Мюррей, Є.В. Стрельницкая [7], О.М. Торосян 
+[8], В.І. Шаховський [9] та ін.
+   Виразні засоби розмовного характеру на синтак- 
+сичному рівні визначаються як синтаксичні моделі 
+речень, що несуть додаткову логічну чи експресив- 
+ну інформацію, яка сприяє підвищенню прагматич- 
+ної ефективності висловлювання [6, с. 138].
+   Вираження емоційного стану персонажів є од- 
+нією з головних рис, що відрізняють художню лі- 
+тературу від інших літературних напрямів. Як 
+зазначає О.В. Александрова, хоча письменник 
+при створенні свого твору, мабуть, найменше ду-
+
+
+має про вживання тих чи інших конкретних син- 
+таксичних конструкцій, розгляд цих конструк- 
+цій шляхом аналізу тексту дозволяє встановити 
+лінгвістичні основи його виразності [1, с. 97–98]. 
+Застосування принципу розмежування елемен- 
+тів в структурі англійського розмовного речення 
+дозволяє систематизувати, уточнити і пояснити ба- 
+гато мовних явищ. Зокрема, це допомагає виявити 
+і систематизувати змістовно-рольові моделі речен- 
+ня, зіставити їх із структурно-синтаксичними мо-
+делями та їх лінійними варіантами [5, с. 80].
+   Виділення невирішених раніше частин 
+загальної проблеми. Зважаючи на значну 
+кількість праць, присвячених дослідженню різ- 
+них синтаксичних явищ, розмовний синтаксис 
+залишається малодослідженою галуззю мовоз- 
+навства, що пояснюється складністю зазначеної 
+проблематики.
+   При аналізі емотивно заряджених текстів по- 
+мічено, що певні емоції тяжіють до певних ко- 
+мунікативних типів висловлювання [7, c. 161].
+«Активні», чи, за визначенням І. Канта, стенічні, 
+емоції, такі як гнів, радість, здивування та ін., 
+мають тенденцію виражатися в окличних і за- 
+питально-окличних реченнях, а «пасивні», чи ас- 
+тенічні, емоції, такі як смуток, занепокоєння чи 
+нудьга, – в розповідних [9, c. 149; 11, c. 108–133]. 
+Дослідження емотивних текстів показало, що 
+в англійській мові є певні клішовані структури, 
+які тяжіють до емотивних текстів, лексикалізо- 
+вані фрази: how + nice, how / where / who / what / 
+why on earth, if only N + V [9, c. 149-150].
+   Також важливою складовою емотивного по- 
+тенціалу тексту на синтаксич-ному рівні є пре- 
+позитивне положення емотивних складових по 
+відношенню до неемотивних елементів. Серед 
+ознак емотивного синтаксису С.В. Іонова особли- 
+во виділяє конструкції, наближені за своєю будо- 
+вою до зворотів розмовної мови: еліптичні речен- 
+ня, приєднувальні і парцельовані конструкції, 
+різні типи повторів [4, с. 72–73].
+   Метою цієї роботи є з’ясування функціональ- 
+них особливостей розмовного синтаксису у ро- 
+мані Дж. Р. Р. Толкіна «The Lord of the Rings». 
+Об’єктом дослідження є англійські розмовні 
+синтаксичні одиниці. Предметом досліджен- 
+ня є виявлення та розгляд особливостей функ- 
+ціонування розмовного синтаксису у романі 
+Дж. Р. Р. Толкіна «The Lord of the Rings».
+   Виклад основного матеріалу. Деякі важ- 
+ливі особливості розмовної мови породжені її пе- 
+реважно діалогічним характером. Синтаксична 
+специфіка розмовної мови полягає в тому, що 
+одиницею більшою, ніж речення, в діалогічному 
+мовленні є поєднання низки реплік, пов’язаних 
+структурно-семантичної взаємозумовленістю, що 
+називається діалогічною єдністю. У більшості ви- 
+падків це єдності двочленні – питально-відповідні, 
+з підхопленням, з повтором або синтаксично пара- 
+лельні. Цей зв’язок реплік є причиною поширення 
+односкладних речень [2, с. 353]. У нашій роботі ак- 
+центуємо увагу на дослідженні окремих функцій 
+розмовних синтаксичних одиниць у тексті роману 
+Дж. Р. Р. Толкіна «The Lord of the Rings».
+   Аналіз розмовних синтаксичних елементів до- 
+зволив з’ясувати, що роман Дж. Р. Р. Толкіна рясніє:
+   1) питально-відповідними єдностями з повто- 
+рами чи без них: “Then trust mine,” said Gandalf.
+
+
+“It is quite made up. Go away and leave it 
+behind. Stop possessing it. Give it to Frodo, and 
+I will look after him.” “All right,” he said with 
+an effort. “I will” [12, с. 34];
+   2) єдностями, утвореними з функцією під- 
+хоплення: “I don’t,” said Gandalf grimly. “It is 
+some time since I last heard the sound of your 
+shears. How long have you been 
+eavesdropping?” “Eavesdropping, sir? I don’t 
+follow you, begging your pardon. There ain’t no 
+eaves at Bag End, and that’s a fact.” [12, с. 63];
+   3) єдностями, утвореними з повтором: “O 
+Wise People!” interrupted Pippin eagerly. “Tell 
+us about the Black Riders!”“Black Riders?” 
+“Why do you ask about Black Riders?” [12, с. 
+81];
+   4) єдностями синтаксично паралельних 
+реплік: “Wait a minute!” cried Sam, struck by an 
+idea suggested by fire – wood. “We might do 
+something with fire!” “We might,” said Frodo 
+doubtfully. “We might succeed in roasting Pippin 
+alive inside” [12, с. 118].
+   Вважається, що як підхоплення, так і повтор 
+ви- ражають експресивну реакцію на слова 
+співрозмов- ника, але між ними є і певна 
+семантична і струк- турна різниця. 
+Підхоплення з повтором розвиває діалог, 
+містить нове повідомлення, інколи іроніч- но 
+спростовує перше, а повтор підсилює 
+експресію мовленнєвої репліки: “Whatever it 
+may do, it will be slow, slow to evil, if you keep 
+it with that purpose,” said Gandalf. “I hope so,” 
+said Frodo. “But I hope that you may find some 
+other better keeper soon. But in the meanwhile it 
+seems that I am a danger, a danger to all that 
+live near me. I cannot keep the Ring and stay 
+here. I ought to leave Bag End, leave the Shire, 
+leave everything and go away” [12, с. 62].
+   Підхоплення іноді перериває 
+співрозмовника і змінює напрямок діалогу:
+   “Well!” said Gandalf at last. “What are you 
+thinking about? Have you decided what to do?” 
+“No!” answered Frodo, “Or perhaps, yes. As 
+far as I understand what you have said, I 
+suppose I must keep the Ring and guard it...” 
+[12, с. 62].
+   Часто повтори обмежуються лише 
+оцінкою почутого і не передають нової 
+інформації: “Is everything ready?” asked Bilbo. 
+“Everything packed and labelled?” “Everything,” 
+they answered [12, с. 35]. Повтори-вигуки 
+виражають обурення, глузу- вання, іронію і 
+рідше позитивну реакцію: “Hoo, come now!” 
+said Treebeard. “Hoom, hm, ah well.” He 
+paused, looking long at the hobbits. “Hoom, ah,
+well I do not know what to say” [12, с.466].
+   Можливий повтор-перезапит наповнює 
+емоцій- ністю репліку персонажа: “I am leaving 
+everything to him, of course, except a few 
+oddments. I hope he will be happy. It’s time he 
+was his own master now.” “Everything?” said 
+Gandalf [12, с. 33].
+   А.В. Головня висуває логічну тезу про те, 
+що повторення головно використовуються у 
+діа- логічному мовленні для підвищення 
+емоцій- но-смислового тону висловлення, 
+хвилювання, спонукання, впевненості, 
+невпевненості, боязні, спонтанного 
+прийняття рішення [3, с. 129].
+   Наведемо виявлені ілюстрації емоційного 
+на- повнення повторень у розмовному 
+мовленні пер- сонажів роману «Володар 
+перснів»:
+   1. “I am not certain, so I will say no more. I 
+may be able to tell you something when I 
+come back. I am going off at once: so this is 
+good-bye for the present.”
+
+
+
+
+
+   “At once!” cried Frodo. “Why, I thought you were 
+staying on for at least a week. I was looking forward 
+to your help” [12, с. 40]. (хвилювання)
+   2. “So do I,” said Gandalf. “And I wonder many 
+other things. Goodbye now! Take care of yourself! 
+Look out for me, especially at unlikely times! Good- 
+bye!» [12, с. 31]. (спонукання)
+   3. «Put it out! Put it out!” cried Merry. “He’ll 
+squeeze me in two, if you don’t. He says so!” “Put it 
+out! Put it out!” begged Merry [12, с. 118]. (впев- 
+неність)
+   4. “Got you, Gorbag!” he cried. “Not quite dead, 
+eh? Well, I’ll finish my job now” [12, с. 906]. (не- 
+впевненість)
+   Трапляється перепитування зі скороченням 
+речення у розмовному мовленні персонажів 
+роману Дж. Р. Р. Толкіна: “How long have you 
+known all this?” asked Frodo again. “Known?” 
+said Gandalf. “I have known much that only the 
+Wise know, Frodo. But if you mean «known about 
+this ring», well…” [12, с. 47]. Подібно до того, як 
+речення, що не містять запитання, можуть бути 
+використані для отримання інформації, так само 
+можна використовувати питальні речення для 
+інших цілей, крім постановки питань [10, с. 2].
+   Очевидний стилістичний ефект досягається 
+при поєднанні повторення та емфатичних кон- 
+струкцій, наприклад, it is/was he/that, who: “And 
+they who dwell beyond the Sea would not receive 
+it: for good or ill it belongs to Middle-earth; it is for 
+us who still dwell here to deal with it” [12, с. 2].
+   Така комбінація стилістичних засобів спри- 
+яє акцентуації явища або процесу: It was Gil- 
+galad, Elven-king and Elendil of Westernesse 
+who overthrew Sauron, though they themselves 
+perished in the deed; and Isildur Elendil’s son cut 
+the Ring from Sauron’s hand and took it for his 
+own [12, с. 52].
+   Очевидний емотивний ефект досягається у ви- 
+користанні повторення синтаксичних одиниць. 
+Повторення може слугувати засобом створення 
+ефекту безкінечності, для створення емфатично- 
+го ефекту, для підтвердження впевненості у сво- 
+їх судженнях [3, с. 129] тощо.
+
+   
+
+Ефект безкінечності притаманний, зокрема, 
+репліці Сема з повторами sailing, sailing, sailing: 
+“They are sailing, sailing, sailing over the Sea, they 
+are going into the West and leaving us” [12, с. 45].
+   Емфатичного ефекту набуває висловлення Тома 
+завдяки повторенню merry dol зі зміною: “Hey! Come 
+merry dol! derry dol! My hearties!” [12, с. 128].
+   Підтвердження впевненості у своїх суджен- 
+нях спостерігається у такій репліці з повтором: 
+Ring a ding dillo! Wake now, my merry friends! 
+Forget the nightly noises! Ring a ding dillo del! 
+derry del, my hearties! [12, c. 128].
+   Поєднання різноманітних типів синтаксич- 
+них зв’язків передбачає створення відношень 
+в площині їхньої взаємодії: Then Bilbo would read 
+passages from his book (which still seemed very 
+incomplete), or scraps of his verses, or would take 
+notes of Frodo’s adventures [12, c. 277].
+   Висновки і пропозиції.   Аналіз   оди- 
+ниць розмовного синтаксису одиниць романі 
+Дж. Р. Р. Толкіна «The Lord of the Rings» набуває 
+особливого значення через його малодослідже- 
+ність. Розмовний компонент досліджуваного ро- 
+ману максимально наближений до реального мов- 
+лення завдяки використанню цілого комплексу 
+синтаксичних конструкцій розмовного характеру. 
+Дж. Р. Р. Толкін насичує свій твір різноманітними 
+розмовними синтаксичними елементами: оклич- 
+ними і питальними еліптичними реченнями, опу- 
+щенням структурних одиниць речення (підмета, 
+присудка, частини речення), повтореннями та ін.
+   Майстерне поєднання різних розмовних син- 
+таксичних структур дозволило письменнику ство- 
+рити інтенсивний емотивний ефект на читача 
+роману з допомогою застосування прийомів пере- 
+питувань, уточнення. Функціональні особливості 
+розмовних синтаксичних одиниць, зумовлених 
+конкретною ситуацією, уможливили відтворен- 
+ня різномаїття емоцій персонажів: хвилювання, 
+впевненість, невпевненість, спонукання.
+   Перспективним видається дослідження роз- 
+мовних синтаксичних засобів англомовних тво- 
+рів у площині з’ясування можливих способів і за- 
+собів їх відтворення в українському перекладі.
+
+
+Список літератури:
+1. Александрова О.В. Проблемы экспрессивного синтаксиса: на материале английского языка. Москва : 
+Книжный дом «ЛИБРОКОМ», 2008. 216 с.
+2. Арнольд И.В. Стилистика. Современный английский язык. 10-е изд., стер. Москва : Флинта, 2010. 384 с.
+3. Головня А.В. Особливості синтаксичної організації художньої прози Редьярда Кіплінга. Культура народов 
+Причерноморья. 2007. № 110. Т. 1. С. 128–130.
+4. Ионова С.В. Эмотивность текста как лингвистическая проблема : дис. канд. филол. наук. Волгоград, 1998. 
+197 с.
+5. Образцова Е.М. Линейная организация высказывания как межъязыковая универсалия (на материале ан- 
+глийского, русского и украинского языков) : монография. Одесса : Феникс, 2010. 400 с.
+6. Стилистика английского языка / А.Н. Мороховский, О.И. Воробьева, Н.И. Лихошерст, З.В. Тимошенко. 
+Киев : Высшая школа, 1991. 272 с.
+7. Стрельницкая Е.В. Синтаксические средства выражения эмоционального состояния персонажа и особен- 
+ности их использования при переводе художественных текстов с английского языка на русский. Известия 
+Санкт-Петербургского государственного экономического университета. 2010. № 3. С. 161–163.
+8. Торосян О. М. Прагматичний потенціал експресивного синтаксису. Science Review. 2018. № 2(9). Vol. 6. 
+Р. 94–99.
+9. Шаховский В.И. Категоризация эмоций в лексико-семантической системе языка. Воронеж : Изд-во Воронеж- 
+ского ун-та, 1987. 192 с.
+10.   Bilas Andriy (2019). Rendering Function Features of the French Colloquial Interrogative Constructions in 
+Ukrainian Fiction Translation. Advanced Education, Issue 12, pp. 188–195.
+11.   Leech G., Svartvik J. A. (1983). Communicative Grammar of English. Moscow : Prosvesheniye.
+12.   Tolkien J.R.R. (2005). The Lord of the Rings. Parts 1–3. N. Y. : Harper Collins Publishers.
+
+
+References:
+1. Alexandrova, O.V. (2008) Problemy ekspressivnogo sintaksisa: na materiale angliyskogo yazyka [Expressive 
+syntax problems: on the material of the English language]. Moscow: Book house “LIBROKOM”.
+2. Arnold, I.V. (2010). Stilistika. Sovremennyy angliyskiy yazyk [Stylistics. Modern English]. 10-e izd., ster. Moscow: Flinta.
+3. Golovnya, A.V. (2007). Osoblyvosti syntaksychnoyi organizaciyi xudozhnoyi prozy Redyarda Kiplinga [Features 
+of the syntactic organization of Rudyard Kipling's fiction]. Culture of the peoples of the Black Sea region, № 110, 
+vol. 1, pp. 128–130.
+4. Ionova, S.V. (1998). Emotivnost teksta kak lingvisticheskaya problema [Text emotiveness as a linguistic problem: dis]. 
+(PhD Thesis), Volgograd.
+5. Obraztsova, E.M. (2010). Lineynaya organizatsiya vyskazyvaniya kak mezhyazykovaya universaliya (na materiale 
+angliyskogo, russkogo i ukrainskogo yazykov) [Linear organization of utterance as an interlingual universal (based 
+on the material of English, Russian and Ukrainian languages)]. Odessa: Fenix.
+6. Stilistika angliyskogo yazyka [Stylistics of English] (1991). Morokhovsky A.N., Vorobyova O.I., Likhosherst N.I., 
+Tymoshenko Z.V. Kyiv: Vysshaya shkola.
+7. Strelnitskaya, E.V. (2010). Sintaksicheskie sredstva vyrazheniya emotsionalnogo sostoyaniya personazha i 
+osobennosti ikh ispolzovaniya pri perevode khudozhestvennykh tekstov s angliyskogo yazyka na russkiy [Syntactic 
+means of expressing the emotional state of a character and the peculiarities of their use in translating literary 
+texts from English into Russian]. Bulletin of the St. Petersburg State University of Economics, vol. 3, pp. 161–163.
+8. Torosyan, O.M. (2018). Pragmatychnyj potencial ekspresyvnogo syntaksysu. [Pragmatic potential of expressive 
+syntax]. Science Review, № 2(9), vol. 6, pp. 94–99.
+9. Shakhovsky, V.I. (1987). Kategorizatsiya emotsiy v leksiko-semanticheskoy sisteme yazyka. [Categorization of 
+emotions in the lexical-semantic system of the language]. Voronezh: Voronezh University Publishing House.
+10.   Bilas Andriy (2019). Rendering Function Features of the French Colloquial Interrogative Constructions in 
+Ukrainian Fiction Translation. Advanced Education, іssue 12, pp. 188–195.
+11.   Leech G., Svartvik J. A. (1983). Communicative Grammar of English. Moscow: Prosvesheniye.
+12.   Tolkien J.R.R. (2005). The Lord of the Rings. Parts 1–3. N. Y.: Harper Collins Publishers.
+
+
+
+Bilas Andriy, Tsybelenko Yulia
+Vasyl Stefanyk Precarpatian National University
+THE FUNCTIONAL FEATURES OF COLLOQUIAL SYNTAX 
+IN J.R.R. TOLKIEN’S NOVEL “THE LORD OF THE RINGS”
+Summary. The article considers ways to express the functional nature of the English colloquial syntax units. 
+The examination of specific colloquial syntactic constructions by text analysis allows to establish the linguistic 
+basis of its expressiveness. The expressive means of conversational nature at the syntactic level are defined as 
+syntactic models of sentences that carry additional logical or expressive information that helps to increase the 
+pragmatic efficiency of expression. The problems of the syntactic colloquial elements functioning in character’s 
+speech are investigated. The syntactic specificity of colloquial language is that a unit larger than a sentence 
+in dialogic speech is a combination of a series of cues related to structural-semantic interdependence, called 
+dialogic unity. The syntactic stylistic means and techniques of conversational nature create a special organi- 
+zation of expression, which differs from the expression in a neutral form of presentation. The peculiarities of 
+the functional load of colloquial syntactic units in J.R.R. Tolkien’s novel “The Lord of the Rings” are clarified. 
+The conversational component of the studied novel is as close as possible to real speech due to the use of a 
+whole set of syntactic constructions of conversational nature. J.R.R. Tolkien saturates his work with various 
+colloquial syntactic elements: exclamatory and interrogative elliptical sentences, omission of structural units of 
+the sentence (subject, predicate, part of the sentence), etc. The functioning of colloquial sentences is manifest- 
+ed in requestioning, picking up, expressive reaction, irony, indignation, ridicule. The masterful combination 
+of different conversational syntactic structures allowed the writer to create an intense emotional effect on the 
+reader of the novel through the use of repetition techniques: increase of emotional expression, fear, spontane- 
+ous decision-making. The functional features of colloquial syntactic units, due to a specific situation, made it 
+possible to reproduce the variety of emotions of the characters: excitation, certainty, uncertainty, encouraging. 
+An important component of the emotional potential of the text at the syntactic level is the prepositional posi- 
+tion of the emotional components in relation to non-emotional elements.
+Keywords: English colloquial speech, fiction text, functioning, colloquial syntactic units, repetition function, 
+pickup function, function of increasing expression emotionality.
+
