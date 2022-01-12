@@ -1,0 +1,76 @@
+{
+    "corpus": [
+        {
+            "id": 1,
+            "type": "article",
+            "metadata": {
+                "journal": "",
+                "journal type": "",
+                "author": [],
+                "institution": "",
+                "title": [],
+                "doi": "",
+                "year": "",
+                "udc": "",
+                "keywords": {
+                    "in Ukrainian": [],
+                    "in English": [],
+                    "in russian": []
+                },
+                "annotation": {
+                    "in Ukrainian": "",
+                    "in English": "",
+                    "in russian": ""
+                },
+                "abbreviations": {
+                    "in Ukrainian": [],
+                    "in English": []
+                },
+                "sources": {
+                    "in Ukrainian": [],
+                    "in English": []
+                },
+                "references": {
+                    "in Ukrainian": [],
+                    "in English": []
+                }
+            },
+            "text": "",
+            "statistics": {
+                "text structure": {
+                    "number of words": 0,
+                    "number of sentences": 0,
+                    "number of paragraphs": 1,
+                    "number of drawings": 0,
+                    "number of tables": 0,
+                    "number of diagrams": 0,
+                    "number of graphs": 0,
+                    "number of lists": 0,
+                    "average word length": 0,
+                    "median word length": 0,
+                    "average sentence length in words": 0,
+                    "median sentence length in words": 0,
+                    "average paragraph length in sentences": 0,
+                    "median paragraph length in sentences": 0,
+                    "number of subordinate clauses": 0,
+                    "average number of subordinate clauses per sentence": 0,
+                    "median number of subordinate clauses per sentence": 0,
+                    "dictionary of subordinates with sentences": {},
+                    "number of functors": 0,
+                    "average number of functors per sentence": 0,
+                    "median number of functors per sentence": 0,
+                    "dictionary of functors": {},
+                    "number of -nnia nouns": 0,
+                    "average number of -nnia nouns": 0,
+                    "median number of -nnia nouns per sentence": 0,
+                    "dictionary of -nnia nouns": {},
+                    "number of cited words": 0,
+                    "number of peoples' mentions": 0,
+                    "list of peoples' mentions": []
+                },
+                "structure per paragraph": [],
+                "structure per sentence": []
+            }
+        }
+    ]
+}

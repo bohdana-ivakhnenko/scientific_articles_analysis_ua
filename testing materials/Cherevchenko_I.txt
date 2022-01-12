@@ -1,0 +1,842 @@
+{"corpus":
+    [{
+    "id": 1,
+    "type": "article",
+    "metadata": {
+        'journal': 'Українське мовознавство', 
+        'journal type': 'good', 
+        'author': ['Олександр Черевченко'], 
+        'institution': 'Уманський державний педагогічний університет імені Павла Тичини', 
+        'title': ['ОДОРАТИВНІ МАРКЕРИ ПОЕТИЧНОГО МОВЛЕННЯ ПОЧАТКУ ХХ СТОЛІТТЯ', 'ODOR MARKERS OF POETICAL SPEECH OF THE BEGINNING OF THE XX CENTURY'], 
+        'doi': 'https//doi.org/10.17721/um/49(2019).44-61', 
+        'year': 2019, 
+        'UDC': '811.161.2’37', 
+        'keywords': {'in Ukrainian': ['запах', 'одоративність', 'художній текст', 'поезія', 'смислова структура' 'тексту', 'підтекст', '“срібна доба”', 'український неокласицизм', 'ідіостиль', 'естетичне тло'], 'in English': ['smell', 'odor tools', 'artistic text', 'poetry', 'the structure of the text meaning', 'subtext', '“silver age”', 'ukrainian neoclassicism', 'idiostyle', 'aesthetic background'], 'in russian': ['']}, 
+        'annotation': {'in Ukrainian': 'Теоретично обґрунтовано значення запаху в людському пізнанні, проаналізовано погляди окремих науковців щодо цієї проблеми, розглянуто одоративні маркери художнього тексту як компоненти єдиної системи мовних і надмовних ідіозасобів, націлених на формування різних видів підтексту. Європейська поезія початку ХХ ст. цікава передусім прагненням створити нову поетичну мову, тому значна увага приділяється засобам одоративності, коли запах стає виразником естетичного тла твору. Одоративний зміст поетичного мовлення ХХ ст. – один із важливих засобів формування змістової глибини тексту, розкриття палітри його підтекстових смислів.', 'in English': 'The article deals with an attempt to characterize a smell in human knowledge, analyzed the points of view of different scientists concerning this problem, considered odor markers of the artistic text as components of united system of verbal and non verbal individual resources aimed at forming different types of subtext. The olfactory feeling occupies the special place in the vital functions of man. They arose up one of the first, next to taste, which provided the living organisms two basic functions: feed and reproduction. However, in the process of evolution, olfactory feelings experienced the biggest changes European poetry of the beginning of XX century is interesting in its aspiration to create a new poetical speech that is why the attention is adhered to odor instruments, when the smell became an expression of the esthetical subtext. Odor content of the poetical speech of the XX century is one of the most important tools of forming content deepness of the text meaning, disclosure of the palette of meanings.
+    The research is based on the material of poetry of representatives of Silver age and Ukrainian neoclassicists. The research proves that the most dynamic is lexical system of the language which helps to show ethnic language map of the world in artistic text. It studies the evolution of an individual author’s nomination in the poetic creativity of M. Rylsky, M. Zerov, Y. Klen, M. Dray-Hmara, P. Fylypovych, A. Block, N. Gumilov, A. Akchmatova, V. Maiakovski, S. Jesenin, V. Chlebnikov, O. Mandelshtam, M. Zvietaieva, V. Briusov and others. The paper examines the semantic-derivative structure of innovations of odor lexems, classifies the most numerous lexical and semantic groups of new words for identifying smell, and defines typical signs of odorous lexemes that represent the specific national language and poetic view of the world. Materials of the research can be used in teaching such subjects as “Modern Ukrainian Literary Language (lexicology, phraseology, lexicography)”, “Stylistics and Culture of the Ukrainian Language”, “Rhetoric and Linguistic Analysis of Artistic Text”, as well as special courses on ethnolinguistics, linguopoetics; for writing chapters devoted to the study of trope units, in textbooks and manuals; in lexicographic practice when compiling dictionaries of the writer’s language.', 'in russian': ''}, 
+    'abbreviations': {'in Ukrainian': '', 'in English': ''}, 
+    'sources': {'in Ukrainian': ['А – Ахматова А. Я – голос ваш… Москва : Кн. палата, 1989. 383 с. Г – Гумилев Н. Избранное. Москва : Просвещение, 1990. 383 с. Д-Х – Драй-Хмара М. Вибране. Київ : Дніпро, 1989. 542 с. Е – Есенин С. А. Стихотворения; Поэмы. Москва : Худож. лит., 1982. 479 с. З – Зеров М. К. Твори: у 2-х томах: Т. 1 Поезії. Переклади. Київ : Дніпро, 1990. 842 с. К – Клен Ю. Вибране. Київ : Дніпро, 1991. 461 с. МО – Мандельштам О. Э. Избранное. Смоленск: Русич, 2002. 448 с. МВ – Маяковский В. В. Сочинения в двух томах. Т. 1. Москва: Правда, 1987. 768 с. Р – Рильський М. Т. Зібрання творів у 20-ти томах. Т. 1. Київ : Наукова думка, 1983. 534 с. Ф – Филипович П. Поезії. Київ : Рад. письменник, 1989. 193 с. Х – Хлебников В. Творения. Москва : Сов. писатель, 1987. 736 с.'], 'in English': []}, 
+    'references': {'in Ukrainian': ['1. Балль X. Манифест к первому вечеру дадаистов в Цюрихе // Называть вещи своими именами: Программные выступления мастеров западноевропейской литературы XX века / X. Балль / Сост., предисл., общ. ред. Л. Г. Андреева. – М. : Прогресс, 1986. – С. 316–317.', '2. Белецкий А. И. Избранные статьи по теории литературы / А. И. Белецкий. – М. : Просвещение, 1964. – 478 с.', '3. Будагов Р. А. История слов и история общества / Р. А. Будагов. – М. : Просвещение, 1971. – 248 с.', '4. Гайдаєнко І. Стилістичні функції назв смаку й запаху в поезіях Яра Славутича / І. Гайдаєнко // Поетика Яра Славутича / Упоряд. І. Лопушинський. – Херсон, 2003. – С. 197–211.', '5. Гальчук О. Поетичне осмислення Миколою Зеровим світової культурної спадщини / О. Гальчук // Дивослово. – 1997. – № 8. – С. 5–7.', '6. Гундорова Т. Проявлення Слова. Дискурсія раннього українського модернізму. Постмодерна інтерпретація / Т. Гундорова. – Львів : Літопис, 1997. – 237 с.', '7. Дятчук В. В. Як передається в мові відчуття запаху / В. В. Дятчук // Культура слова. – 1978. – Вип. 15. – C. 35–42.', '8. Корчова-Тюрина С. Н. Проблема маргинальных форм в европейской культурной сенсорике : дис. … канд. филос. наук / С. Н. Корчова-Тюрина. – Харків, 2001. – 223 с.', '9. Плужников М. С. Среди запахов и звуков / М. С. Плужников, С. В. Рязанцев. – М. : Молодая гвардия, 1991. – 213 с.', '10. Плужникова Т. И. Ароматизмы в языке и речи: к постановке проблемы / Т. И. Плужникова // Вісн. Уманського педун-ту. Філологія (мовознавство): Зб. наук. праць / В. Г. Кузь (гол. ред.) та ін. – К. : Знання України, 2004. – С. 171–177.', '11. Психологический словарь / под ред. В. П. Зинченко, Б. Г. Мещерякова. – М. : Педагогика Прес, 2001. – 440 с.', '12. Словарь литературоведческих терминов / ред. и сост. Л. И. Тимофеев, С. В. Тураев. – М. : Просвещение, 1974. – 487 с.', '13. Ставицька Л. О. Естетика слова в українській поезії 10–30-х pp. XX ст. – К. : Правда Ярославичів, 2000. – 156 с.', '14. Франко І. Я. Iз секретiв поетичної творчостi. Зібр. творів : У 50-ти т. – К. : Наукова думка, 1980. – Т. 37. – 489 с.', '15. Шапар В. Психологічний тлумачний словник / В. Шапар. – Х. : Прапор, 2004. – 365 с.'], 'in English': ['1. Ball Kh. (1986) Manifest k pervomu vecheru dadaistov v Tsyurihe [Manifest by the first evening of Dadaists in Zurich]. Nazyivat veschi svoimi imenami: Programmnyie vyistupleniya masterov zapadnoevropeyskoy literaturyi XX veka. Moskow: Progress, pp. 316–317 (in Russian).', '2. Beletskiy A. I. (1964) Izbrannyie stati po teorii literatury [Selected articles on the theory of literature]. Moskow: Prosveschenie, 478 p. (in Russian).', '3. Budagov R. A. (1971) Istoriya slov i istoriya obschestva [The history of words and the history of society]. Moskow: Prosveschenie, 248 p. (in Russian).', '4. Haidaienko I. (2003) Stylistychni funktsii nazv smaku y zapakhu v po-eziiakh Yara Slavutycha [Stylistic functions of the names of taste and smell in Yar Slavutych’s poetry]. Poetyka Yara Slavutycha (ed. I. Lopushynskyi). Kherson, pp. 197–211 (in Ukrainian).', '5. Halchuk O. (1997) Poetychne osmyslennia Mykoloiu Zerovym svitovoi kulturnoi spadshchyny [Poetical Understanding by Mykola Zerov of the World Cultural Heritage]. Dyvoslovo, no 8, pp. 5–7 (in Ukrainian).', '6. Hundorova T. (1997) Proiavlennia Slova. Dyskursiia rannoho ukrainskoho modernizmu. Postmoderna interpretatsiia [Manifestation of the Word. The Discourse of Early Ukrainian Modernism. Postmodern interpretation]. Lviv, 237 p. (in Ukrainian).', '7. Diatchuk V.V. (1978) Yak peredaietsia v movi vidchuttia zapakhu [How is the sense of smell transmitted in the language]. Kultura slova, vol. 15, pp. 35–42 (in Ukrainian).', '8. Korchova-Tyurina S.N. (2001) Problema marginalnyih form v evro-peyskoy kulturnoy sensorike [The problem of marginal forms in the European cultural sensor] (PhD Thesis). Harkov, 223 p. (in Russian).', '9. Pluzhnikov M.S., Ryazantsev S.V. (1991) Sredi zapahov i zvukov [Among the smells and sounds]. Moskow: Molodaya gvardiya, 213 p. (in Russian).', '10. Pluzhnikova T.I. (2004) Aromatizmyi v yazyike i rechi: k postanovke problemyi [Aromasms in language and speech: to the problem statement]. Visnyk Umanskoho peduniversytetu. Filolohiia (movoznavstvo). Kyiv: Znannia Ukrainy, pp. 171–177 (in Russian).', '11. Zinchenko V.P., Mescheryakova B.G. (eds.) (2001) Psihologicheskiy slovar [Psychological Dictionary]. Moskow: Pedagogika Pres, 440 p. (in Russian).', '12. Timofeev L.I., Turaev S.V. (1974) Slovar literaturovedcheskih terminov [Dictionary of Literary Terms]. Moskow: Prosveschenie, 487 p. (in Russian).', '13. Stavytska L. O. (2000) Estetyka slova v ukrainskii poezii 10-30 pp. XX st. [Aesthetics of the word in Ukrainian poetry in 10–30th of XX century]. Kyiv: Pravda Yaroslavychiv, 156 p. (in Ukrainian).', '14. Franko I. Ya. (1980) Iz sekretiv poetychnoi tvorchosti. Zibr. tvoriv: U 50 t. [From the secrets of poetic creativity]. Vol.', '37. Kyiv: Naukova dumka, 489 p. (in Ukrainian).', '15. Shapar V. (2004) Psykholohichnyi tlumachnyi slovnyk [Psychological Explanatory Dictionary]. Kharkiv: Prapor, 365 p. (in Ukrainian).']
+    }},
+    "text": ''' Українське мовознавство. №1(49)/2019
+УДК 811.161.2’37 https//doi.org/10.17721/um/49(2019).44-61
+    Олександр Черевченко, канд. філол. наук, Уманський державний педагогічний університет імені Павла Тичини, Умань
+ОДОРАТИВНІ МАРКЕРИ ПОЕТИЧНОГО МОВЛЕННЯ
+ПОЧАТКУ ХХ СТОЛІТТЯ
+    Художньо-образна структура поетичного твору складна й багатокомпонентна, вона утворюється з найрізноманітніших чинників, серед яких центральне місце посідають типові символи довкілля, широкий спектр онімічних одиниць, номінації об’єктів біосфери, кольороназви, темпоральні, звукові та одоративні образи. Їхнє філософське розуміння підпорядковане авторській ідеї, прагненню відтворити сутнісні ознаки індивідуального уявлення про світ.
+    Одоративний складник довкілля в мові та мистецтві частково розглядали В. Виноградов, Ю. Лотман, О. Потебня, Н. Букс, М. Велер, В. Дятчук, С. Александрова, І. Гайдаєнко, В. Сидельніков, Л. Ставицька, А. Пермінова, А. Вежбицька, Л. Соболєва й ін. Відсутність систематизованого опису, висвітлення різноманітних рецептивних ознак одоративних образів у поетичному мовленні початку ХХ ст. зумовлюють актуальність цього дослідження.
+    Мета дослідження полягає в тому, щоб на основі описового та концептуального аналізів виявити ознаки одоративних найменувань у європейському поетичному мовленні початку ХХ ст.
+    Актуальною ця тема є для вчених-філософів. “У філософській антропонімії та у філософії культури загалом культурна сенсорика (культура відчуттів) викликає все більший і більший інтерес. Сучасна ситуація передбачає повернення до одоративного складника світу” [Корчова-Тюрина : 3]. Філософська оцінка аромату пов’язана з дослідженнями феноменології сприйняття в роботах Е. Гуссерля, М. Мерло-Понті, Д. Гібсона, В. Подороги та інших. Усе більший інтерес викликає культура відчуттів, не залишилися осторонь від вивчення запахів і культурологи (Є. Жирицька, О. Левінсон, Г. Кабакова, О. Кушліна, Р. Кірсанова тощо).
+    Мовна картина світу – це відображення людських думок і почуттів, які “цікавлять лінгвіста в тій мірі, в якій вони мають певні форми і типи вираження у самій мові” [Будагов : 3]. Існує декілька нелінгвістичних характеристик запахів: ще в 1756 р. Карл Лінней запропонував свою класифікацію, розділивши всі запахи на сім класів, Х. Цваардемакер поділив усі одоративні речовини на девʼять класів (він опублікував перший варіант своєї одоративної системи в 1895 р., а остаточний – у 1914 р.). Досить широко використовується класифікація запахів Крокера і Хендерсона, яка базується на виділенні чотирьох основних запахів: ароматного, кислого, паленого та каприлового (у перекладі з латинської – “козлиного”). Відповідно до “нюхової призми” Хенінга (1924) визначають кілька відтінків нюху: квітковий, фруктовий, пряний, смолистий і пригорілий. Проте, як пишуть М. Плужников і С. Рязанцев, “поки що не маємо науково обґрунтованої системи класифікації запахів. Незважаючи на значні досягнення хімії та фізіології, це питання залишається відкритим. Мабуть, створити чітку систему класифікації запахів буде можливо тільки тоді, коли буде створена єдина, науково обґрунтована теорія нюху” [Плужников : 19].
+    Т. Плужникова, досліджуючи мовний матеріал творів М. Булгакова, схематично визначила декілька розрядів одоративних слів:
+1) запах окремих предметів;
+2) запах приміщення;
+3) запах парфумів та інших ароматичних речовин;
+4) запах ліків;
+5) запах гостро пахучих речовин;
+6) запах їжі;
+7) запах диму;
+8) запах рослин;
+9) фізіологічні запахи;
+10) запах тварин;
+11) запах реалій, що не мають запаху (напр.: повітря, абстрактних понять тощо [Плужникова : 171–177].
+Одоративні відчуття надзвичайно складні за своєю природою, бо позбавлені власного лексичного спектру, одоративні емоції знаходять підтримку в суміжних відчуттях, у характеристичних означеннях і, звичайно, у тому референтному полі, за яким закріплений реальний чи уявний запах. Останнє і робить одоративну сферу буття індивіда асоціативною за визначенням. Важко не погодитись із такою кваліфікацією запаху: “запах діє, як музика: він звернений до підсвідомого, викликає в нашій уяві мрії й спогади наперекір бажанням нашого розумового “я”, володіє значною силою навіювання, його вплив ірраціональний. Запах сам по собі може виникати як спогад і вести за собою напівстерті, але раптом оживаючі, уявлення про форми, звуки” [Белецкий : 217].
+1. Безпосередня фіксація одоративних вражень, які зумовлені конкретним фактом дійсності, напр.: Журчит вода, протачивая шлюзы, / Сырой травою пахнет мгла (Г, 89), Вот луг, где сладкий запах меда / Смешался с запахом болот (Г, 105), Свежих лилий аромат (А, 20), Всё сильнее запах тёплый / Мёртвой лебеды (А, 20), Прокисший воздух плесенью веет (МВ, 72), Пахнет уксусом, краской и свежим вином из подвала (МО, 174), Тонкий воздух кожи (МО, 199).
+    Окремі автори, прагнучи до відтворення тогочасної реальної дійсності, виважено використовують одоративні образи урбаністичного походження, напр.: Бензина запах и сирени, / Насторожившийся покой (А, 42), інші – через зображення селянського побуту прагнуть увиразнити національний колорит, напр.: Пахнет рыхлыми драченами: / У порога в дежке квас (Е, 38), і навіть зберегти релігійний контекст образів: Пахнет яблоком и медом / По церквам твой кроткий спас (Е, 40).
+2. Запахові властивості надаються реаліям, за якими в художній уяві поета закріплені конкретні джерела запаху: Черёмуха душистая / С весною расцвела (Е, 61), Пьяный пах медових сот (Е, 67), Свежий ветер моря (Г, 114), Едкий, душный запах дёгтя (А, 36), Сладок запах синих виноградин (А, 20), Пахнет дымом бедная овчина (МО, 205), С розоватым винным паром / Полетит шашлычный дым (МО, 206), Кому душистое с корицею вино (МО, 217), Лесным пахучим мёдом (Х, 75). Науковці вважають, що словесно-образні формули типу запашна весна (осінь), пахне вітер, пахучий вітер становлять собою самоцінний і самодостатній образ у художньому тексті.
+    Таким чином, одоративні відчуття допомагають глибше, яскравіше розпізнати складну психологію поезії людських почуттів, характерів, зрозуміти соціальні події, відчути їх значення та вагу. У міру того, як збільшувалося вживання лексики зі значенням ‘запах’, зростала і її функціонально-стилістична роль.
+    Джерела
+А – Ахматова А. Я – голос ваш… Москва : Кн. палата, 1989. 383 с. Г – Гумилев Н. Избранное. Москва : Просвещение, 1990. 383 с. Д-Х – Драй-Хмара М. Вибране. Київ : Дніпро, 1989. 542 с. Е – Есенин С. А. Стихотворения; Поэмы. Москва : Худож. лит., 1982. 479 с. З – Зеров М. К. Твори: у 2-х томах: Т. 1 Поезії. Переклади. Київ : Дніпро, 1990. 842 с. К – Клен Ю. Вибране. Київ : Дніпро, 1991. 461 с. МО – Мандельштам О. Э. Избранное. Смоленск: Русич, 2002. 448 с. МВ – Маяковский В. В. Сочинения в двух томах. Т. 1. Москва: Правда, 1987. 768 с. Р – Рильський М. Т. Зібрання творів у 20-ти томах. Т. 1. Київ : Наукова думка, 1983. 534 с. Ф – Филипович П. Поезії. Київ : Рад. письменник, 1989. 193 с. Х – Хлебников В. Творения. Москва : Сов. писатель, 1987. 736 с.
+    Література
+1. Балль X. Манифест к первому вечеру дадаистов в Цюрихе // Называть вещи своими именами: Программные выступления мастеров западноевропейской литературы XX века / X. Балль / Сост., предисл., общ. ред. Л. Г. Андреева. – М. : Прогресс, 1986. – С. 316–317.
+2. Белецкий А. И. Избранные статьи по теории литературы / А. И. Белецкий. – М. : Просвещение, 1964. – 478 с.
+3. Будагов Р. А. История слов и история общества / Р. А. Будагов. – М. : Просвещение, 1971. – 248 с.
+4. Гайдаєнко І. Стилістичні функції назв смаку й запаху в поезіях Яра Славутича / І. Гайдаєнко // Поетика Яра Славутича / Упоряд. І. Лопушинський. – Херсон, 2003. – С. 197–211.
+5. Гальчук О. Поетичне осмислення Миколою Зеровим світової культурної спадщини / О. Гальчук // Дивослово. – 1997. – № 8. – С. 5–7.
+6. Гундорова Т. Проявлення Слова. Дискурсія раннього українського модернізму. Постмодерна інтерпретація / Т. Гундорова. – Львів : Літопис, 1997. – 237 с.
+7. Дятчук В. В. Як передається в мові відчуття запаху / В. В. Дятчук // Культура слова. – 1978. – Вип. 15. – C. 35–42.
+8. Корчова-Тюрина С. Н. Проблема маргинальных форм в европейской культурной сенсорике : дис. … канд. филос. наук / С. Н. Корчова-Тюрина. – Харків, 2001. – 223 с.
+9. Плужников М. С. Среди запахов и звуков / М. С. Плужников, С. В. Рязанцев. – М. : Молодая гвардия, 1991. – 213 с.
+10. Плужникова Т. И. Ароматизмы в языке и речи: к постановке проблемы / Т. И. Плужникова // Вісн. Уманського педун-ту. Філологія (мовознавство): Зб. наук. праць / В. Г. Кузь (гол. ред.) та ін. – К. : Знання України, 2004. – С. 171–177.
+11. Психологический словарь / под ред. В. П. Зинченко, Б. Г. Мещерякова. – М. : Педагогика Прес, 2001. – 440 с.
+12. Словарь литературоведческих терминов / ред. и сост. Л. И. Тимофеев, С. В. Тураев. – М. : Просвещение, 1974. – 487 с.
+13. Ставицька Л. О. Естетика слова в українській поезії 10–30-х pp. XX ст. – К. : Правда Ярославичів, 2000. – 156 с.
+14. Франко І. Я. Iз секретiв поетичної творчостi. Зібр. творів : У 50-ти т. – К. : Наукова думка, 1980. – Т. 37. – 489 с.
+15. Шапар В. Психологічний тлумачний словник / В. Шапар. – Х. : Прапор, 2004. – 365 с.
+    References
+1. Ball Kh. (1986) Manifest k pervomu vecheru dadaistov v Tsyurihe [Manifest by the first evening of Dadaists in Zurich]. Nazyivat veschi svoimi imenami: Programmnyie vyistupleniya masterov zapadnoevropeyskoy literaturyi XX veka. Moskow: Progress, pp. 316–317 (in Russian).
+2. Beletskiy A. I. (1964) Izbrannyie stati po teorii literatury [Selected articles on the theory of literature]. Moskow: Prosveschenie, 478 p. (in Russian).
+3. Budagov R. A. (1971) Istoriya slov i istoriya obschestva [The history of words and the history of society]. Moskow: Prosveschenie, 248 p. (in Russian).
+4. Haidaienko I. (2003) Stylistychni funktsii nazv smaku y zapakhu v po-eziiakh Yara Slavutycha [Stylistic functions of the names of taste and smell in Yar Slavutych’s poetry]. Poetyka Yara Slavutycha (ed. I. Lopushynskyi). Kherson, pp. 197–211 (in Ukrainian).
+5. Halchuk O. (1997) Poetychne osmyslennia Mykoloiu Zerovym svitovoi kulturnoi spadshchyny [Poetical Understanding by Mykola Zerov of the World Cultural Heritage]. Dyvoslovo, no 8, pp. 5–7 (in Ukrainian).
+6. Hundorova T. (1997) Proiavlennia Slova. Dyskursiia rannoho ukrainskoho modernizmu. Postmoderna interpretatsiia [Manifestation of the Word. The Discourse of Early Ukrainian Modernism. Postmodern interpretation]. Lviv, 237 p. (in Ukrainian).
+7. Diatchuk V.V. (1978) Yak peredaietsia v movi vidchuttia zapakhu [How is the sense of smell transmitted in the language]. Kultura slova, vol. 15, pp. 35–42 (in Ukrainian).
+8. Korchova-Tyurina S.N. (2001) Problema marginalnyih form v evro-peyskoy kulturnoy sensorike [The problem of marginal forms in the European cultural sensor] (PhD Thesis). Harkov, 223 p. (in Russian).
+9. Pluzhnikov M.S., Ryazantsev S.V. (1991) Sredi zapahov i zvukov [Among the smells and sounds]. Moskow: Molodaya gvardiya, 213 p. (in Russian).
+10. Pluzhnikova T.I. (2004) Aromatizmyi v yazyike i rechi: k postanovke problemyi [Aromasms in language and speech: to the problem statement]. Visnyk Umanskoho peduniversytetu. Filolohiia (movoznavstvo). Kyiv: Znannia Ukrainy, pp. 171–177 (in Russian).
+11. Zinchenko V.P., Mescheryakova B.G. (eds.) (2001) Psihologicheskiy slovar [Psychological Dictionary]. Moskow: Pedagogika Pres, 440 p. (in Russian).
+12. Timofeev L.I., Turaev S.V. (1974) Slovar literaturovedcheskih terminov [Dictionary of Literary Terms]. Moskow: Prosveschenie, 487 p. (in Russian).
+13. Stavytska L. O. (2000) Estetyka slova v ukrainskii poezii 10-30 pp. XX st. [Aesthetics of the word in Ukrainian poetry in 10–30th of XX century]. Kyiv: Pravda Yaroslavychiv, 156 p. (in Ukrainian).
+14. Franko I. Ya. (1980) Iz sekretiv poetychnoi tvorchosti. Zibr. tvoriv: U 50 t. [From the secrets of poetic creativity]. Vol.
+37. Kyiv: Naukova dumka, 489 p. (in Ukrainian).
+15. Shapar V. (2004) Psykholohichnyi tlumachnyi slovnyk [Psychological Explanatory Dictionary]. Kharkiv: Prapor, 365 p. (in Ukrainian).
+    Oleksandr Cherevchenko, Candidate of Philology, Doc. Pavlo Tychyna Uman State Pedagogical University, Uman
+ODOR MARKERS OF POETICAL SPEECH OF THE BEGINNING OF THE XX CENTURY
+    The article deals with an attempt to characterize a smell in human knowledge, analyzed the points of view of different scientists concerning this problem, considered odor markers of the artistic text as components of united system of verbal and non verbal individual resources aimed at forming different types of subtext. The olfactory feeling occupies the special place in the vital functions of man. They arose up one of the first, next to taste, which provided the living organisms two basic functions: feed and reproduction. However, in the process of evolution, olfactory feelings experienced the biggest changes European poetry of the beginning of XX century is interesting in its aspiration to create a new poetical speech that is why the attention is adhered to odor instruments, when the smell became an expression of the esthetical subtext. Odor content of the poetical speech of the XX century is one of the most important tools of forming content deepness of the text meaning, disclosure of the palette of meanings.
+    The research is based on the material of poetry of representatives of Silver age and Ukrainian neoclassicists. The research proves that the most dynamic is lexical system of the language which helps to show ethnic language map of the world in artistic text. It studies the evolution of an individual author’s nomination in the poetic creativity of M. Rylsky, M. Zerov, Y. Klen, M. Dray-Hmara, P. Fylypovych, A. Block, N. Gumilov, A. Akchmatova, V. Maiakovski, S. Jesenin, V. Chlebnikov, O. Mandelshtam, M. Zvietaieva, V. Briusov and others. The paper examines the semantic-derivative structure of innovations of odor lexems, classifies the most numerous lexical and semantic groups of new words for identifying smell, and defines typical signs of odorous lexemes that represent the specific national language and poetic view of the world. Materials of the research can be used in teaching such subjects as “Modern Ukrainian Literary Language (lexicology, phraseology, lexicography)”, “Stylistics and Culture of the Ukrainian Language”, “Rhetoric and Linguistic Analysis of Artistic Text”, as well as special courses on ethnolinguistics, linguopoetics; for writing chapters devoted to the study of trope units, in textbooks and manuals; in lexicographic practice when compiling dictionaries of the writer’s language.
+    Key words: smell, odor tools, artistic text, poetry, the structure of the text meaning, subtext, “silver age”, ukrainian neoclassicism, idiostyle, aesthetic background.
+    Стаття надійшла до редколегії 29.04.19''',
+    "statistics": {
+        "text structure": {
+            "number of words": 792,
+            "number of sentences": 28,
+            "number of paragraphs": 11,
+            "number of drawings": 0,
+            "number of tables": 0,
+            "number of diagrams": 0,
+            "number of graphs": 0,
+            "number of lists": 2,
+            "average word length": 6.83,
+            "median word length": 7,
+            "average sentence length in words": 36.04,
+            "median sentence length in words": 22,
+            "average paragraph length in sentences": 2.55,
+            "median paragraph length in sentences": 2,
+            "number of subordinate clauses": 16,
+            "average number of subordinate clauses per sentence": 0.63,
+            "median number of subordinate clauses per sentence": 0,
+            "dictionary of subordinates": {'серед яких': 1, 'щоб': 1, 'коли': 1, 'як': 3, 'яка': 1, 'які': 2, 'в якій': 1, 'що не': 1, 'бо': 1, 'за яким': 1, 'за якими': 1, 'кому': 1, 'що': 1},
+            "number of functors": 86,
+            "average number of functors per sentence": 2.91,
+            "median number of functors per sentence": 3,
+            "dictionary of functors": {'й': 3, 'з': 3, 'та': 9, 'про': 2, 'в': 11, 'у': 10,'щоб': 1,'на': 5, 'для': 1, 'і': 13, 'до': 4, 'не': 4, 'від': 1, 'це': 2, 'а': 1, 'що': 3, 'тільки': 1, 'коли': 1, 'за': 5, 'чи': 1, 'по': 1, 'але': 1, 'через': 1, 'навіть': 1, 'зі': 1},
+            "number of -nnia nouns": 32,
+            "average number of -nnia nouns per sentence": 1.41,
+            "median number of -nnia nouns per sentence": 1,
+            "dictionary of -nnia nouns": {'розуміння': 1, 'прагнення': 1, 'уявлення': 2, 'висвітлення': 1, 'мовлення': 2, 'дослідження': 3, 'найменування': 1, 'відчуття': 2, 'повернення': 1, 'сприйняття': 1, 'вивчення': 1, 'відображення': 1, 'почуття': 1, 'вираження': 1, 'виділення': 1, 'досягнення': 1, 'питання': 1, 'приміщення': 1, 'поняття': 1, 'означення': 1, 'бажання': 1, 'навіювання': 1, 'враження': 1, 'відтворення': 1, 'походження': 1, 'зображення': 1, 'вживання': 1},
+            "number of cited words": 234,
+            "number of peoples' mentions": 31,
+            "list of peoples' mentions": ['В. Виноградов', 'Ю. Лотман', 'О. Потебня', 'Н. Букс', 'М. Велер', 'В. Дятчук', 'С. Александрова', 'І. Гайдаєнко', 'В. Сидельніков', 'Л. Ставицька', 'А. Пермінова', 'А. Вежбицька', 'Л. Соболєва', 'Е. Гуссерля', 'М. Мерло-Понті', 'Д. Гібсона', 'В. Подороги', 'Є. Жирицька', 'О. Левінсон', 'Г. Кабакова', 'О. Кушліна', 'Р. Кірсанова', 'Карл Лінней', 'Х. Цваардемакер', 'Крокера', 'Хендерсона', 'Хенінга', 'М. Плужников', 'С. Рязанцев', 'Т. Плужникова', 'М. Булгакова'],
+            },
+        "structure per paragraph": [{
+            "paragraph number": 1,
+            "number of words": 47,
+            "number of sentences": 2,
+            "number of lists": 0,
+            "average word length": 8.075,
+            "median word length": 8,
+            "average sentence length in words": 23.5,
+            "median sentence length in words": 23.5,
+            "number of subordinate clauses": 1,
+            "average number of subordinate clauses per sentence": 0.5,
+            "median number of subordinate clauses per sentence": 0.5,
+            "dictionary of subordinates": {'серед яких': 1},
+            "number of functors": 4,
+            "average number of functors per sentence": 2,
+            "median number of functors per sentence": 2,
+            "dictionary of functors": {'й': 1, 'з': 1, 'та': 1, 'про': 1},
+            "number of -nnia nouns": 3,
+            "average number of -nnia nouns per sentence": 1.5,
+            "median number of -nnia nouns per sentence": 1.5,
+            "dictionary of -nnia nouns": {'розуміння': 1, 'прагнення': 1, 'уявлення': 1},
+            "number of words cited": 0,
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "paragraph text": 'Художньо-образна структура поетичного твору складна й багатокомпонентна, вона утворюється з найрізноманітніших чинників, серед яких центральне місце посідають типові символи довкілля, широкий спектр онімічних одиниць, номінації об’єктів біосфери, кольороназви, темпоральні, звукові та одоративні образи. Їхнє філософське розуміння підпорядковане авторській ідеї, прагненню відтворити сутнісні ознаки індивідуального уявлення про світ.'
+            }, {
+            "paragraph number": 2,
+            "number of words": 56,
+            "number of sentences": 2,
+            "number of lists": 0,
+            "average word length": 8.19,
+            "median word length": 8.5,
+            "average sentence length in words": 28,
+            "median sentence length in words": 28,
+            "number of subordinate clauses": 0,
+            "average number of subordinate clauses per sentence": 0,
+            "median number of subordinate clauses per sentence": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 4,
+            "average number of functors per sentence": 2,
+            "median number of functors per sentence": 2,
+            "dictionary of functors": {'в': 1, 'та': 1, 'й': 1, 'у': 1},
+            "number of -nnia nouns": 3,
+            "average number of -nnia nouns per sentence": 1.5,
+            "median number of -nnia nouns per sentence": 1.5,
+            "dictionary of -nnia nouns": {'висвітлення': 1, 'мовлення': 1, 'дослідження': 1},
+            "number of words cited": 0,
+            "number of peoples' mentions": 13,
+            "list of peoples' mentions": ['В. Виноградов', 'Ю. Лотман', 'О. Потебня', 'Н. Букс', 'М. Велер', 'В. Дятчук', 'С. Александрова', 'І. Гайдаєнко', 'В. Сидельніков', 'Л. Ставицька', 'А. Пермінова', 'А. Вежбицька', 'Л. Соболєва'],
+            "paragraph text": 'Одоративний складник довкілля в мові та мистецтві частково розглядали В. Виноградов, Ю. Лотман, О. Потебня, Н. Букс, М. Велер, В. Дятчук, С. Александрова, І. Гайдаєнко, В. Сидельніков, Л. Ставицька, А. Пермінова, А. Вежбицька, Л. Соболєва й ін. Відсутність систематизованого опису, висвітлення різноманітних рецептивних ознак одоративних образів у поетичному мовленні початку ХХ ст. зумовлюють актуальність цього дослідження.'
+            }, {
+            "paragraph number": 3,
+            "number of words": 23,
+            "number of sentences": 1,
+            "number of lists": 0,
+            "average word length": 6.95,
+            "median word length": 7,
+            "average sentence length in words": 23,
+            "median sentence length in words": 23,
+            "number of subordinate clauses": 1,
+            "average number of subordinate clauses per sentence": 1,
+            "median number of subordinate clauses per sentence": 1,
+            "dictionary of subordinates": {'щоб': 1},
+            "number of functors": 5,
+            "average number of functors per sentence": 5,
+            "median number of functors per sentence": 5,
+            "dictionary of functors": {'в': 1,'щоб': 1,'на': 1,'та': 1,'у': 1},
+            "number of -nnia nouns": 3,
+            "average number of -nnia nouns per sentence": 3,
+            "median number of -nnia nouns per sentence": 3,
+            "dictionary of -nnia nouns": {'дослідження': 1, 'найменування': 1, 'мовлення': 1},
+            "number of words cited": 0,
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "paragraph text": 'Мета дослідження полягає в тому, щоб на основі описового та концептуального аналізів виявити ознаки одоративних найменувань у європейському поетичному мовленні початку ХХ ст.'
+            }, {
+            "paragraph number": 4,
+            "number of words": 78,
+            "number of sentences": 5,
+            "average word length": 7.076,
+            "median word length": 8,
+            "average sentence length in words": 15.6,
+            "median sentence length in words": 18,
+            "number of lists": 0,
+            "number of subordinate clauses": 0,
+            "average number of subordinate clauses per sentence": 0,
+            "median number of subordinate clauses per sentence": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 11,
+            "average number of functors per sentence": 2.2,
+            "median number of functors per sentence": 3,
+            "dictionary of functors": {'для': 1, 'та': 2, 'у': 1, 'і': 2, 'до': 1, 'з': 1, 'в': 1, 'не': 1, 'від': 1},
+            "number of -nnia nouns": 6,
+            "average number of -nnia nouns per sentence": 1.2,
+            "median number of -nnia nouns per sentence": 1,
+            "dictionary of -nnia nouns": {'відчуття': 2, 'повернення': 1, 'дослідження': 1, 'сприйняття': 1, 'вивчення': 1},
+            "number of words cited": 26,
+            "number of peoples' mentions": 9,
+            "list of peoples' mentions": ['Е. Гуссерля', 'М. Мерло-Понті', 'Д. Гібсона', 'В. Подороги', 'Є. Жирицька', 'О. Левінсон', 'Г. Кабакова', 'О. Кушліна', 'Р. Кірсанова'],
+            "paragraph text": 'Актуальною ця тема є для вчених-філософів. “У філософській антропонімії та у філософії культури загалом культурна сенсорика (культура відчуттів) викликає все більший і більший інтерес. Сучасна ситуація передбачає повернення до одоративного складника світу” [Корчова-Тюрина : 3]. Філософська оцінка аромату пов’язана з дослідженнями феноменології сприйняття в роботах Е. Гуссерля, М. Мерло-Понті, Д. Гібсона, В. Подороги та інших. Усе більший інтерес викликає культура відчуттів, не залишилися осторонь від вивчення запахів і культурологи (Є. Жирицька, О. Левінсон, Г. Кабакова, О. Кушліна, Р. Кірсанова тощо).'
+            }, {
+            "paragraph number": 5,
+            "number of words": 162,
+            "number of sentences": 7,
+            "number of lists": 0,
+            "average word length": 6.42,
+            "median word length": 6,
+            "average sentence length in words": 23.14,
+            "median sentence length in words": 20,
+            "number of subordinate clauses": 5,
+            "average number of subordinate clauses per sentence": 0.714,
+            "median number of subordinate clauses per sentence": 1,
+            "dictionary of subordinates": {'коли': 1, 'як': 1, 'яка': 1, 'які': 1, 'в якій': 1},
+            "number of functors": 27,
+            "average number of functors per sentence": 3.86,
+            "median number of functors per sentence": 3,
+            "dictionary of functors": {'це': 2, 'і': 5, 'в': 4, 'у': 3, 'на': 4, 'а': 1, 'та': 2, 'з': 1, 'до': 1, 'що': 1, 'не': 1, 'тільки': 1, 'коли': 1},
+            "number of -nnia nouns": 6,
+            "average number of -nnia nouns per sentence": 0.86,
+            "median number of -nnia nouns per sentence": 0,
+            "dictionary of -nnia nouns": {'відображення': 1, 'почуття': 1, 'вираження': 1, 'виділення': 1, 'досягнення': 1, 'питання': 1},
+            "number of words cited": 57,
+            "number of peoples' mentions": 7,
+            "list of peoples' mentions": ['Карл Лінней', 'Х. Цваардемакер', 'Крокера', 'Хендерсона', 'Хенінга', 'М. Плужников', 'С. Рязанцев'],
+            "paragraph text": 'Мовна картина світу – це відображення людських думок і почуттів, які “цікавлять лінгвіста в тій мірі, в якій вони мають певні форми і типи вираження у самій мові” [Будагов : 3]. Існує декілька нелінгвістичних характеристик запахів: ще в 1756 р. Карл Лінней запропонував свою класифікацію, розділивши всі запахи на сім класів, Х. Цваардемакер поділив усі одоративні речовини на девʼять класів (він опублікував перший варіант своєї одоративної системи в 1895 р., а остаточний – у 1914 р.). Досить широко використовується класифікація запахів Крокера і Хендерсона, яка базується на виділенні чотирьох основних запахів: ароматного, кислого, паленого та каприлового (у перекладі з латинської – “козлиного”). Відповідно до “нюхової призми” Хенінга (1924) визначають кілька відтінків нюху: квітковий, фруктовий, пряний, смолистий і пригорілий. Проте, як пишуть М. Плужников і С. Рязанцев, “поки що не маємо науково обґрунтованої системи класифікації запахів. Незважаючи на значні досягнення хімії та фізіології, це питання залишається відкритим. Мабуть, створити чітку систему класифікації запахів буде можливо тільки тоді, коли буде створена єдина, науково обґрунтована теорія нюху” [Плужников : 19].'
+            }, {
+            "paragraph number": 6,
+            "number of words": 65,
+            "number of sentences": 1,
+            "number of lists": 1,
+            "average word length": 6.6,
+            "median word length": 6,
+            "average sentence length in words": 65,
+            "median sentence length in words": 65,
+            "number of subordinate clauses": 1,
+            "average number of subordinate clauses per sentence": 1,
+            "median number of subordinate clauses per sentence": 1,
+            "dictionary of subordinates": {'що не': 1},
+            "number of functors": 3,
+            "average number of functors per sentence": 3,
+            "median number of functors per sentence": 3,
+            "dictionary of functors": {'та': 1, 'що': 1, 'не': 1},
+            "number of -nnia nouns": 2,
+            "average number of -nnia nouns per sentence": 2,
+            "median number of -nnia nouns per sentence": 2,
+            "dictionary of -nnia nouns": {'приміщення': 1, 'поняття': 1},
+            "number of words cited": 0,
+            "number of peoples' mentions": 2,
+            "list of peoples' mentions": ['Т. Плужникова', 'М. Булгакова'],
+            "paragraph text": 'Т. Плужникова, досліджуючи мовний матеріал творів М. Булгакова, схематично визначила декілька розрядів одоративних слів:
+1) запах окремих предметів;
+2) запах приміщення;
+3) запах парфумів та інших ароматичних речовин;
+4) запах ліків;
+5) запах гостро пахучих речовин;
+6) запах їжі;
+7) запах диму;
+8) запах рослин;
+9) фізіологічні запахи;
+10) запах тварин;
+11) запах реалій, що не мають запаху (напр.: повітря, абстрактних понять тощо [Плужникова : 171–177].'
+            }, {
+            "paragraph number": 7,
+            "number of words": 101,
+            "number of sentences": 4,
+            "number of lists": 0,
+            "average word length": 6.07,
+            "median word length": 6,
+            "average sentence length in words": 25.25,
+            "median sentence length in words": 28,
+            "number of subordinate clauses": 3,
+            "average number of subordinate clauses per sentence": 0.75,
+            "median number of subordinate clauses per sentence": 0.5,
+            "dictionary of subordinates": {'бо': 1, 'за яким': 1, 'як': 1},
+            "number of functors": 18,
+            "average number of functors per sentence": 4.5,
+            "median number of functors per sentence": 4.5,
+            "dictionary of functors": {'за': 4, 'в': 2, 'у': 2, 'і': 3, 'чи': 1, 'не': 1, 'до': 1, 'й': 1, 'по': 1, 'але': 1, 'про': 1},
+            "number of -nnia nouns": 4,
+            "average number of -nnia nouns per sentence": 1,
+            "median number of -nnia nouns per sentence": 1,
+            "dictionary of -nnia nouns": {'означення': 1, 'бажання': 1, 'навіювання': 1, 'уявлення': 1},
+            "number of words cited": 47,
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "paragraph text": 'Одоративні відчуття надзвичайно складні за своєю природою, бо позбавлені власного лексичного спектру, одоративні емоції знаходять підтримку в суміжних відчуттях, у характеристичних означеннях і, звичайно, у тому референтному полі, за яким закріплений реальний чи уявний запах. Останнє і робить одоративну сферу буття індивіда асоціативною за визначенням. Важко не погодитись із такою кваліфікацією запаху: “запах діє, як музика: він звернений до підсвідомого, викликає в нашій уяві мрії й спогади наперекір бажанням нашого розумового “я”, володіє значною силою навіювання, його вплив ірраціональний. Запах сам по собі може виникати як спогад і вести за собою напівстерті, але раптом оживаючі, уявлення про форми, звуки” [Белецкий : 217].'
+            }, {
+            "paragraph number": 8,
+            "number of words": 67,
+            "number of sentences": 1,
+            "number of lists": 1,
+            "average word length": 5.92,
+            "median word length": 6,
+            "average sentence length in words": 67,
+            "median sentence length in words": 67,
+            "number of subordinate clauses": 1,
+            "average number of subordinate clauses per sentence": 1,
+            "median number of subordinate clauses per sentence": 1,
+            "dictionary of subordinates": {'які': 1},
+            "number of functors": 0,
+            "average number of functors per sentence": 0,
+            "median number of functors per sentence": 0,
+            "dictionary of functors": {},
+            "number of -nnia nouns": 1,
+            "average number of -nnia nouns per sentence": 1,
+            "median number of -nnia nouns per sentence": 1,
+            "dictionary of -nnia nouns": {'враження': 1},
+            "number of words cited": 42,
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "paragraph text": '1. Безпосередня фіксація одоративних вражень, які зумовлені конкретним фактом дійсності, напр.: Журчит вода, протачивая шлюзы, / Сырой травою пахнет мгла (Г, 89), Вот луг, где сладкий запах меда / Смешался с запахом болот (Г, 105), Свежих лилий аромат (А, 20), Всё сильнее запах тёплый / Мёртвой лебеды (А, 20), Прокисший воздух плесенью веет (МВ, 72), Пахнет уксусом, краской и свежим вином из подвала (МО, 174), Тонкий воздух кожи (МО, 199).'
+            }, {
+            "paragraph number": 9,
+            "number of words": 60,
+            "number of sentences": 1,
+            "number of lists": 0,
+            "average word length": 6.85,
+            "median word length": 7,
+            "average sentence length in words": 60,
+            "median sentence length in words": 60,
+            "number of subordinate clauses": 0,
+            "average number of subordinate clauses per sentence": 0,
+            "median number of subordinate clauses per sentence": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 5,
+            "average number of functors per sentence": 5,
+            "median number of functors per sentence": 5,
+            "dictionary of functors": {'до': 1, 'через': 1, 'в': 1, 'і': 1, 'навіть': 1},
+            "number of -nnia nouns": 3,
+            "average number of -nnia nouns per sentence": 3,
+            "median number of -nnia nouns per sentence": 3,
+            "dictionary of -nnia nouns": {'відтворення': 1, 'походження': 1, 'зображення': 1},
+            "number of words cited": 23,
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "paragraph text": 'Окремі автори, прагнучи до відтворення тогочасної реальної дійсності, виважено використовують одоративні образи урбаністичного походження, напр.: Бензина запах и сирени, / Насторожившийся покой (А, 42), інші – через зображення селянського побуту прагнуть увиразнити національний колорит, напр.: Пахнет рыхлыми драченами: / У порога в дежке квас (Е, 38), і навіть зберегти релігійний контекст образів: Пахнет яблоком и медом / По церквам твой кроткий спас (Е, 40).'
+            }, {
+            "paragraph number": 10,
+            "number of words": 94,
+            "number of sentences": 2,
+            "number of lists": 1,
+            "average word length": 6.185,
+            "median word length": 6,
+            "average sentence length in words": 47,
+            "median sentence length in words": 47,
+            "number of subordinate clauses": 3,
+            "average number of subordinate clauses per sentence": 1.5,
+            "median number of subordinate clauses per sentence": 1.5,
+            "dictionary of subordinates": {'за якими': 1, 'кому': 1, 'що': 1},
+            "number of functors": 5,
+            "average number of functors per sentence": 2.5,
+            "median number of functors per sentence": 2.5,
+            "dictionary of functors": {'за': 1, 'в': 1, 'що': 1, 'і': 1, 'у': 1},
+            "number of -nnia nouns": 0,
+            "average number of -nnia nouns per sentence": 0,
+            "median number of -nnia nouns per sentence": 0,
+            "dictionary of -nnia nouns": {},
+            "number of words cited": 39,
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "paragraph text": '2. Запахові властивості надаються реаліям, за якими в художній уяві поета закріплені конкретні джерела запаху: Черёмуха душистая / С весною расцвела (Е, 61), Пьяный пах медових сот (Е, 67), Свежий ветер моря (Г, 114), Едкий, душный запах дёгтя (А, 36), Сладок запах синих виноградин (А, 20), Пахнет дымом бедная овчина (МО, 205), С розоватым винным паром / Полетит шашлычный дым (МО, 206), Кому душистое с корицею вино (МО, 217), Лесным пахучим мёдом (Х, 75). Науковці вважають, що словесно-образні формули типу запашна весна (осінь), пахне вітер, пахучий вітер становлять собою самоцінний і самодостатній образ у художньому тексті.'
+            }, {
+            "paragraph number": 11,
+            "number of words": 38,
+            "number of sentences": 2,
+            "number of lists": 0,
+            "average word length": 6.78,
+            "median word length": 7,
+            "average sentence length in words": 19,
+            "median sentence length in words": 19,
+            "number of subordinate clauses": 1,
+            "average number of subordinate clauses per sentence": 0.5,
+            "median number of subordinate clauses per sentence": 0.5,
+            "dictionary of subordinates": {'як': 1},
+            "number of functors": 4,
+            "average number of functors per sentence": 2,
+            "median number of functors per sentence": 2,
+            "dictionary of functors": {'та': 1, 'у': 1, 'зі': 1, 'і': 1},
+            "number of -nnia nouns": 1,
+            "average number of -nnia nouns per sentence": 0.5,
+            "median number of -nnia nouns per sentence": 0.5,
+            "dictionary of -nnia nouns": {'вживання': 1},
+            "number of words cited": 0,
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "paragraph text": 'Таким чином, одоративні відчуття допомагають глибше, яскравіше розпізнати складну психологію поезії людських почуттів, характерів, зрозуміти соціальні події, відчути їх значення та вагу. У міру того, як збільшувалося вживання лексики зі значенням ‘запах’, зростала і її функціонально-стилістична роль.'
+            }],
+    "structure per sentence": [{
+            "paragraph number": 1,
+            "sentence number": 1,
+            "number of words": 33,
+            "average number of symbols per word": 7.94,
+            "median number of symbols per word": 8,
+            "number of subordinate clauses": 1,
+            "dictionary of subordinates": {'серед яких': 1},
+            "number of functors": 3,
+            "dictionary of functors": {'й': 1, 'з': 1, 'та': 1},
+            "number of -nnia nouns": 0,
+            "dictionary of -nnia nouns": [],
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Художньо-образна структура поетичного твору складна й багатокомпонентна, вона утворюється з найрізноманітніших чинників, серед яких центральне місце посідають типові символи довкілля, широкий спектр онімічних одиниць, номінації об’єктів біосфери, кольороназви, темпоральні, звукові та одоративні образи.'
+            }, {
+            "paragraph number": 1,
+            "sentence number": 2,
+            "number of words": 14,
+            "average number of symbols per word": 8.21,
+            "median number of symbols per word": 8,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 1,
+            "dictionary of functors": {'про': 1},
+            "number of -nnia nouns": 3,
+            "dictionary of -nnia nouns": {'розуміння': 1, 'прагнення': 1, 'уявлення': 1},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Їхнє філософське розуміння підпорядковане авторській ідеї, прагненню відтворити сутнісні ознаки індивідуального уявлення про світ.'
+            }, {
+            "paragraph number": 2,
+            "sentence number": 1, 
+            "number of words": 37,
+            "average number of symbols per word": 7.26,
+            "median number of symbols per word": 8,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 3,
+            "dictionary of functors": {'в': 1, 'та': 1, 'й': 1},
+            "number of -nnia nouns": 0,
+            "dictionary of -nnia nouns": {},
+            "number of peoples' mentions": 13,
+            "list of peoples' mentions": ['В. Виноградов', 'Ю. Лотман', 'О. Потебня', 'Н. Букс', 'М. Велер', 'В. Дятчук', 'С. Александрова', 'І. Гайдаєнко', 'В. Сидельніков', 'Л. Ставицька', 'А. Пермінова', 'А. Вежбицька', 'Л. Соболєва'], 
+            "sentence text": 'Одоративний складник довкілля в мові та мистецтві частково розглядали В. Виноградов, Ю. Лотман, О. Потебня, Н. Букс, М. Велер, В. Дятчук, С. Александрова, І. Гайдаєнко, В. Сидельніков, Л. Ставицька, А. Пермінова, А. Вежбицька, Л. Соболєва й ін.'
+            }, {
+            "paragraph number": 2,
+            "sentence number": 2,
+            "number of words": 19,
+            "average number of symbols per word": 9.12,
+            "median number of symbols per word": 10,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 1,
+            "dictionary of functors": {'у': 1},
+            "number of -nnia nouns": 3,
+            "dictionary of -nnia nouns": {'висвітлення': 1, 'мовлення': 1, 'дослідження': 1},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [], 
+            "sentence text": 'Відсутність систематизованого опису, висвітлення різноманітних рецептивних ознак одоративних образів у поетичному мовленні початку ХХ ст. зумовлюють актуальність цього дослідження.'
+            }, {
+            "paragraph number": 3,
+            "sentence number": 1,
+            "number of words": 23,
+            "average number of symbols per word": 6.95,
+            "median number of symbols per word": 7,
+            "number of subordinate clauses": 1,
+            "dictionary of subordinates": {'щоб': 1},
+            "number of functors": 5,
+            "dictionary of functors": {'в': 1,'щоб': 1,'на': 1,'та': 1,'у': 1},
+            "number of -nnia nouns": 3,
+            "dictionary of -nnia nouns": {'дослідження': 1, 'найменування': 1, 'мовлення': 1},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Мета дослідження полягає в тому, щоб на основі описового та концептуального аналізів виявити ознаки одоративних найменувань у європейському поетичному мовленні початку ХХ ст.'
+            }, {
+            "paragraph number": 4,
+            "sentence number": 1,
+            "number of words": 6,
+            "average number of symbols per word": 5.83,
+            "median number of symbols per word": 3.5,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 1,
+            "dictionary of functors": {'для': 1},
+            "number of -nnia nouns": 0,
+            "dictionary of -nnia nouns": {},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Актуальною ця тема є для вчених-філософів.'
+            }, {
+            "paragraph number": 4,
+            "sentence number": 2,
+            "number of words": 18,
+            "average number of symbols per word": 6.666,
+            "median number of symbols per word": 7.5,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 3,
+            "dictionary of functors": {'та': 1, 'у': 1, 'і': 1},
+            "number of -nnia nouns": 1,
+            "dictionary of -nnia nouns": {'відчуття': 1},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": '“У філософській антропонімії та у філософії культури загалом культурна сенсорика (культура відчуттів) викликає все більший і більший інтерес.'
+            }, {
+            "paragraph number": 4,
+            "sentence number": 3,
+            "number of words": 10,
+            "average number of symbols per word": 8.66,
+            "median number of symbols per word": 9,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 1,
+            "dictionary of functors": {'до': 1},
+            "number of -nnia nouns": 1,
+            "dictionary of -nnia nouns": {'повернення': 1},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Сучасна ситуація передбачає повернення до одоративного складника світу” [Корчова-Тюрина : 3].'
+            }, {
+            "paragraph number": 4,
+            "sentence number": 4,
+            "number of words": 20,
+            "average number of symbols per word": 7.375,
+            "median number of symbols per word": 7.5,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 3,
+            "dictionary of functors": {'з': 1, 'в': 1, 'та': 1},
+            "number of -nnia nouns": 2,
+            "dictionary of -nnia nouns": {'дослідження': 1, 'сприйняття': 1},
+            "number of peoples' mentions": 4,
+            "list of peoples' mentions": ['Е. Гуссерля', 'М. Мерло-Понті', 'Д. Гібсона', 'В. Подороги'],
+            "sentence text": 'Філософська оцінка аромату пов’язана з дослідженнями феноменології сприйняття в роботах Е. Гуссерля, М. Мерло-Понті, Д. Гібсона, В. Подороги та інших.'
+            }, {
+            "paragraph number": 4,
+            "sentence number": 5,
+            "number of words": 25,
+            "average number of symbols per word": 6.85,
+            "median number of symbols per word": 8,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 3,
+            "dictionary of functors": {'не': 1, 'від': 1, 'і': 1},
+            "number of -nnia nouns": 2,
+            "dictionary of -nnia nouns": {'відчуття': 1, 'вивчення': 1},
+            "number of peoples' mentions": 5,
+            "list of peoples' mentions": ['Є. Жирицька', 'О. Левінсон', 'Г. Кабакова', 'О. Кушліна', 'Р. Кірсанова'],
+            "sentence text": 'Усе більший інтерес викликає культура відчуттів, не залишилися осторонь від вивчення запахів і культурологи (Є. Жирицька, О. Левінсон, Г. Кабакова, О. Кушліна, Р. Кірсанова тощо).'
+            }, {
+            "paragraph number": 5,
+            "sentence number": 1,
+            "number of words": 29,
+            "average number of symbols per word": 4.93,
+            "median number of symbols per word": 5,
+            "number of subordinate clauses": 2,
+            "dictionary of subordinates": {'які': 1, 'в якій': 1},
+            "number of functors": 6,
+            "dictionary of functors": {'це': 1, 'і': 2, 'в': 2, 'у': 1},
+            "number of -nnia nouns": 3,
+            "dictionary of -nnia nouns": {'відображення': 1, 'почуття': 1, 'вираження': 1},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Мовна картина світу – це відображення людських думок і почуттів, які “цікавлять лінгвіста в тій мірі, в якій вони мають певні форми і типи вираження у самій мові” [Будагов : 3].'
+            }, {
+            "paragraph number": 5,
+            "sentence number": 2,
+            "number of words": 44,
+            "average number of symbols per word": 6.4,
+            "median number of symbols per word": 6,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 6,
+            "dictionary of functors": {'в': 2, 'на': 2, 'а': 1, 'у': 1},
+            "number of -nnia nouns": 0,
+            "dictionary of -nnia nouns": {},
+            "number of peoples' mentions": 2,
+            "list of peoples' mentions": ['Карл Лінней', 'Х. Цваардемакер'],
+            "sentence text": 'Існує декілька нелінгвістичних характеристик запахів: ще в 1756 р. Карл Лінней запропонував свою класифікацію, розділивши всі запахи на сім класів, Х. Цваардемакер поділив усі одоративні речовини на девʼять класів (він опублікував перший варіант своєї одоративної системи в 1895 р., а остаточний – у 1914 р.).'
+            }, {
+            "paragraph number": 5,
+            "sentence number": 3,
+            "number of words": 25,
+            "average number of symbols per word": 7.24,
+            "median number of symbols per word": 8,
+            "number of subordinate clauses": 1,
+            "dictionary of subordinates": {'яка': 1},
+            "number of functors": 5,
+            "dictionary of functors": {'і': 1, 'на': 1, 'та': 1, 'у': 1, 'з': 1},
+            "number of -nnia nouns": 1,
+            "dictionary of -nnia nouns": {'виділення': 1},
+            "number of peoples' mentions": 2,
+            "list of peoples' mentions": ['Крокера', 'Хендерсона'],
+            "sentence text": 'Досить широко використовується класифікація запахів Крокера і Хендерсона, яка базується на виділенні чотирьох основних запахів: ароматного, кислого, паленого та каприлового (у перекладі з латинської – “козлиного”).'
+            }, {
+            "paragraph number": 5,
+            "sentence number": 4,
+            "number of words": 16,
+            "average number of symbols per word": 7.00,
+            "median number of symbols per word": 7,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 2,
+            "dictionary of functors": {'до': 1, 'і': 1},
+            "number of -nnia nouns": 0,
+            "dictionary of -nnia nouns": {},
+            "number of peoples' mentions": 1,
+            "list of peoples' mentions": ['Хенінга'],
+            "sentence text": 'Відповідно до “нюхової призми” Хенінга (1924) визначають кілька відтінків нюху: квітковий, фруктовий, пряний, смолистий і пригорілий.'
+            }, {
+            "paragraph number": 5,
+            "sentence number": 5,
+            "number of words": 17,
+            "average number of symbols per word": 6.06,
+            "median number of symbols per word": 6,
+            "number of subordinate clauses": 1,
+            "dictionary of subordinates": {'як': 1},
+            "number of functors": 3,
+            "dictionary of functors": {'і': 1, 'що': 1, 'не': 1},
+            "number of -nnia nouns": 0,
+            "dictionary of -nnia nouns": {},
+            "number of peoples' mentions": 2,
+            "list of peoples' mentions": ['М. Плужников', 'С. Рязанцев'],
+            "sentence text": 'Проте, як пишуть М. Плужников і С. Рязанцев, “поки що не маємо науково обґрунтованої системи класифікації запахів.'
+            }, {
+            "paragraph number": 5,
+            "sentence number": 6,
+            "number of words": 11,
+            "average number of symbols per word": 6.72,
+            "median number of symbols per word": 7,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 3,
+            "dictionary of functors": {'на': 1, 'та': 1, 'це': 1},
+            "number of -nnia nouns": 2,
+            "dictionary of -nnia nouns": {'досягнення': 1, 'питання': 1},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Незважаючи на значні досягнення хімії та фізіології, це питання залишається відкритим.'
+            }, {
+            "paragraph number": 5,
+            "sentence number": 7,
+            "number of words": 20,
+            "average number of symbols per word": 6.58,
+            "median number of symbols per word": 6,
+            "number of subordinate clauses": 1,
+            "dictionary of subordinates": {'коли': 1},
+            "number of functors": 2,
+            "dictionary of functors": {'тільки': 1, 'коли': 1},
+            "number of -nnia nouns": 0,
+            "dictionary of -nnia nouns": {},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Мабуть, створити чітку систему класифікації запахів буде можливо тільки тоді, коли буде створена єдина, науково обґрунтована теорія нюху” [Плужников : 19].'
+            }, {
+            "paragraph number": 6,
+            "sentence number": 1,
+            "number of words": 65,
+            "average number of symbols per word": 6.6,
+            "median number of symbols per word": 6,
+            "number of subordinate clauses": 1,
+            "dictionary of subordinates": {'що не': 1},
+            "number of functors": 3,
+            "dictionary of functors": {'та': 1, 'що': 1, 'не': 1},
+            "number of -nnia nouns": 2,
+            "dictionary of -nnia nouns": {'приміщення': 1, 'поняття': 1},
+            "number of peoples' mentions": 2,
+            "list of peoples' mentions": ['Т. Плужникова', 'М. Булгакова'],
+            "sentence text": 'Т. Плужникова, досліджуючи мовний матеріал творів М. Булгакова, схематично визначила декілька розрядів одоративних слів:
+1) запах окремих предметів;
+2) запах приміщення;
+3) запах парфумів та інших ароматичних речовин;
+4) запах ліків;
+5) запах гостро пахучих речовин;
+6) запах їжі;
+7) запах диму;
+8) запах рослин;
+9) фізіологічні запахи;
+10) запах тварин;
+11) запах реалій, що не мають запаху (напр.: повітря, абстрактних понять тощо [Плужникова : 171–177].'
+            }, {
+            "paragraph number": 7,
+            "sentence number": 1,
+            "number of words": 35,
+            "average number of symbols per word": 6.71,
+            "median number of symbols per word": 8,
+            "number of subordinate clauses": 2,
+            "dictionary of subordinates": {'бо': 1, 'за яким': 1},
+            "number of functors": 7,
+            "dictionary of functors": {'за': 2, 'в': 1, 'у': 2, 'і': 1, 'чи': 1},
+            "number of -nnia nouns": 1,
+            "dictionary of -nnia nouns": {'означення': 1},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Одоративні відчуття надзвичайно складні за своєю природою, бо позбавлені власного лексичного спектру, одоративні емоції знаходять підтримку в суміжних відчуттях, у характеристичних означеннях і, звичайно, у тому референтному полі, за яким закріплений реальний чи уявний запах.'
+            }, {
+            "paragraph number": 7,
+            "sentence number": 2,
+            "number of words": 10,
+            "average number of symbols per word": 6.7,
+            "median number of symbols per word": 6.5
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 2,
+            "dictionary of functors": {'і': 1, 'за': 1},
+            "number of -nnia nouns": 0,
+            "dictionary of -nnia nouns": {},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Останнє і робить одоративну сферу буття індивіда асоціативною за визначенням.'
+            }, {
+            "paragraph number": 7,
+            "sentence number": 3,
+            "number of words": 34,
+            "average number of symbols per word": 5.91,
+            "median number of symbols per word": 5,
+            "number of subordinate clauses": 1,
+            "dictionary of subordinates": {'як': 1},
+            "number of functors": 4,
+            "dictionary of functors": {'не': 1, 'до': 1, 'в': 1, 'й': 1},
+            "number of -nnia nouns": 2,
+            "dictionary of -nnia nouns": {'бажання': 1, 'навіювання': 1},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Важко не погодитись із такою кваліфікацією запаху: “запах діє, як музика: він звернений до підсвідомого, викликає в нашій уяві мрії й спогади наперекір бажанням нашого розумового “я”, володіє значною силою навіювання, його вплив ірраціональний.'
+            }, {
+            "paragraph number": 7,
+            "sentence number": 4,
+            "number of words": 22,
+            "average number of symbols per word": 4.95,
+            "median number of symbols per word": 5,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 5,
+            "dictionary of functors": {'по': 1, 'і': 1, 'за': 1, 'але': 1, 'про': 1},
+            "number of -nnia nouns": 1,
+            "dictionary of -nnia nouns": {'уявлення': 1},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Запах сам по собі може виникати як спогад і вести за собою напівстерті, але раптом оживаючі, уявлення про форми, звуки” [Белецкий : 217].'
+            }, {
+            "paragraph number": 8,
+            "sentence number": 1,
+            "number of words": 67,
+            "average number of symbols per word": 5.92,
+            "median number of symbols per word": 6,
+            "number of subordinate clauses": 1,
+            "dictionary of subordinates": {'які': 1},
+            "number of functors": 0,
+            "dictionary of functors": {},
+            "number of -nnia nouns": 1,
+            "dictionary of -nnia nouns": {'враження': 1},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": '1. Безпосередня фіксація одоративних вражень, які зумовлені конкретним фактом дійсності, напр.: Журчит вода, протачивая шлюзы, / Сырой травою пахнет мгла (Г, 89), Вот луг, где сладкий запах меда / Смешался с запахом болот (Г, 105), Свежих лилий аромат (А, 20), Всё сильнее запах тёплый / Мёртвой лебеды (А, 20), Прокисший воздух плесенью веет (МВ, 72), Пахнет уксусом, краской и свежим вином из подвала (МО, 174), Тонкий воздух кожи (МО, 199).'
+            }, { 
+            "paragraph number": 9,
+            "sentence number": 1,
+            "number of words": 60,
+            "average number of symbols per word": 6.85,
+            "median number of symbols per word": 7,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 5,
+            "dictionary of functors": {'до': 1, 'через': 1, 'в': 1, 'і': 1, 'навіть': 1},
+            "number of -nnia nouns": 3,
+            "dictionary of -nnia nouns": {'відтворення': 1, 'походження': 1, 'зображення': 1},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Окремі автори, прагнучи до відтворення тогочасної реальної дійсності, виважено використовують одоративні образи урбаністичного походження, напр.: Бензина запах и сирени, / Насторожившийся покой (А, 42), інші – через зображення селянського побуту прагнуть увиразнити національний колорит, напр.: Пахнет рыхлыми драченами: / У порога в дежке квас (Е, 38), і навіть зберегти релігійний контекст образів: Пахнет яблоком и медом / По церквам твой кроткий спас (Е, 40).'
+            }, {
+            "paragraph number": 10,
+            "sentence number": 1,
+            "number of words": 72,
+            "average number of symbols per word": 5.83,
+            "median number of symbols per word": 6,
+            "number of subordinate clauses": 2,
+            "dictionary of subordinates": {'за якими': 1, 'кому': 1},
+            "number of functors": 2,
+            "dictionary of functors": {'за': 1, 'в': 1},
+            "number of -nnia nouns": 0,
+            "dictionary of -nnia nouns": {},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": '2. Запахові властивості надаються реаліям, за якими в художній уяві поета закріплені конкретні джерела запаху: Черёмуха душистая / С весною расцвела (Е, 61), Пьяный пах медових сот (Е, 67), Свежий ветер моря (Г, 114), Едкий, душный запах дёгтя (А, 36), Сладок запах синих виноградин (А, 20), Пахнет дымом бедная овчина (МО, 205), С розоватым винным паром / Полетит шашлычный дым (МО, 206), Кому душистое с корицею вино (МО, 217), Лесным пахучим мёдом (Х, 75).'
+            }, {
+            "paragraph number": 10,
+            "sentence number": 2,
+            "number of words": 22,
+            "average number of symbols per word": 6.54,
+            "median number of symbols per word": 5.5,
+            "number of subordinate clauses": 1,
+            "dictionary of subordinates": {'що': 1},
+            "number of functors": 3,
+            "dictionary of functors": {'що': 1, 'і': 1, 'у': 1},
+            "number of -nnia nouns": 0,
+            "dictionary of -nnia nouns": {},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Науковці вважають, що словесно-образні формули типу запашна весна (осінь), пахне вітер, пахучий вітер становлять собою самоцінний і самодостатній образ у художньому тексті.'
+            }, {
+            "paragraph number": 11,
+            "sentence number": 1,
+            "number of words": 22,
+            "average number of symbols per word": 7.23,
+            "median number of symbols per word": 8,
+            "number of subordinate clauses": 0,
+            "dictionary of subordinates": {},
+            "number of functors": 1,
+            "dictionary of functors": {'та': 1},
+            "number of -nnia nouns": 0,
+            "dictionary of -nnia nouns": {},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'Таким чином, одоративні відчуття допомагають глибше, яскравіше розпізнати складну психологію поезії людських почуттів, характерів, зрозуміти соціальні події, відчути їх значення та вагу.'
+            }, {
+            "paragraph number": 11,
+            "sentence number": 2,
+            "number of words": 16,
+            "average number of symbols per word": 6.33,
+            "median number of symbols per word": 4,
+            "number of subordinate clauses": 1,
+            "dictionary of subordinates": {'як': 1},
+            "number of functors": 3,
+            "dictionary of functors": {'у': 1, 'зі': 1, 'і': 1},
+            "number of -nnia nouns": 1,
+            "dictionary of -nnia nouns": {'вживання': 1},
+            "number of peoples' mentions": 0,
+            "list of peoples' mentions": [],
+            "sentence text": 'У міру того, як збільшувалося вживання лексики зі значенням ‘запах’, зростала і її функціонально-стилістична роль.'
+            }], 
+    }}]
+}
+
